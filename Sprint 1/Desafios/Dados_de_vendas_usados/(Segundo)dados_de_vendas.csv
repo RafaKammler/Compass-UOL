@@ -1,67 +1,69 @@
-ID,Produto,Quantidade,Preço,Data de Validade
-1,Camiseta,10,29.90,01/05/2023
-2,Calça,20,80.00,02/06/2023
-3,Sapato,15,100.00,03/07/2023
-4,Meia,30,5.00,04/08/2023
-5,Cinto,25,15.00,05/09/2023
-6,Camisa,12,40.00,06/10/2023
-7,Bermuda,18,50.00,07/11/2023
-8,Tênis,8,120.00,08/12/2023
-9,Boné,40,10.00,09/01/2024
-10,Casaco,5,150.00,10/02/2024
-11,Mochila,15,60.00,11/03/2024
-12,Livro,20,20.00,12/04/2024
-13,Caderno,25,8.00,13/05/2024
-14,Lápis,40,1.00,14/06/2024
-15,Borracha,35,0.50,15/07/2024
-16,Cola,20,2.50,16/08/2024
-17,Régua,18,4.00,17/09/2024
-18,Pincel Atômico,30,5.00,18/10/2024
-19,Papel Sulfite A4 500 Folhas,22,25.00,19/11/2024
-20,Pasta Sanfonada,16,35.00,20/12/2024
-21,Fone de Ouvido,22,80.00,21/01/2025
-22,Mouse Sem Fio,24,50.00,22/02/2025
-23,Filtro de Linha,28,30.00,23/03/2025
-24,Cabo HDMI,32,15.00,24/04/2025
-25,Pilha AA,40,2.00,25/05/2025
-26,Luminária de Mesa,18,40.00,26/06/2025
-27,Relógio de Parede,15,20.00,27/07/2025
-28,Porta-Retrato Digital,14,100.00,28/08/2025
-29,Vaporizador de Roupas,9,150.00,29/09/2025
-30,Balança Digital,12,60.00,30/10/2025
-31,Furadeira Elétrica,6,200.00,31/11/2025
-32,Jogo de Panelas Antiaderente,7,120.00,01/12/2025
-33,Faca Elétrica,8,80.00,02/01/2026
-34,Sanduicheira Elétrica,9,40.00,03/02/2026
-35,Mixer de Alimentos,10,50.00,04/03/2026
-36,Batedeira Planetária,11,300.00,05/04/2026
-52,Guitarra Elétrica Fender,13,2999.00,06/05/2026
-53,Amplificador de Guitarra,15,799.00,07/06/2026
-54,Pedaleira Preta,20,499.00,08/07/2026
-55,Cabo para Instrumento Ninja,25,59.00,09/08/2026
-56,Palheta Dunlop,30,1.00,10/09/2026
-57,Afinador Digital,35,49.00,11/10/2026
-58,CapotraSte,40,99.00,12/11/2026
-59,Suporte para Guitarra,45,29.00,13/12/2026
-60,Correia para Guitarra,50,19.00,14/01/2027
-61,Encordoamento para Guitarra,55,39.00,15/02/2027
-62,Violão Acústico,60,299.00,16/03/2027
-63,Capa para Violão,65,99.00,17/04/2027
-64,Banqueta para Violão,70,69.00,18/05/2027
-65,Limpador de Cordas,75,29.00,19/06/2027
-66,Flauta Transversal,80,1999.00,20/07/2027
-67,Suporte para Flauta,85,79.00,21/08/2027
-68,Estojo para Flauta,90,9999.00,22/09/2027
-70,Saxofone,95,4359.00,23/10/2027
-71,Suporte para Saxofone,100,32.69,24/11/2027
-76,Teclado Musical Casio,105,784.98,25/12/2027
-77,Sintetizador de Voz,110,324.12,26/01/2028
-78,Controlador com Cabo USB,115,124.00,27/02/2028
-79,Caixa de Som JBL,120,39.99,28/03/2028
-80,Microfone Sem Fio Shure,125,2000.00,29/04/2028
-81,Pedestal para Microfone,130,150.00,30/05/2028
-82,Cabo para Microfone,135,12.50,31/06/2028
-83,Caixa Acústica,140,789.00,01/07/2028
-85,Mixer de Áudio Behringer,145,888.00,02/08/2028
-86,Fone de Ouvido Profissional AKG,150,300.00,03/09/2028
-88,Monitor Yamaha HS5,155,990.00,04/10/2028
+id,produto,quantidade,preço,data
+67,teclado,15,18.70,14/12/2022
+11,cadeira,17,22.90,27/11/2023
+56,caneta,2,3.90,18/10/2022
+29,mesa,1,50.00,19/01/2023
+39,livro,33,12.00,03/06/2023
+82,copo,8,1.99,10/05/2022
+21,garrafa,25,4.50,07/07/2023
+93,planta,5,12.99,20/08/2023
+77,quadro,4,18.00,15/09/2023
+104,relógio,10,35.00,21/10/2023
+37,cama,3,100.00,05/12/2022
+88,travesseiro,20,10.99,14/04/2023
+69,abajur,12,29.90,26/02/2023
+101,tapete,6,8.00,08/03/2023
+52,cadeado,30,6.99,02/01/2023
+42,espelho,8,15.00,29/07/2022
+33,pente,11,3.50,14/11/2023
+73,toalha,14,7.99,11/06/2023
+22,escova,7,2.00,04/04/2023
+85,sabonete,20,0.50,20/05/2022
+98,shampoo,9,9.00,30/08/2023
+48,condicionador,18,12.00,06/09/2022
+57,creme dental,5,4.50,25/12/2022
+63,escova de dente,22,1.50,15/02/2023
+111,perfume,13,50.00,12/10/2022
+79,desodorante,16,8.99,19/11/2023
+47,maquiagem,8,25.00,27/09/2023
+112,papel higiênico,24,3.99,02/08/2023
+31,sabão em pó,19,7.90,03/05/2022
+44,amaciante,10,10.00,08/04/2023
+95,lustra móveis,4,5.99,17/09/2023
+75,água sanitária,7,2.99,01/01/2023
+14,cadeado,5,14.00,16/08/2023
+15,canivete,8,24.99,30/11/2023
+16,lanterna,12,19.50,05/04/2023
+17,kit de ferramentas,4,49.99,22/09/2023
+18,chave de fenda,10,5.50,12/12/2023
+19,marreta,3,39.99,20/03/2023
+20,serrote,6,12.99,08/06/2023
+22,tesoura de poda,7,8.75,14/07/2023
+23,pregos,25,0.99,30/01/2023
+24,trena,2,16.00,28/02/2023
+25,nível a laser,1,79.99,11/08/2023
+26,kit de reparo de pneus,5,12.49,19/06/2023
+27,lubrificante,9,6.99,06/05/2023
+28,adesivo instantâneo,11,3.00,21/04/2023
+29,rolo de pintura,18,7.25,02/11/2023
+30,espátula,14,2.50,10/10/2023
+31,baldes,20,5.99,07/09/2023
+32,luvas de trabalho,8,9.90,29/08/2023
+33,óculos de proteção,3,12.99,04/07/2023
+34,máscara de solda,6,29.00,18/03/2023
+35,boné de segurança,10,6.50,16/05/2023
+36,botas de segurança,7,54.99,26/01/2023
+37,colete de segurança,15,19.99,23/12/2023
+38,capacete,4,29.99,12/02/2023
+39,cones de sinalização,3,8.00,14/06/2023
+40,placas de sinalização,2,17.50,03/04/2023
+41,extintor de incêndio,1,99.00,05/11/2023
+42,mangueira de incêndio,5,69.99,28/09/2023
+43,alarme de incêndio,2,59.99,17/07/2023
+44,sirene de incêndio,1,39.99,22/08/2023
+45,sprinklers,6,29.99,29/05/2023
+46,escada de incêndio,3,199.99,11/04/2023
+47,plano de evacuação,1,0.99,08/03/2023
+48,kit de primeiros socorros,4,29.99,03/02/2023
+49,telefone de emergência,2,79.99,16/10/2023
+50,luminária de emergência,3,15.99,09/08/2023
