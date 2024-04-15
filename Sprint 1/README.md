@@ -31,7 +31,7 @@ Estes são os códigos usados em cada etapa do desafio
 ### Prints dos códigos no terminal ubuntu
 Estas são capturas de tela do terminal ubuntu com todos os códigos
 
-[Processamento de dados](https://github.com/RafaKammler/Compass-UOL/blob/main/Sprint%201/Desafios/prints%20de%20execu%C3%A7%C3%A3o/processamento%20de%20dados%20no%20terminal.png)
+[Processamento de dados](https://github.com/RafaKammler/Compass-UOL/blob/main/Sprint%201/Desafios/prints%20de%20execu%C3%A7%C3%A3o/processamento%20de%20dados%20no%20term.png)
 
 [Consolidação do processamento](https://github.com/RafaKammler/Compass-UOL/blob/main/Sprint%201/Desafios/prints%20de%20execu%C3%A7%C3%A3o/consolidador%20do%20processamento%20no%20terminal.png)
 
