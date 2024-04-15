@@ -40,6 +40,6 @@
 
 [Execução 3](https://github.com/RafaKammler/Compass-UOL/blob/main/Sprint%201/Desafios/prints%20de%20execu%C3%A7%C3%A3o/Terceira%20execu%C3%A7%C3%A3o%20autom%C3%A1tica.png)
 
-[Execução do consolidador](https://github.com/RafaKammler/Compass-UOL/blob/main/Sprint%201/Desafios/prints%20de%20execu%C3%A7%C3%A3o/Terceira%20execu%C3%A7%C3%A3o%20autom%C3%A1tica.png)
+[Execução do consolidador](https://github.com/RafaKammler/Compass-UOL/blob/main/Sprint%201/Desafios/prints%20de%20execu%C3%A7%C3%A3o/execu%C3%A7%C3%A3o%20da%20consolida%C3%A7%C3%A3o.png)
 
 
