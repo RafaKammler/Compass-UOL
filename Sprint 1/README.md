@@ -24,3 +24,22 @@
 
 [Código etapa 4.3](https://github.com/RafaKammler/Compass-UOL/blob/main/Sprint%201/Desafios/codigos/crontab)
 
+### Print dos códigos no terminal ubuntu
+
+[Processamento de dados](https://github.com/RafaKammler/Compass-UOL/blob/main/Sprint%201/Desafios/prints%20de%20execu%C3%A7%C3%A3o/processamento%20de%20dados%20no%20terminal.png)
+
+[Consolidação do processamento](https://github.com/RafaKammler/Compass-UOL/blob/main/Sprint%201/Desafios/prints%20de%20execu%C3%A7%C3%A3o/consolidador%20do%20processamento%20no%20terminal.png)
+
+[Crontab](https://github.com/RafaKammler/Compass-UOL/blob/main/Sprint%201/Desafios/prints%20de%20execu%C3%A7%C3%A3o/Crontab%20no%20terminal.png)
+
+### Prints dos arquivos criados na execução dos scripts
+
+[Execução 1](https://github.com/RafaKammler/Compass-UOL/blob/main/Sprint%201/Desafios/prints%20de%20execu%C3%A7%C3%A3o/Primeira%20execu%C3%A7%C3%A3o%20autom%C3%A1tica.png)
+
+[Execução 2](https://github.com/RafaKammler/Compass-UOL/blob/main/Sprint%201/Desafios/prints%20de%20execu%C3%A7%C3%A3o/Segunda%20execu%C3%A7%C3%A3o%20autom%C3%A1tica.png)
+
+[Execução 3](https://github.com/RafaKammler/Compass-UOL/blob/main/Sprint%201/Desafios/prints%20de%20execu%C3%A7%C3%A3o/Terceira%20execu%C3%A7%C3%A3o%20autom%C3%A1tica.png)
+
+[Execução do consolidador](https://github.com/RafaKammler/Compass-UOL/blob/main/Sprint%201/Desafios/prints%20de%20execu%C3%A7%C3%A3o/Terceira%20execu%C3%A7%C3%A3o%20autom%C3%A1tica.png)
+
+
