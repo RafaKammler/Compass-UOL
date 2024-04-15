@@ -5,7 +5,7 @@
 
 [Primeira alteração](https://github.com/RafaKammler/Compass-UOL/blob/main/Sprint%201/Desafios/Dados_de_vendas_usados/(Segundo)dados_de_vendas.csv)
 
-[Segunda alteração]()
+[Segunda alteração](https://github.com/RafaKammler/Compass-UOL/blob/main/Sprint%201/Desafios/Dados_de_vendas_usados/(Terceiro)dados_de_vendas.csv)
 
 ## Códigos
 [Código etapa 4.1](https://github.com/RafaKammler/Compass-UOL/blob/main/Sprint%201/Desafios/codigos/%20processamento_de_vendas.sh)
