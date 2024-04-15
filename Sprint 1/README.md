@@ -52,6 +52,7 @@ Aqui são capturas de tela dos arquivos gerados com as execuções automaticas e
 [Resumo curso Linux](https://github.com/RafaKammler/Compass-UOL/blob/main/Sprint%201/Evidencias/Resumo%20das%20aulas%20Linux)
 
 # Exercicios
+Aqui ficam os exercicios e quizes realizados durante os cursos Linux e Git
 
 ### Testes curso Linux
 
