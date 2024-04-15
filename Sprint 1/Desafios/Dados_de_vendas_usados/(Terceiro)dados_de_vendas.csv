@@ -1,0 +1,67 @@
+ID,Produto,Quantidade,Preço,Data de Validade
+1,Camiseta,15,29.90,01/09/2023
+2,Calça,25,80.00,02/10/2023
+3,Sapato,20,100.00,03/11/2023
+4,Meia,35,5.00,04/12/2023
+5,Cinto,30,15.00,05/01/2024
+6,Camisa,18,40.00,06/02/2024
+7,Bermuda,24,50.00,07/03/2024
+8,Tênis,10,120.00,08/04/2024
+9,Boné,45,10.00,09/05/2024
+10,Casaco,10,150.00,10/06/2024
+11,Mochila,20,60.00,11/07/2024
+12,Livro,25,20.00,12/08/2024
+13,Caderno,40,8.00,13/09/2024
+14,Lápis,45,1.00,14/10/2024
+15,Borracha,40,0.50,15/11/2024
+16,Cola,25,2.50,16/12/2024
+17,Régua,20,4.00,17/01/2025
+18,Pincel Atômico,35,5.00,18/02/2025
+19,Papel Sulfite A4 500 Folhas,30,25.00,19/03/2025
+20,Pasta Sanfonada,20,35.00,20/04/2025
+21,Fone de Ouvido,30,80.00,21/05/2025
+22,Mouse Sem Fio,35,50.00,22/06/2025
+23,Filtro de Linha,40,30.00,23/07/2025
+24,Cabo HDMI,45,15.00,24/08/2025
+25,Pilha AA,50,2.00,25/09/2025
+26,Luminária de Mesa,30,40.00,26/10/2025
+27,Relógio de Parede,25,20.00,27/11/2025
+28,Porta-Retrato Digital,20,100.00,28/12/2025
+29,Vaporizador de Roupas,15,150.00,29/01/2026
+30,Balança Digital,20,60.00,30/02/2026
+31,Furadeira Elétrica,10,200.00,31/03/2026
+32,Jogo de Panelas Antiaderente,15,120.00,01/04/2026
+33,Faca Elétrica,20,80.00,02/05/2026
+34,Sanduicheira Elétrica,25,40.00,03/06/2026
+35,Mixer de Alimentos,30,50.00,04/07/2026
+36,Batedeira Planetária,35,300.00,05/08/2026
+52,Guitarra Elétrica Fender,45,2999.00,06/09/2026
+53,Amplificador de Guitarra,50,799.00,07/10/2026
+54,Pedaleira Preta,60,499.00,08/11/2026
+55,Cabo para Instrumento Ninja,70,59.00,09/12/2026
+56,Palheta Dunlop,80,1.00,10/01/2027
+57,Afinador Digital,90,49.00,11/02/2027
+58,CapotraSte,100,99.00,12/03/2027
+59,Suporte para Guitarra,110,29.00,13/04/2027
+60,Correia para Guitarra,120,19.00,14/05/2027
+61,Encordoamento para Guitarra,130,39.00,15/06/2027
+62,Violão Acústico,140,299.00,16/07/2027
+63,Capa para Violão,150,99.00,17/08/2027
+64,Banqueta para Violão,160,69.00,18/09/2027
+65,Limpador de Cordas,170,29.00,19/10/2027
+66,Flauta Transversal,180,1999.00,20/11/2027
+67,Suporte para Flauta,190,79.00,21/12/2027
+68,Estojo para Flauta,200,9999.00,22/01/2028
+70,Saxofone,210,4359.00,23/02/2028
+71,Suporte para Saxofone,220,32.69,24/03/2028
+76,Teclado Musical Casio,230,784.98,25/04/2028
+77,Sintetizador de Voz,240,324.12,26/05/2028
+78,Controlador com Cabo USB,250,124.00,27/06/2028
+79,Caixa de Som JBL,260,39.99,28/07/2028
+80,Microfone Sem Fio Shure,270,2000.00,29/08/2028
+81,Pedestal para Microfone,280,150.00,30/09/2028
+82,Cabo para Microfone,290,12.50,31/10/2028
+83,Caixa Acústica,300,789.00,01/11/2028
+85,Mixer de Áudio Behringer,310,888.00,02/12/2028
+86,Fone de Ouvido Profissional AKG,320,300.00,03/01/2029
+88,Monitor Yamaha HS5,330,990.00,04/02/2029
