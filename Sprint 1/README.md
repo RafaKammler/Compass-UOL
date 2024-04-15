@@ -7,6 +7,8 @@
 
 [Segunda alteração](https://github.com/RafaKammler/Compass-UOL/blob/main/Sprint%201/Desafios/Dados_de_vendas_usados/(Terceiro)dados_de_vendas.csv)
 
+### Arquivos gerados com a execução dos scripts
+
 ## Códigos
 [Código etapa 4.1](https://github.com/RafaKammler/Compass-UOL/blob/main/Sprint%201/Desafios/codigos/%20processamento_de_vendas.sh)
 
