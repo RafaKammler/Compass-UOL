@@ -1,4 +1,4 @@
-# Desafio
+# Desafios
 ### Dados de vendas usados
 Os arquivos dados_de_vendas.csv que foram usados para a execução dos scripts
 
