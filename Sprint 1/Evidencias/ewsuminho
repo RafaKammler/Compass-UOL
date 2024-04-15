@@ -1,0 +1,77 @@
+cp - copiar arquivos
+mv - mover arquivos
+touch - cria e muda a data de modificação dos aqrquivos
+clear - limpa o cmd
+cd - muda o local base - ~ = Home
+ls - lê oq tem dentro dos arquivos - 
+cat - lê arquvios txt
+rm - remove arquivos e diretorios - -r para remover diretórios com arquivos dentro
+mkdir - cria diretórios
+rmdir - exclui diretórios
+apt-get - trabalha com o gerenciamento de apps - pode ser somente apt em versões recentes do ubuntu
+sudo - ganhar permissão de admininstrador do sistema
+update - atualiza os repositorios
+upgrade - atualiza os aplicativos
+install - instala apps pelo cmd
+purge - desinstala app
+dist-upgrade - atualização proativa da versão do linux
+autoremove - remove pacotes inutilizados
+search - busca por aplicativos disponiveis
+head - lê as primeiras linhas de um arquivo -n para definir quantas linhas
+tail - lê o final do arquivo -f para manter atualizado
+grep - procura palavras dentro de um arquivo de texto, -c para contar quantas vezes a palavra aparece -i ignora o mecanismo case sensitivy, -r para procurar em todos os arquivos pela palavra
+find - procura arquivos pelo nome, -iname ignora o case sensitivyn -empty procura por arquivos vazios, type d procura diretórios, type f procura arquivos
+!! - repete o últi mo comando
+which - vê a origem do comando
+Nano - editor de texto (todos os comandos são mostrados na parte inferior da tela)
+vim - editor de texto - :x sai e salva - :q sai dps de salvar - :q! sai sem salvar - :w salva sem sair - :u desfaz - ctrl + r refaz - dd apaga uma linha - d + up/down apaga a linha de cima ou baixo - :%s /palavra que vai ser substituida/ palavra que vai substituir/ - :s /palavra que vai ser substituida/ palavra que vai substituir/g substitui só de 1 linha
+adduser - cria usuários
+userdel --remove - deleta usuários
+usermod -c - muda o nome de display do usuário
+usermod -l nomenovo -d /home/nomenovo -m nomeantigo - muda o nome do usuário
+usermor -L  - bloqueia um usuário
+usermod -U - desbloqueia o usuário
+groupadd - cria grupos
+getent groups - lista os group
+groupdel - deleta grupos
+usermod -a -G grupo nome - adiciona um usuário em um grupo
+gpasswd -d nome grupo - remove usuários de um grupo
+sudo su - transforma o usuário em root
+passwd - troca senha do user
+  chmod xxx file/dir
+  x são as permissoes
+  1: --x
+  2: -W-
+  3: -wx
+  4: r--
+  5: r-x
+  6: rw-
+  7: rwx
+  chmod args file/dir
+  args são representados por
+  +: adiciona permissões
+  -: remove permissões 
+  =: determina as permissões
+  u: dono do arquivo
+  g: grupo
+  o: outros
+  a: todos
+chown nome arq - muda o dono do arquivo
+chown user:grupo arq - muda o owner e o grupo
+chgrp grupo arq - muda só o grupo do arquivo
+history - abre o historico
+DNS - Domain Name System, traduz o IP para o domínio do site
+Portas - endpoint, associada a um ip
+TCP - Transmission Control Protocol, usado para transmissão de dados pela rede, mais lento e mais seguro
+UDP - User Datagram Protocol, também usado para transmissão de dados pela rede, mas é mais rápido e menos seguro
+ping DNS/IP - testa a conexão com um site/IP
+netstat - ve quais conexões estão sendo feitas pelo computador
+zip -r - compacta arquivos em .zip
+unzip nomearq.zip - descompacta .zip - -d dir2 - descompacta dentro de outro diretório
+tar -czvf nome.tar.gz nomearq1 nomearq2... -compactação de arquivos em .tar
+tar -xzvf nome.tar.gz - descompacta arquivos .tar - -C dir2 - passa todos os arquivos descompactados direto para outro diretório
+ifconfig - muda as configurações de rede do sistema
+nslookup DNS - descobre o IP de um dominio
+tar -tvf nome.tar.gz - mostra o conteudo de dentro do arquivo sem descompactar
+hostname -I - mostra o ip da máquina
+
