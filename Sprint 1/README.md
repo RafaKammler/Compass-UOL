@@ -3,7 +3,7 @@
 
 [Dados originais](https://github.com/RafaKammler/Compass-UOL/blob/main/Sprint%201/Desafios/Dados_de_vendas_usados/(Original)dados_de_vendas.csv)
 
-[Primeira alteração]()
+[Primeira alteração](https://github.com/RafaKammler/Compass-UOL/blob/main/Sprint%201/Desafios/Dados_de_vendas_usados/(Segundo)dados_de_vendas.csv)
 
 [Segunda alteração]()
 
