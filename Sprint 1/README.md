@@ -49,7 +49,7 @@ Aqui são capturas de tela dos arquivos gerados com as execuções automaticas e
 [Execução do consolidador](https://github.com/RafaKammler/Compass-UOL/blob/main/Sprint%201/Desafios/prints%20de%20execu%C3%A7%C3%A3o/execu%C3%A7%C3%A3o%20da%20consolida%C3%A7%C3%A3o.png)
 
 # Evidencias
-[Resumo curso Linux]()
+[Resumo curso Linux](https://github.com/RafaKammler/Compass-UOL/blob/main/Sprint%201/Evidencias/Resumo%20das%20aulas%20Linux)
 
 # Exercicios
 
