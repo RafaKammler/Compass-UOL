@@ -1,6 +1,6 @@
 cd ~/Programa
 
-# criação das pastas e
+# criação dos diretórios
 
 mkdir vendas
 mkdir vendas/backup/
@@ -21,7 +21,7 @@ awk -F',' 'NR > 1{split($5, d, "/"); date = d[3] "-" d[2] "-" d[1]; if (date > m
 wc -l < vendas/dados_de_vendas.csv | awk '{print $1 - 1}' >> vendas/backup/relatorio-$data.txt
 head -n 10 vendas/dados_de_vendas.csv  >> vendas/backup/relatorio-$data.txt
 
-# Finalização pela compactação e remoção dos arquivos
+# Finalização pela compactação e remoção dos arquivos inúteis
 
 zip -r vendas/backup/backup-dados-$data.zip vendas/backup/backup-dados-$data.csv
 rm vendas/backup/backup-dados-$data.csv
