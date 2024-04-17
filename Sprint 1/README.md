@@ -8,6 +8,16 @@
 
 [Resumo curso git]()
 
+### Dados de vendas usados
+Os arquivos dados_de_vendas.csv que foram usados para a execução dos scripts
+
+[Dados originais](https://github.com/RafaKammler/Compass-UOL/blob/main/Sprint%201/Evidencias/Dados_de_vendas_usados/(Original)dados_de_vendas.csv)
+
+[Primeira alteração](https://github.com/RafaKammler/Compass-UOL/blob/main/Sprint%201/Evidencias/Dados_de_vendas_usados/(Segundo)dados_de_vendas.csv)
+
+[Segunda alteração](https://github.com/RafaKammler/Compass-UOL/blob/main/Sprint%201/Evidencias/Dados_de_vendas_usados/(Terceiro)dados_de_vendas.csv)
+
+
 ### Arquivos gerados com a execução dos scripts
 Estes são os relatórios gerados na execução dos scripts
 
