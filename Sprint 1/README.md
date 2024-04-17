@@ -11,7 +11,7 @@
 ### Arquivos gerados com a execução dos scripts
 Estes são os relatórios gerados na execução dos scripts
 
-[Relatório 1](https://github.com/RafaKammler/Compass-UOL/blob/main/Sprint%201/Desafios/arquivos_gerados/relatorio-20240416.txt)
+[Relatório 1](https://github.com/RafaKammler/Compass-UOL/blob/main/Sprint%201/Evidencias/arquivos_gerados/relatorio-20240416.txt)
 
 [Relatório 2](https://github.com/RafaKammler/Compass-UOL/blob/main/Sprint%201/Desafios/arquivos_gerados/relatorio-20240417.txt)
 
