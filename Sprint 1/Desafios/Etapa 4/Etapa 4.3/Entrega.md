@@ -15,3 +15,5 @@ cat vendas/backup/rel*.txt >> vendas/relatorio_fina.txt
   - Viaja até o diretório Programa
   - Cria o arquivo "relatorio_fina.txt" no diretório vendas
   - Copia a informação de todos os outros relatórios para dentro do "relatorio_fina.txt"
+
+[Código](https://github.com/RafaKammler/Compass-UOL/tree/main/Sprint%201/Desafios/Etapa%204/Etapa%204.3/consolidador_de_processamento_de_dados.sh)
