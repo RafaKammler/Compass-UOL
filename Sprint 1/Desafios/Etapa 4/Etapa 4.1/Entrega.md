@@ -47,6 +47,16 @@ Passo 3 - A criação do arquivo relatorio.txt foi realizada com o comando "touc
     - "wc -l < vendas/dados_de_vendas.csv | awk '{print $1 - 1}' >> vendas/backup/relatorio-$data.txt" para analisar a quantia de itens únicos na lista, por meio da contagem de linhas e desconsideração da primeia por ser um cabeçalho
 
     - "head -n 10 vendas/dados_de_vendas.csv  >> vendas/backup/relatorio-$data.txt" para copiar as 10 primeiras linhas do arquivo
+```
+# Inserção dos requisitos do desafio para o arquivo relatorio
+
+date +'%Y/%m/%d %H:%M' >> vendas/backup/relatorio-$data.txt
+awk -F',' 'NR > 1{split($5, d, "/"); date = sprintf("%04d-%02d-%02d", d[3], d[2], d[1]); if (date < min |>
+awk -F',' 'NR > 1{split($5, d, "/"); date = d[3] "-" d[2] "-" d[1]; if (date > max || NR == 2) max = date>
+wc -l < vendas/dados_de_vendas.csv | awk '{print $1 - 1}' >> vendas/backup/relatorio-$data.txt
+head -n 10 vendas/dados_de_vendas.csv  >> vendas/backup/relatorio-$data.txt
+
+```
 
 Passo 4 - por fim foram usados 3 comandos:
 
