@@ -90,7 +90,7 @@ rm vendas/dados_de_vendas.csv
     - Excluir o arquivo "dados_de_vendas.csv"
   
 ## Onde por fim, com a junção de todos os trechos o resultado foi:
-### [Código](https://github.com/RafaKammler/Compass-UOL/blob/main/Sprint%201/Desafios/Etapa%204/Etapa%204.1/%20processamento_de_vendas.sh)
+### [Código completo](https://github.com/RafaKammler/Compass-UOL/blob/main/Sprint%201/Desafios/Etapa%204/Etapa%204.1/%20processamento_de_vendas.sh)
 
  
 
