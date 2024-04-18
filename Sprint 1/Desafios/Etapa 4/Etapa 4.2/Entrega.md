@@ -8,3 +8,5 @@ crontab -e
 27 15 * * 1-4 ~/Programa/processamento_de_vendas.sh
 ```
  - Que fará com que o arquivo "processamento_de_vendas.sh" seja executado aos 27 minutos e 15 horas dos dias 1-4 (segunda à quinta) da semana
+
+[Código](https://github.com/RafaKammler/Compass-UOL/blob/main/Sprint%201/Desafios/Etapa%204/Etapa%204.2/crontab)
