@@ -5,3 +5,8 @@ Na etapa 4.3 foi requisitada uma mudança no arquivo dados_de_vendas de maneira 
    -"cd ~/Programa" para alcançar o diretório desejado
    -"touch vendas/relatorio_fina.txt" para criação do arquivo relatorio_fina.txt
    -"cat vendas/backup/rel*.txt >> vendas/relatorio_fina.txt" para copiar os dados de todos os relatórios do pasta backup para o relatorio_fina
+```                         
+cd ~/Programa
+touch vendas/relatorio_fina.txt
+cat vendas/backup/rel*.txt >> vendas/relatorio_fina.txt
+```
