@@ -2,12 +2,6 @@
 
 # Evidencias
 
-### Resumos realizados durante as aulas
-
-[Resumo curso Linux](https://github.com/RafaKammler/Compass-UOL/blob/main/Sprint%201/Evidencias/Resumo%20das%20aulas%20Linux)
-
-[Resumo curso git]()
-
 ### Dados de vendas usados
 Os arquivos dados_de_vendas.csv que foram usados para a execução dos scripts
 
@@ -48,6 +42,15 @@ Aqui são capturas de tela dos arquivos gerados com as execuções automaticas e
 [Execução 3](https://github.com/RafaKammler/Compass-UOL/blob/main/Sprint%201/Evidencias/prints%20de%20execu%C3%A7%C3%A3o/Terceira%20execu%C3%A7%C3%A3o.png)
 
 [Execução do consolidador](https://github.com/RafaKammler/Compass-UOL/blob/main/Sprint%201/Evidencias/prints%20de%20execu%C3%A7%C3%A3o/Execu%C3%A7%C3%A3o%20da%20consolida%C3%A7%C3%A3o.png)
+
+# Anotações
+
+### Anotações feitas durante as aulas
+
+[Resumo curso Linux](https://github.com/RafaKammler/Compass-UOL/blob/main/Sprint%201/Evidencias/Resumo%20das%20aulas%20Linux)
+
+[Resumo curso git]()
+
 
 # Exercicios
 Aqui ficam os exercicios e quizes realizados durante os cursos Linux e Git
