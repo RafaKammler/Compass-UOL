@@ -66,6 +66,13 @@ Passo 4 - por fim foram usados 3 comandos:
 
  - "rm vendas/dados_de_vendas.csv" e por fim a exclusão do arquivo dados_de_vendas.csv
 
+```
+# Finalização pela compactação e remoção dos arquivos
+
+zip -r vendas/backup/backup-dados-$data.zip vendas/backup/backup-dados-$data.csv
+rm vendas/backup/backup-dados-$data.csv
+rm vendas/dados_de_vendas.csv
+```
 
  
 
