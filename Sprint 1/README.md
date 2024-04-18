@@ -23,6 +23,15 @@ Estes são os relatórios gerados na execução dos scripts
 
 [Relatório final](https://github.com/RafaKammler/Compass-UOL/blob/main/Sprint%201/Evidencias/arquivos_gerados/relatorio_fina.txt)
 
+# Anotações
+
+## Anotações feitas durante as aulas
+
+[Resumo curso Linux](https://github.com/RafaKammler/Compass-UOL/blob/main/Sprint%201/Evidencias/Resumo%20das%20aulas%20Linux)
+
+[Resumo curso git](https://github.com/RafaKammler/Compass-UOL/blob/main/Sprint%201/Evidencias/resumo.txt)
+
+
 ## Prints dos códigos no terminal ubuntu
 
 O código Processamento_de_dados.sh
@@ -55,13 +64,6 @@ Execução do consolidador_do_processamento_de_vendas.sh
 
 ![Execução do consolidador](https://github.com/RafaKammler/Compass-UOL/blob/main/Sprint%201/Evidencias/prints%20de%20execu%C3%A7%C3%A3o/Execu%C3%A7%C3%A3o%20da%20consolida%C3%A7%C3%A3o.png)
 
-# Anotações
-
-## Anotações feitas durante as aulas
-
-[Resumo curso Linux](https://github.com/RafaKammler/Compass-UOL/blob/main/Sprint%201/Evidencias/Resumo%20das%20aulas%20Linux)
-
-[Resumo curso git](https://github.com/RafaKammler/Compass-UOL/blob/main/Sprint%201/Evidencias/resumo.txt)
 
 
 # Exercicios dos cursos
