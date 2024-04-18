@@ -2,7 +2,7 @@
 
 # Evidencias
 
-### Dados de vendas usados
+## Dados de vendas usados
 Os arquivos dados_de_vendas.csv que foram usados para a execução dos scripts
 
 [Dados originais](https://github.com/RafaKammler/Compass-UOL/blob/main/Sprint%201/Evidencias/Dados_de_vendas_usados/(Original)dados_de_vendas.csv)
@@ -12,7 +12,7 @@ Os arquivos dados_de_vendas.csv que foram usados para a execução dos scripts
 [Segunda alteração](https://github.com/RafaKammler/Compass-UOL/blob/main/Sprint%201/Evidencias/Dados_de_vendas_usados/(Terceiro)dados_de_vendas.csv)
 
 
-### Arquivos gerados com a execução dos scripts
+## Arquivos gerados com a execução dos scripts
 Estes são os relatórios gerados na execução dos scripts
 
 [Relatório 1](https://github.com/RafaKammler/Compass-UOL/blob/main/Sprint%201/Evidencias/arquivos_gerados/relatorio-20240416.txt)
@@ -23,45 +23,57 @@ Estes são os relatórios gerados na execução dos scripts
 
 [Relatório final](https://github.com/RafaKammler/Compass-UOL/blob/main/Sprint%201/Evidencias/arquivos_gerados/relatorio_fina.txt)
 
-### Prints dos códigos no terminal ubuntu
-Estas são capturas de tela do terminal ubuntu com todos os códigos
+## Prints dos códigos no terminal ubuntu
 
-[Processamento de dados](https://github.com/RafaKammler/Compass-UOL/blob/main/Sprint%201/Evidencias/prints%20de%20execu%C3%A7%C3%A3o/processamento%20de%20dados%20no%20terminal.png)
+O código Processamento_de_dados.sh
 
-[Consolidação do processamento](https://github.com/RafaKammler/Compass-UOL/blob/main/Sprint%201/Evidencias/prints%20de%20execu%C3%A7%C3%A3o/Consolida%C3%A7%C3%A3o%20no%20terminal.png)
+![Processamento de dados](https://github.com/RafaKammler/Compass-UOL/blob/main/Sprint%201/Evidencias/prints%20de%20execu%C3%A7%C3%A3o/processamento%20de%20dados%20no%20terminal.png)
 
-[Crontab](https://github.com/RafaKammler/Compass-UOL/blob/main/Sprint%201/Evidencias/prints%20de%20execu%C3%A7%C3%A3o/Crontab%20no%20terminal.png)
+Código consolidador_do_processamento_de_vendas.sh
 
-### Prints dos arquivos criados na execução dos scripts
-Aqui são capturas de tela dos arquivos gerados com as execuções automaticas e manuais dos scripts
+![Consolidação do processamento](https://github.com/RafaKammler/Compass-UOL/blob/main/Sprint%201/Evidencias/prints%20de%20execu%C3%A7%C3%A3o/Consolida%C3%A7%C3%A3o%20no%20terminal.png)
 
-[Execução 1](https://github.com/RafaKammler/Compass-UOL/blob/main/Sprint%201/Evidencias/prints%20de%20execu%C3%A7%C3%A3o/Primeira%20execu%C3%A7%C3%A3o%20auto.png)
+Código usado no crontab
 
-[Execução 2](https://github.com/RafaKammler/Compass-UOL/blob/main/Sprint%201/Evidencias/prints%20de%20execu%C3%A7%C3%A3o/Segunda%20execu%C3%A7%C3%A3o.png)
+![Crontab](https://github.com/RafaKammler/Compass-UOL/blob/main/Sprint%201/Evidencias/prints%20de%20execu%C3%A7%C3%A3o/Crontab%20no%20terminal.png)
 
-[Execução 3](https://github.com/RafaKammler/Compass-UOL/blob/main/Sprint%201/Evidencias/prints%20de%20execu%C3%A7%C3%A3o/Terceira%20execu%C3%A7%C3%A3o.png)
+## Prints dos arquivos criados na execução dos scripts
 
-[Execução do consolidador](https://github.com/RafaKammler/Compass-UOL/blob/main/Sprint%201/Evidencias/prints%20de%20execu%C3%A7%C3%A3o/Execu%C3%A7%C3%A3o%20da%20consolida%C3%A7%C3%A3o.png)
+Primeira execução automatizada
+
+![Execução 1](https://github.com/RafaKammler/Compass-UOL/blob/main/Sprint%201/Evidencias/prints%20de%20execu%C3%A7%C3%A3o/Primeira%20execu%C3%A7%C3%A3o%20auto.png)
+
+Segunda execução automatizada
+
+![Execução 2](https://github.com/RafaKammler/Compass-UOL/blob/main/Sprint%201/Evidencias/prints%20de%20execu%C3%A7%C3%A3o/Segunda%20execu%C3%A7%C3%A3o.png)
+
+Terceira execução automatizada
+
+![Execução 3](https://github.com/RafaKammler/Compass-UOL/blob/main/Sprint%201/Evidencias/prints%20de%20execu%C3%A7%C3%A3o/Terceira%20execu%C3%A7%C3%A3o.png)
+
+Execução do consolidador_do_processamento_de_vendas.sh
+
+![Execução do consolidador](https://github.com/RafaKammler/Compass-UOL/blob/main/Sprint%201/Evidencias/prints%20de%20execu%C3%A7%C3%A3o/Execu%C3%A7%C3%A3o%20da%20consolida%C3%A7%C3%A3o.png)
 
 # Anotações
 
-### Anotações feitas durante as aulas
+## Anotações feitas durante as aulas
 
 [Resumo curso Linux](https://github.com/RafaKammler/Compass-UOL/blob/main/Sprint%201/Evidencias/Resumo%20das%20aulas%20Linux)
 
 [Resumo curso git]()
 
 
-# Exercicios
-Aqui ficam os exercicios e quizes realizados durante os cursos Linux e Git
+# Exercicios dos cursos
 
-### Testes curso Linux
 
-[Teste 1](https://github.com/RafaKammler/Compass-UOL/blob/main/Sprint%201/Exercicios/Teste%201.png)
+## Testes curso Linux
 
-[Teste 2](https://github.com/RafaKammler/Compass-UOL/blob/main/Sprint%201/Exercicios/Teste%202.png)
+![Teste 1](https://github.com/RafaKammler/Compass-UOL/blob/main/Sprint%201/Exercicios/Teste%201.png)
 
-[Teste 3](https://github.com/RafaKammler/Compass-UOL/blob/main/Sprint%201/Exercicios/Teste%203.png)
+![Teste 2](https://github.com/RafaKammler/Compass-UOL/blob/main/Sprint%201/Exercicios/Teste%202.png)
 
-[Teste 4](https://github.com/RafaKammler/Compass-UOL/blob/main/Sprint%201/Exercicios/Teste%204.png)
+![Teste 3](https://github.com/RafaKammler/Compass-UOL/blob/main/Sprint%201/Exercicios/Teste%203.png)
+
+![Teste 4](https://github.com/RafaKammler/Compass-UOL/blob/main/Sprint%201/Exercicios/Teste%204.png)
 
