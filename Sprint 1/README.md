@@ -61,7 +61,7 @@ Execução do consolidador_do_processamento_de_vendas.sh
 
 [Resumo curso Linux](https://github.com/RafaKammler/Compass-UOL/blob/main/Sprint%201/Evidencias/Resumo%20das%20aulas%20Linux)
 
-[Resumo curso git]()
+[Resumo curso git](https://github.com/RafaKammler/Compass-UOL/blob/main/Sprint%201/Evidencias/resumo.txt)
 
 
 # Exercicios dos cursos
