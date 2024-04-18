@@ -4,7 +4,7 @@
 
 ## Aprendizados
   
-  Nessa primeira sprint, tive meu primeiro contato com o terminal do Ubuntu, que no final do primeiro curso se tornou algo relativamente simples de ser usado, principalmente depois de estudar não só os comandos e sim o funcionamento do sistema linux, mas o foco do curso foi aprender o uso de comandos com diversas funções, que incluem gerenciamento básico de diretórios e arquivos, leitura e edição de arquivos de texto, instalar, atualizar e desinstalar aplicativos, checar informações de rede, compactar e descompactar arquivos e gerencia de usuários dentro do sistema, além de tudo isso ainda aprendi diversas dicas para o uso de maneira facilitada do terminal.
+  Nessa primeira sprint, tive meu primeiro contato com o terminal do Ubuntu, que no final do primeiro curso se tornou algo relativamente simples de ser usado, principalmente depois de estudar não só os comandos e sim o funcionamento do sistema linux, mas o foco do curso foi aprender o uso de comandos com diversas funções, que incluem gerenciamento básico de diretórios e arquivos, leitura e edição de arquivos de texto, instalar, atualizar e desinstalar aplicativos, checar informações de rede, compactar e descompactar arquivos e gerencia de usuários dentro do sistema, além de tudo isso ainda aprendi diversas dicas para o uso de maneira facilitada do terminal. Já no curso de Git/Github, aprendi a utilizar o sistema git para adicionar, commitar, enviar, clonar e pushar coisas via terminal, para dentro e fora do site github, além de aprender o modelo de arquivos .md (markdown) e como utiliza-los.
 
 
 ## Sprints 
