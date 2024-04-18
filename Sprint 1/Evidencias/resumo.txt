@@ -1,0 +1,36 @@
+git status - verifica o status dos arquivos na pasta main
+git add - adiciona os arquivos para serem trackeados - git add . - adiciona todos os arquivos de uma vez
+git init - inicia um arquivo .git no computador
+git commit -commita arquivos para o github - git commit -a - commita todos os arquivos de uma vez
+git push - envia os arquivos commitados para o github
+git pull - sincroniza o local com as mudanças feitas no remoto
+git clone - baixa um repositório do servidor remoto
+git rm - remove arquivos do git
+git checkout  - desfaz alterações
+.gitignore - ignora os arquivos colocados dentro desse arquivo, não enviando eles pro server
+git reset --hard - reverte todas as alterações dentro do arquivo, voltando para o estado do ultimo push
+git branch - ve todas as branches - git branch (nome) - cria um branch novo
+git branch -d (nome) - deleta uma branch
+git checkout - muda o branch atual
+git merge - une os branches
+git stash - salva o código atual que pode ser recuperado dps
+git stash apply N - recupera uma stash especifica
+git stash clear - apaga todas stashes
+git stash drop (nome) - apaga uma especifica
+git tag -a (nome) - cria uma tag que é como se fosse um checkpoint
+git show (nome) - detalha uma tag especifica
+git checkout (nome) - alterna entre tags
+git push origin (nome) - envia uma tag ao repositório - git push --tags - envia todas as tags
+git fetch - puxa os branches que estão no site
+git submodule add (nome) - cria um submodulo, que possibila mais de um projeto por repositorio
+git submodule - checa quais submodulos existem
+git show - da informações sobre o branch atual e seus commits - pode ser também usado para ver informações sobre uma tag
+git diff - exibe as diferenças entre a branch atual e a remota
+git shortlog - mostra um log resumido do projeto
+git clean - exclui todos os arquivos não trackeados, os que não foram adicionados
+git gc - detecta arquivos que não são mais necessarios e apaga eles
+git fsck - checa a integridade dos arquivos, procurando por arquivos corruptos
+git reflog - mostra um log extremamente completo, mas as informações ficam salvas por somente 30 dias(por padrão)
+git archive --format zip --output master_file.zip main - comprime os arquivos da branch para um .zip
+git rebase (branch atual) (branch privado) -i - reorganização do que é enviado usando um branch privado - squash - exclui a mensagem - reword - reescreve a msg de commit
+git checkout -b private_nome - cria uma branch privada
