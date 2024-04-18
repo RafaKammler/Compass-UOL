@@ -2,9 +2,12 @@
 
 Passo 1 - uso do comando cd para chegar até o diretório desejado e criação de um arquivo em shell script para a execução dos comandos do terminal ubuntu
 
- - Para essa criação foram usados os comandos "touch processamento_de_vendas.sh" para a criação do arquivo 
-
- - Uso do comando "chmod a+x processamento_de_vendas.sh" para permitir a execução do comando para todos os usuários
+ - Para essa criação foram usados os comandos "touch processamento_de_vendas.sh" para a criação do arquivo
+   ```
+touch processamento_de_vendas.sh
+chmod a+x processamento_de_vendas.sh
+ ```
+- Uso do comando "chmod a+x processamento_de_vendas.sh" para permitir a execução do comando para todos os usuários
 
 Passo 2 - começar a edição do conteudo do arquivo, para isso optei por me manter no terminal e usar o editor de texto nano, com o comando "nano processamento_de_vendas.sh"
 
