@@ -9,7 +9,6 @@ Passo 1 - uso do comando cd para chegar até o diretório desejado e criação d
 touch processamento_de_vendas.sh
 chmod a+x processamento_de_vendas.sh
  ```
-- Uso do comando "chmod a+x processamento_de_vendas.sh" para permitir a execução do comando para todos os usuários
 
 Passo 2 - começar a edição do conteudo do arquivo, para isso optei por me manter no terminal e usar o editor de texto nano, com o comando "nano processamento_de_vendas.sh"
 
@@ -22,6 +21,19 @@ Passo 2 - começar a edição do conteudo do arquivo, para isso optei por me man
  - O comando usado para a cópia do arquivo dados_de_vendas.csv para dentro do diretório backup com a data de execução foi "cp vendas/dados_de_vendas.csv vendas/backup/dados-$data.csv"
 
  - Já o comando usado para renomear o arquivo como solicitado foi o "mv vendas/backup/dados-$data.csv vendas/backup/backup-dados-$data.csv"
+```
+# criação das pastas
+
+mkdir vendas
+mkdir vendas/backup/
+data=$(date +'%Y%m%d')
+
+# transferencia e cópia dos arquivos csv e txt
+
+cp ecommerce/dados*.csv vendas
+cp vendas/dados_de_vendas.csv vendas/backup/dados-$data.csv
+mv vendas/backup/dados-$data.csv vendas/backup/backup-dados-$data.csv
+```
 
 Passo 3 - A criação do arquivo relatorio.txt foi realizada com o comando "touch vendas/backup/relatorio-$data.txt" que adiciona a variavel data para impedir conflito entre relátorios de dias diferentes
  
