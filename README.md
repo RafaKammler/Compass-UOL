@@ -9,4 +9,4 @@
 
 ## Sprints 
 
-1. [Sprint 1](Sprint%201/README.md)
+1. -[x] [Sprint 1](Sprint%201/README.md)
