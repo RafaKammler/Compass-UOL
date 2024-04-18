@@ -1,0 +1,6 @@
+Na etapa 4.2 foi necessária a automatização do comando processamento_de_vendas.sh, para ser realizado de segunda-feira a quinta-feira às 15:27
+ - Para isso foi usado o crontab do terminal, que pode ser aberto e editado por meio do comando "crontab -e"
+ - Dentro dele foi inserido o comando "27 15 * * 1-4 ~/Programa/processamento_de_vendas.sh" que define a execução do programa processamento_de_vendas aos 27 minutos e 15 horas dos dias 1-4 da semana, onde o dia 1 equivale a segunda e o dia 4 equivale a quinta
+```
+27 15 * * 1-4 ~/Programa/processamento_de_vendas.sh
+```
