@@ -1,5 +1,10 @@
 # [Desafio](https://github.com/RafaKammler/Compass-UOL/blob/main/Sprint%201/Desafios/README.md)
 
+# Certificados
+
+[Git e Github](https://github.com/RafaKammler/Compass-UOL/blob/main/Sprint%201/Certificados/Certificado%20Git%20e%20Github.pdf)
+
+[Linux](https://github.com/RafaKammler/Compass-UOL/blob/main/Sprint%201/Certificados/Certificado%20linux.pdf)
 # Evidencias
 
 ## Dados de vendas usados
