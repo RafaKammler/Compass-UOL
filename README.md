@@ -10,3 +10,4 @@
 ## Sprints 
 
 1. -[x] [Sprint 1](Sprint%201/README.md)
+2. -[x] [Sprint 2](./Sprint%202/README.md)
