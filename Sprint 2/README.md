@@ -38,9 +38,9 @@
 
 ### Seção 6
 
-[Resolução etapa 1](./Exercicios/Seção%206/Etapa%201)
+[Resolução etapa 1](./Exercicios/Seção%206/Etapa%201.sql)
 
-[Resolução etapa 2](./Exercicios/Seção%206/Etapa%202)
+[Resolução etapa 2](./Exercicios/Seção%206/Etapa%202.sql)
 
 [Arquivo gerado etapa 1](./Exercicios/Seção%206/Seção%201.csv)
 
