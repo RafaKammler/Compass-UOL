@@ -75,8 +75,4 @@ Esse código cria as views de dimensões e fatos, sendo elas:
 - Dim_tempo, que  contém o ano, o mês, a semana e o dia das datas de locação
 - Fato_Locacao, que é a tabela fato do meu dimensionamento, que contém a maior parte dos dados da locação e os IDs dos clientes, carros e vendedores.
 
-Tudo isso resultou nas seguintes tabelas:
-
-![Dimensões](./nome2.png)
-
-E por fim para interligação das tabelas eu utilizei o Canva
+E por fim para interligação das tabelas eu utilizei o Canva, já que por serem views elas não podem ser ligadas por meio de primary e foreign keys no proprio DBeaver.
