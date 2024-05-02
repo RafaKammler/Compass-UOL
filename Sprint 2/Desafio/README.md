@@ -10,4 +10,4 @@
 
 ## Script
 
-### [Script completo](./Script%20completo%20desafio)
+### [Script completo](./Script%20completo%20desafio.sql)
