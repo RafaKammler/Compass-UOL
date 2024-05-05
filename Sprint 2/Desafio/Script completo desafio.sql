@@ -176,6 +176,7 @@ SELECT
 from locacao loc
 left join info_locacao as inf
 on inf.idlocacao = loc.idlocacao;
+
 CREATE VIEW dim_tempo AS
 SELECT DISTINCT
 	dataLocacao as data,

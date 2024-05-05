@@ -1,8 +1,12 @@
 # Sprint 2
 
+## [Desafio](./Desafio/README.md)
+
 ## Certificados
 
-## [Desafio](./Desafio/README.md)
+![Certificado AWS](./Certificados/13660_3_5418344_1714758604_AWS%20Course%20Completion%20Certificate-1.png)
+
+![Certificado SQL](./Certificados/Certificado%20SQL.jpg) 
 
 ## Evidencias
 
@@ -45,3 +49,7 @@
 [Arquivo gerado etapa 1](./Exercicios/Seção%206/Seção%201.csv)
 
 [Arquivo gerado etapa 2](./Exercicios/Seção%206/Seção%202.csv)
+
+## Aprendizados
+
+Na Sprint 2, tive minha primeira experiência com bancos de dados e com a linguagem SQL, onde por meio dos cursos aprendi a retirar e transferir dados presentes em um banco de dados, além de repassá-los para outras tabelas, tudo isso com o intuito da análise de dados. Além disso, também fui apresentado pela primeira vez aos recursos básicos da AWS, os quais eu também não tinha conhecimento sobre.

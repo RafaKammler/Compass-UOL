@@ -2,7 +2,7 @@
 
 ## Dimensionamento do banco de dados
 
-Nessa etapa do desafio, o objetivo era aplicar os conceitos de modelagem dimensional que nos foi passado, para tornar o modelo relacionado normalizado, que foi criado anteriormente, em um modelo dimensional.
+Nessa etapa do desafio, o objetivo era aplicar os conceitos de modelagem dimensional que nos foi passado, tendo como intuito tornar o modelo relacionado normalizado, que foi criado anteriormente, em um modelo dimensional.
 
 ### Criação das Views
 

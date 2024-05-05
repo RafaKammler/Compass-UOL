@@ -152,7 +152,7 @@ SELECT DISTINCT idLocacao, idCliente, idCarro, idVendedor
 FROM tb_locacao;
 ```
 
-Com o uso do comando "Insert into", foram realizadas as inserções de dados necessarias para que as tabelas fossem preenchidas, já o "Select distinct" foi utilizado para selecionar os dados que seriam transferidos para as tableas, mas além disso foram usados alguns comandos a mais, para realizar a correção de alguns dados que ficariam fora do padrão, sendo eles:
+Com o uso do comando "Insert into", foram realizadas as inserções de dados necessarias para que as tabelas fossem preenchidas, já o "Select distinct" foi utilizado para selecionar os dados que seriam transferidos para as tabelas, além disso foram usados alguns comandos a mais, para realizar a correção de alguns dados que ficariam fora do padrão, sendo eles:
 
 ```sql
 DATE(CONCAT(SUBSTR(dataLocacao, 1, 4), '-', SUBSTR(dataLocacao, 5, 2), '-', SUBSTR(dataLocacao, 7))) AS dataLocacao,
