@@ -4,6 +4,8 @@
 
 ## Certificados
 
+![Certificado AWS](./Certificados/Certificado%20AWS%202-1.png)
+
 ## Evidencias
 
 ### Etapa 1 desafio
