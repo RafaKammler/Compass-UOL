@@ -1,6 +1,6 @@
 # Sprint 2
 
-## [Desafio](./Desafio/README.md)
+## [Desafio](./Desafios/Readme.md)
 
 ## Certificados
 
@@ -55,5 +55,7 @@ Instalação das bibliotecas solicitadas(linhas 16, 17 e 21):
 ![Desafio-8](./Evidencias/Etapa%208%20segunda%20parte%20script.png)
 
 ![Desafio-8](./Evidencias/Etapa%208%20segunda%20parte%20gráfico.png)
+
+## [Exercicios](./Exercicios/README.md)
 
 ## Aprendizados

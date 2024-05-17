@@ -1,0 +1,50 @@
+O ator: Harrison Ford possui uma receita bruta total de: 4871.7
+O ator: Samuel L. Jackson possui uma receita bruta total de: 4772.8
+O ator: Morgan Freeman possui uma receita bruta total de: 4468.3
+O ator: Tom Hanks possui uma receita bruta total de: 4340.8
+O ator: Robert Downey Jr. possui uma receita bruta total de: 3947.3
+O ator: Eddie Murphy possui uma receita bruta total de: 3810.4
+O ator: Tom Cruise possui uma receita bruta total de: 3587.2
+O ator: Johnny Depp possui uma receita bruta total de: 3368.6
+O ator: Michael Caine possui uma receita bruta total de: 3351.5
+O ator: Scarlett Johansson possui uma receita bruta total de: 3341.2
+O ator: Gary Oldman possui uma receita bruta total de: 3294.0
+O ator: Robin Williams possui uma receita bruta total de: 3279.3
+O ator: Bruce Willis possui uma receita bruta total de: 3189.4
+O ator: Stellan Skarsgard possui uma receita bruta total de: 3175.0
+O ator: Anthony Daniels possui uma receita bruta total de: 3162.9
+O ator: Ian McKellen possui uma receita bruta total de: 3150.4
+O ator: Will Smith possui uma receita bruta total de: 3149.1
+O ator: Stanley Tucci possui uma receita bruta total de: 3123.9
+O ator: Matt Damon possui uma receita bruta total de: 3107.3
+O ator: Robert DeNiro possui uma receita bruta total de: 3081.3
+O ator: Cameron Diaz possui uma receita bruta total de: 3031.7
+O ator: Liam Neeson possui uma receita bruta total de: 2942.7
+O ator: Andy Serkis possui uma receita bruta total de: 2890.6
+O ator: Don Cheadle possui uma receita bruta total de: 2885.4
+O ator: Ben Stiller possui uma receita bruta total de: 2827.0
+O ator: Helena Bonham Carter possui uma receita bruta total de: 2822.0
+O ator: Orlando Bloom possui uma receita bruta total de: 2815.8
+O ator: Woody Harrelson possui uma receita bruta total de: 2815.8
+O ator: Cate Blanchett possui uma receita bruta total de: 2802.6
+O ator: Julia Roberts possui uma receita bruta total de: 2735.3
+O ator: Elizabeth Banks possui uma receita bruta total de: 2726.3
+O ator: Ralph Fiennes possui uma receita bruta total de: 2715.3
+O ator: Emma Watson possui uma receita bruta total de: 2681.9
+O ator: Tommy Lee Jones possui uma receita bruta total de: 2681.3
+O ator: Brad Pitt possui uma receita bruta total de: 2680.9
+O ator: Adam Sandler possui uma receita bruta total de: 2661.0
+O ator: Daniel Radcliffe possui uma receita bruta total de: 2634.4
+O ator: Jonah Hill possui uma receita bruta total de: 2605.1
+O ator: Owen Wilson possui uma receita bruta total de: 2602.3
+O ator: Idris Elba possui uma receita bruta total de: 2580.6
+O ator: Bradley Cooper possui uma receita bruta total de: 2557.7
+O ator: Mark Wahlberg possui uma receita bruta total de: 2549.8
+O ator: Jim Carrey possui uma receita bruta total de: 2545.2
+O ator: Dustin Hoffman possui uma receita bruta total de: 2522.1
+O ator: Leonardo DiCaprio possui uma receita bruta total de: 2518.3
+O ator: Jeremy Renner possui uma receita bruta total de: 2500.3
+O ator: Philip Seymour Hoffman possui uma receita bruta total de: 2463.7
+O ator: Sandra Bullock possui uma receita bruta total de: 2462.6
+O ator: Chris Evans possui uma receita bruta total de: 2457.8
+O ator: Anne Hathaway possui uma receita bruta total de: 2416.5
