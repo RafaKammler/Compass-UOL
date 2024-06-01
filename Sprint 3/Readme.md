@@ -60,4 +60,3 @@ Instalação das bibliotecas solicitadas(linhas 16, 17 e 21):
 
 ## [Exercicios](./Exercicios/README.md)
 
-## Aprendizados
