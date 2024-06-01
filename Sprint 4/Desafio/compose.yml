@@ -1,0 +1,18 @@
+services:
+  carguru:
+    build: ./Etapa_1/
+    volumes: 
+      - "./Etapa_1:/app"
+
+  mascarar_dados:
+    build: ./Etapa_3/
+    volumes: 
+      - "./Etapa_3:/app"
+    stdin_open: true
+    tty: true   
+
+#docker compose up -d
+
+
+
+

@@ -1,6 +1,6 @@
 # Sprint 2
 
-## [Desafio](./Desafios/Readme.md)
+## [Desafio](./Desafio/Readme.md)
 
 ## Certificados
 
@@ -31,6 +31,8 @@
 ![Execução carguru](./Evidencias/Execução%20carguru.png)
 
 ![Execução mascarar dados](./Evidencias/Execução%20mascarar_dados.png)
+
+![Containers criados](./Evidencias/containers%20criados.png)
 
 ## [Exercicios](./Exercicios/Readme.md)
 
