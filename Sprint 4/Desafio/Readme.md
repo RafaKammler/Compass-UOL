@@ -19,3 +19,5 @@
 ### [Dockerfile_etapa_3](./Etapa_3/Dockerfile)
 
 ### [Docker-compose](./compose.yml)
+
+## [Comandos utilizados](./Comandos.md)
