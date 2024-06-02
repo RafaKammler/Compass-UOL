@@ -8,6 +8,8 @@
 
 ![Certificado docker](./Certificados/certificado%20docker.jpg)
 
+![Certificado AWS](./Certificados/Certificado%20AWS%204.jpg)
+
 ## Evidencias
 
 ### Scripts python
@@ -49,3 +51,5 @@
 ## [Exercicios](./Exercicios/Readme.md)
 
 ## Aprendizados
+
+Nessa sprint, estudei mais um pouco sobre o uso do python, focado principalmente no paradigma de programação funcional, mas o assunto principal era a questão de containers, com a utilização de docker, onde com os cursos aprendi a baixar, criar e executar imagens docker, aprendi a criar e utilizar containers, além de docker-compose e orquestração de containers com docker swarm e kubernetes. Já no quesito AWS tive meu primeiro contato com o site, aprendendo sobre armazenamento, redes, VMs e entre outros dentro do sistema Amazon.

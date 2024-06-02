@@ -4,7 +4,7 @@
 
 __Pergunta:__
 
-__É possível reutilizar containers? Em caso positivo, apresente o comando necessário para reiniciar um dos containers parados em seu ambiente Docker? Não sendo possível reutilizar, justifique sua resposta.__
+É possível reutilizar containers? Em caso positivo, apresente o comando necessário para reiniciar um dos containers parados em seu ambiente Docker?Não sendo possível reutilizar, justifique sua resposta.
 
 __Resposta:__
 
