@@ -4,6 +4,8 @@
 
 ## Certificados
 
+![Certificado Metodologias ageis](./Certificados/Certificado%20metodos%20ageis.jpg)
+
 ![Certificado AWS](./Certificados/Certificados%20AWS%203.jpg)
 
 ![Certificado docker](./Certificados/certificado%20docker.jpg)
