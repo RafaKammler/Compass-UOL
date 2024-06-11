@@ -1,10 +1,6 @@
 # Apresentação
 
-​Olá, sou Rafael Gustavo Kammler, morador da cidade de Erechim e estudante da Universidade Regional Integrada do Alto Uruguai e das Missões. Estou cursando o primeiro semestre da faculdade de Ciências da Computação. Não tenho experiência com outras empresas de tecnologia, pois fiz ensino médio regular, não técnico. Esta é a minha primeira vez em um estágio, mas tenho um simples conhecimento da linguagem Python, por já ter realizado um breve curso online. Tenho grande interesse na área da tecnologia e me dedicarei ao máximo no estagio para aproveitar esta excelente oportunidade de trabalhar com uma ótima equipe e desenvolver experiência na área da tecnologia.
-
-## Aprendizados
-  
-  Nessa primeira sprint, tive meu primeiro contato com o terminal do Ubuntu, que no final do primeiro curso se tornou algo relativamente simples de ser usado, principalmente depois de estudar não só os comandos e sim o funcionamento do sistema linux, mas o foco do curso foi aprender o uso de comandos com diversas funções, que incluem gerenciamento básico de diretórios e arquivos, leitura e edição de arquivos de texto, instalar, atualizar e desinstalar aplicativos, checar informações de rede, compactar e descompactar arquivos e gerencia de usuários dentro do sistema, além de tudo isso ainda aprendi diversas dicas para o uso de maneira facilitada do terminal. Já no curso de Git/Github, aprendi a utilizar o sistema git para adicionar, commitar, enviar, clonar e pushar coisas via terminal, para dentro e fora do site github, além de aprender o modelo de arquivos .md (markdown) e como utiliza-los.
+​Olá, sou Rafael Gustavo Kammler, morador da cidade de Erechim e estudante da Universidade Regional Integrada do Alto Uruguai e das Missões. Estou cursando o primeiro semestre da faculdade de Ciências da Computação. Não tenho experiência com outras empresas de tecnologia, pois fiz ensino médio regular, não técnico. Esta é a minha primeira vez em um estágio, mas tenho um simples conhecimento da linguagem Python, por já ter realizado um breve curso online. Tenho grande interesse na área da tecnologia e me dedicarei ao máximo no estagio para aproveitar esta excelente oportunidade de trabalhar com uma ótima equipe e desenvolver experiência na área dados.
 
 ## Sprints
 
@@ -12,3 +8,4 @@
 2. -[x] [Sprint 2](./Sprint%202/README.md)
 3. -[x] [Sprint 3](./Sprint%203/Readme.md)
 4. -[x] [Sprint 4](./Sprint%204/Readme.md)
+5. -[x] [Sprint 5](./Sprint%205/Readme.md)
