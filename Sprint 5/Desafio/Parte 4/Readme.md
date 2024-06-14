@@ -92,4 +92,4 @@ for evento in solicitação['Payload']:
           print(registros)
 ```
 
-Que realiza uma iteração na solicitação anterior
+Que realiza uma iteração na solicitação do S3 para checar se existe o valor "Records", caso ele exista, realiza uma decodificação dos valores para utf-8, já que caso contrario sairiam em binário, o que dificultaria a leitura.
