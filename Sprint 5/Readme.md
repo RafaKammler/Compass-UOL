@@ -4,7 +4,9 @@
 
 ## Certificados
 
-![Medalha Cloud Quest](./Certificados/image.png)
+![Medalha Cloud Quest](./Certificados/Medalha%20cloud%20Quest.png)
+
+![certificado AWS](./Certificados/Certificado%20AWS%205.png)
 
 ## Evidencias
 
@@ -30,6 +32,11 @@
 
 ![Execução s3_select](./Evicencias/Execução%20no%20S3_select.png)
 
-## Aprendizados
+### Organização do S3_bucket
 
+![bucket utilizado](./Evicencias/bucket.png)
+
+![Pastas do bucket](./Evicencias/organização_S3_bucket.png)
+
+![dentro da pasta 1](./Evicencias/databases-sujas.png)
 
