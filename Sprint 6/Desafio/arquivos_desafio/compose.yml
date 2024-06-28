@@ -1,9 +1,18 @@
 services:
-  upload:
+  init-volume:
+    build:
+      context: .
+      dockerfile: Dockerfile.init
+    volumes:
+      - csv_files:/data
+    command: /bin/true
+
+
+  raw_upload_img:
     build: ./file_upload/
     volumes: 
       - "./file_upload:/app"
-      - ./csv_files:/data
+      - csv_files:/data
     environment:
       - aws_access_key_id=${aws_access_key_id}
       - aws_secret_access_key=${aws_secret_access_key}

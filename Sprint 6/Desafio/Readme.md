@@ -4,9 +4,16 @@
 
 ## Scripts
 
-[Script_python](./arquivos_desafio/main_script.py)
+### [Script python](./arquivos_desafio/file_upload/main_script.py)
 
-[Dockerfile](./arquivos_desafio/Dockerfile)
+### [docker-compose](./arquivos_desafio/compose.yml)
+
+### [Dockerfile](./arquivos_desafio/file_upload/Dockerfile)
+
+### [Dockerfile.init](./arquivos_desafio/Dockerfile.init)
+
+### [Requirements.txt](./arquivos_desafio/file_upload/requirements.txt)
+
 
 ## Perguntas
 

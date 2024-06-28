@@ -26,19 +26,23 @@
 
 ### Scripts 
 
+#### Docker compose 
+
 ![Docker-compose](./Evidencias/compose_code.png)
+
+#### Dockerfile
 
 ![Dockerfile](./Evidencias/Dockerfile_code.png)
 
+#### Dockerfile.init
+
 ![Dockerfile.init](./Evidencias/dockerfile_init.png)
+
+#### Script python
 
 ![main_script](./Evidencias/python_code.png)
 
 ### Execução dos scripts
-
-#### Inicialização do volume com os csv_files
-
-![Inicialização volume](./Evidencias/Inicialização_volume.png)
 
 #### Execução docker-compose
 
@@ -71,6 +75,8 @@
 #### Caminho séries
 
 ![Caminho séries](./Evidencias/arquivo_series_enviado.png)
+
+#### Diversos arquivos enviados
 
 ![Upload de arquivos em diferentes dias](./Evidencias/datas_diferentes.png)
 

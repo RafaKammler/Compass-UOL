@@ -1,0 +1,3 @@
+FROM busybox
+
+COPY ./csv_files /data

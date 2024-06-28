@@ -71,7 +71,6 @@ def file_upload_filmes(caminho_arquivo_filmes, filmes_csv_bytes):
 
 
 def file_upload_series(caminho_arquivo_series, series_csv_bytes):
-
 # Envia o arquivo de series para o bucket
     s3_client.put_object(Bucket = nome_bucket, Key = caminho_arquivo_series, Body = series_csv_bytes)
     print("Arquivo series enviado com sucesso")
