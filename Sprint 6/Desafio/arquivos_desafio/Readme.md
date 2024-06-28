@@ -4,66 +4,49 @@ O desafio da Sprint 06 se baseava no upload de dois datasets .csv para dentro de
 
 ## Parte 1
 
-Leitura dos arquivos csv, onde para isso uitlizei da biblioteca pandas com o comando `read_csv` para leitura e o comando `to_csv` para transferir isso como arquivo csv novo que seria enviado para o S3. Além da utilização do `encode('utf-8')` para converter o conteúdo do arquivo em bytes, que é a unica maneira que o comando `put_object` que será usado posteriormente aceita conteúdo
+### Conexão com a AWS
+
+A primeira etapa do meu script foi a conexão com o cliente AWS para permitir o a manipulação de arquivos dentro do bucket S3, onde apesar que eu poderia somente adicionar as minhas credenciais ao script, por questões de segurança das chaves de acesso da aws, resolvi criar um arquivo .env para atribuir todas as informações necessárias para login como variáveis de sistema no container, e para realizar a leitura dessas variáveis de sistema e atribuição delas à conexão S3, utilizei da biblioteca `os`, mais especificamente o comando `getenv`, da seguinte maneira:
+
+```py
+aws_access_key_id =        os.getenv('aws_access_key_id'),
+aws_secret_access_key =    os.getenv('aws_secret_access_key'),
+aws_session_token =        os.getenv('aws_session_token')
+```
+
+Com a conexão realizada foi possivel realizar a primeira solicitação do desafio, que era a criação de um bucket para armazenar os dados, para isso foi possivel utilizar a função `create_bucket` do `boto3`
+
+### Leitura do arquivo
+
+A próxima etapa que realizei do desafio foi a criação de uma função que realiza a leitura dos arquivos `movies.csv` e `series.csv` que nos foram passados, além disso foi necessária a tradução dos arquivos para bytes para que o conteúdo possa ser usado por uma função posterior, tradução essa que foi feita por meio do `encode`.
+
+### Definição dos caminhos
+
+A próxima etapa do desafio foi definir o caminho em que os arquivos seriam salvos dentro do S3, onde como o caminho do arquivo de filmes e de séries eram muito semelhantes, foi possivel reaproveitar parte do código, sendo o código:
+
+```py
+camada_armazenamento =        'Raw'
+origem_dados =                'Local'
+formato_dados =               'CSV'
+especificacao_dados_series =  'Series'
+nome_arquivo_series =         'series.csv'
+
+caminho_arquivo_series = f'{camada_armazenamento}/{origem_dados}/{formato_dados}/{especificacao_dados_series}/{ano_atual}/{mes_atual}/{dia_atual}/{nome_arquivo_series}'
+```
+
+E para o arquivo de filmes são realizadas alterações somente nas variaveis `especificacao_dados_series` e `nome_arquivo_series` e em abas tudo isso ocorre dentro de uma função que retorna o caminho do arquivo.
+
+
+### Upload dos arquivos
+
+As ultimas duas funções do arquivo que são diretamente relacionadas ao desafio são as que realizam o upload dos arquivos para o S3, funções essas que recebem como parametros os caminhos dos arquivos e o conteudo em bytes, para que possam ser utilizados em conjunto com o nome do bucket pela função `put_object` para realizar o upload de arquivos para o bucket, função essa que no caso do arquivo filmes deve ser utilizada da seguinte maneira:
+
+```py
+    s3_client.put_object(Bucket = nome_bucket, Key = caminho_arquivo_filmes, Body = filmes_csv_bytes)
+```
+
+Por fim para que todas as funções do script sejam executadas com sucesso utilizei de uma função chamada main, que chama todas as outras.
 
 ## Parte 2
 
-### Credenciais
-
-Na segunda etapa foi solicitado o uso do `boto3` para conexão e upload para a AWS, onde para essa etapa foi necessária a importação das credenciais AWS para o script, onde para evitar inserir as credenciais AWS dentro do script python, principalmente por questões de segurança, resolvi criar um arquivo .json que tem como conteudo as credenciais, arquivo esse que não será exportado para lugar nenhum, com o intuito de manter as credenciais em segredo, e para a leitura desse arquivo por parte do script eu utilizei a seguinte sequencia de comandos:
-
-```py
-
-    with open("aws_credentials.json") as f:
-        credenciais = json.load(f)
-
-    for chave, valor in credenciais.items():
-        credenciais_dict[chave] = valor
-
-    s3_client = boto3.client('s3', 
-                        region_name =              'us-east-1',
-                        aws_access_key_id =        credenciais_dict['aws_access_key_id'],
-                        aws_secret_access_key =    credenciais_dict['aws_secret_access_key'],
-                        aws_session_token =        credenciais_dict['aws_session_token'])
-
-```
-
-Que primeiramente utiliza o `json.load()` para a leitura do arquivo das credenciais, depois salva os conjuntos chave, valor dentro de uma variavel, e por fim atribui esses valores as credenciais AWS solicitadas pelo boto3
-
-## Parte 3
-
-Com a conexão bem sucedida com a AWS, o restante tem um nivel menor de dificuldade, já que para a terceira etapa foi necessária somente a criação do bucket pelo comando `create_bucket`
-
-Depois da criação do bucket tive que definir o caminho do arquivo, que teve que ser definido como solicitado pelo desafio, onde para isso tive que inicialmente utilizar:
-
-```py
-    nome_bucket =                 'datalake-desafio-compassuol-rafael'
-    camada_armazenamento =        'Raw'
-    origem_dados =                'Local'
-    formato_dados =               'CSV'
-    especificacao_dados_filmes =  'Movies'
-    especificacao_dados_series =  'Series'
-    nome_arquivo_filmes =         'movies.csv'
-    nome_arquivo_series =         'series.csv'
-    ano_atual = datetime.datetime.now().strftime('%Y')
-    mes_atual = datetime.datetime.now().strftime('%m')  
-    dia_atual = datetime.datetime.now().strftime('%d')  
-```
-
-Sendo tudo isso utilizado para definir as váriaveis do caminho, váriaveis essas que são utilizadas da seguinte maneira:
-
-```py
-    caminho_arquivo_filmes = f'{camada_armazenamento}/{origem_dados}/{formato_dados}/{especificacao_dados_filmes}/{ano_atual}/{mes_atual}/{dia_atual}/{nome_arquivo_filmes}'
-    caminho_arquivo_series = f'{camada_armazenamento}/{origem_dados}/{formato_dados}/{especificacao_dados_series}/{ano_atual}/{mes_atual}/{dia_atual}/{nome_arquivo_series}'
-
-
-    s3_client.put_object(Bucket = nome_bucket, Key = caminho_arquivo_filmes, Body = filmes_csv_bytes)
-    print(f"Arquivo {nome_arquivo_filmes} enviado com sucesso")
-    ''
-    s3_client.put_object(Bucket = nome_bucket, Key = caminho_arquivo_series, Body = series_csv_bytes)
-    print(f"Arquivo {nome_arquivo_series} enviado com sucesso")
-```
-
-Funcionando com a utilização das variáveis definidas anteriormente como o nome do bucket e caminho do arquivo, além do conteúdo que foi anteriormente traduzido para bytes como conteúdo do mesmo, tudo isso por meio do comando `put_object`
-
-## Parte 4
+Com a finalização do script python resta somente uma tarefa do desafio, a containerização de tudo, por meio do docker

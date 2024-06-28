@@ -26,29 +26,41 @@
 
 ### Scripts 
 
-![Dockerfile](./Evidencias/Dockerfile_code.jpg)
+![Docker-compose](./Evidencias/compose_code.png)
 
-![main_script](./Evidencias/python_code.jpg)
+![Dockerfile](./Evidencias/Dockerfile_code.png)
+
+![Dockerfile.init](./Evidencias/dockerfile_init.png)
+
+![main_script](./Evidencias/python_code.png)
 
 ### Execução dos scripts
 
-#### Imagem sendo criada
+#### Inicialização do volume com os csv_files
 
-![Criação da imagem](./Evidencias/Criação%20da%20imagem.png)
+![Inicialização volume](./Evidencias/Inicialização_volume.png)
 
-#### Container sendo executado
+#### Execução docker-compose
 
-![Execução do container](./Evidencias/execucao_container.png)
+![compose](./Evidencias/Execução_compose.png)
+
+#### Reexecução container
+
+![Reexecução](./Evidencias/Reexecução_container.png)
 
 ### Componentes docker criados
 
 #### Imagem criada
 
-![imagem](./Evidencias/imagem%20criada.png)
+![imagem](./Evidencias/Imagens_criadas.png)
 
 #### Volume criado
 
-![Volume](./Evidencias/Volume%20criado.png)
+![Volume](./Evidencias/Volume_criado.png)
+
+#### Containers criados
+
+![Containers](./Evidencias/Containers_criados.png)
 
 ### Arquivos no S3_bucket
 

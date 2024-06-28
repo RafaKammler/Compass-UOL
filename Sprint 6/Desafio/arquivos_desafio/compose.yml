@@ -1,0 +1,14 @@
+services:
+  upload:
+    build: ./file_upload/
+    volumes: 
+      - "./file_upload:/app"
+      - ./csv_files:/data
+    environment:
+      - aws_access_key_id=${aws_access_key_id}
+      - aws_secret_access_key=${aws_secret_access_key}
+      - aws_session_token=${aws_session_token}
+    container_name: data_raw_upload
+
+volumes:
+  csv_files:
