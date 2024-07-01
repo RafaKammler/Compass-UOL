@@ -6,19 +6,19 @@
 
 ![certificado AWS](./Certificados/Certificado%20AWS%206.png)
 
-![certificado AWS]()
+![certificado AWS](./Certificados/Certificado%20AWS%207.png)
 
 ![certificado AWS](./Certificados/Certificado%20AWS%208.png)
 
 ![certificado AWS](./Certificados/Certificado%20AWS%209.png)
 
-![certificado AWS](.)
+![certificado AWS](./Certificados/Certificado%20AWS%2010.png)
 
-![certificado AWS](.)
+![certificado AWS](./Certificados/Certificado%20AWS%2011.png)
 
 ![certificado AWS](./Certificados/Certificado%20AWS%2012.png)
 
-![certificado AWS](.)
+![certificado AWS](./Certificados/Certificado%20AWS%2013.png)
 
 ![certificado AWS](./Certificados/Certificado%20AWS%2014.png)
 
