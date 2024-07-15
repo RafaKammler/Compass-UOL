@@ -10,3 +10,4 @@
 - [Sprint 4](./Sprint%204/Readme.md)
 - [Sprint 5](./Sprint%205/Readme.md)
 - [Sprint 6](./Sprint%206/Readme.md)
+- [Sprint 7](./Sprint%207/Readme.md)
