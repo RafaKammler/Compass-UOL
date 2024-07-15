@@ -1,0 +1,4292 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/dqK9Hag1054tghRQSqLSfrkvQnA.jpg",
+        "genre_ids": [
+            18,
+            28,
+            80,
+            53
+        ],
+        "id": 155,
+        "original_language": "en",
+        "original_title": "The Dark Knight",
+        "overview": "Batman raises the stakes in his war on crime. With the help of Lt. Jim Gordon and District Attorney Harvey Dent, Batman sets out to dismantle the remaining criminal organizations that plague the streets. The partnership proves to be effective, but they soon find themselves prey to a reign of chaos unleashed by a rising criminal mastermind known to the terrified citizens of Gotham as the Joker.",
+        "popularity": 130.573,
+        "poster_path": "/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+        "release_date": "2008-07-16",
+        "title": "The Dark Knight",
+        "video": false,
+        "vote_average": 8.516,
+        "vote_count": 32200,
+        "cast": [
+            {
+                "id": 3894,
+                "nome": "Christian Bale",
+                "personagem": "Bruce Wayne / Batman",
+                "data_nascimento": "1974-01-30",
+                "sexo_ator": 2
+            },
+            {
+                "id": 1810,
+                "nome": "Heath Ledger",
+                "personagem": "Joker",
+                "data_nascimento": "1979-04-04",
+                "sexo_ator": 2
+            },
+            {
+                "id": 3895,
+                "nome": "Michael Caine",
+                "personagem": "Alfred Pennyworth",
+                "data_nascimento": "1933-03-14",
+                "sexo_ator": 2
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/suaEOtk1N1sgg2MTM7oZd2cfVp3.jpg",
+        "genre_ids": [
+            53,
+            80
+        ],
+        "id": 680,
+        "original_language": "en",
+        "original_title": "Pulp Fiction",
+        "overview": "A burger-loving hit man, his philosophical partner, a drug-addled gangster's moll and a washed-up boxer converge in this sprawling, comedic crime caper. Their adventures unfurl in three stories that ingeniously trip back and forth in time.",
+        "popularity": 90.561,
+        "poster_path": "/d5iIlFn5s0ImszYzBPb8JPIfbXD.jpg",
+        "release_date": "1994-09-10",
+        "title": "Pulp Fiction",
+        "video": false,
+        "vote_average": 8.488,
+        "vote_count": 27351,
+        "cast": [
+            {
+                "id": 8891,
+                "nome": "John Travolta",
+                "personagem": "Vincent Vega",
+                "data_nascimento": "1954-02-18",
+                "sexo_ator": 2
+            },
+            {
+                "id": 2231,
+                "nome": "Samuel L. Jackson",
+                "personagem": "Jules Winnfield",
+                "data_nascimento": "1948-12-21",
+                "sexo_ator": 2
+            },
+            {
+                "id": 139,
+                "nome": "Uma Thurman",
+                "personagem": "Mia Wallace",
+                "data_nascimento": "1970-04-29",
+                "sexo_ator": 1
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/zfbjgQE1uSd9wiPTX4VzsLi0rGG.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 278,
+        "original_language": "en",
+        "original_title": "The Shawshank Redemption",
+        "overview": "Imprisoned in the 1940s for the double murder of his wife and her lover, upstanding banker Andy Dufresne begins a new life at the Shawshank prison, where he puts his accounting skills to work for an amoral warden. During his long stretch in prison, Dufresne comes to be admired by the other inmates -- including an older prisoner named Red -- for his integrity and unquenchable sense of hope.",
+        "popularity": 140.309,
+        "poster_path": "/9cqNxx0GxF0bflZmeSMuL5tnGzr.jpg",
+        "release_date": "1994-09-23",
+        "title": "The Shawshank Redemption",
+        "video": false,
+        "vote_average": 8.706,
+        "vote_count": 26441,
+        "cast": [
+            {
+                "id": 504,
+                "nome": "Tim Robbins",
+                "personagem": "Andy Dufresne",
+                "data_nascimento": "1958-10-16",
+                "sexo_ator": 2
+            },
+            {
+                "id": 192,
+                "nome": "Morgan Freeman",
+                "personagem": "Ellis Boyd 'Red' Redding",
+                "data_nascimento": "1937-06-01",
+                "sexo_ator": 2
+            },
+            {
+                "id": 4029,
+                "nome": "Bob Gunton",
+                "personagem": "Warden Norton",
+                "data_nascimento": "1945-11-15",
+                "sexo_ator": 2
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/n6bUvigpRFqSwmPp1m2YADdbRBc.jpg",
+        "genre_ids": [
+            80,
+            53,
+            18
+        ],
+        "id": 475557,
+        "original_language": "en",
+        "original_title": "Joker",
+        "overview": "During the 1980s, a failed stand-up comedian is driven insane and turns to a life of crime and chaos in Gotham City while becoming an infamous psychopathic crime figure.",
+        "popularity": 85.955,
+        "poster_path": "/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg",
+        "release_date": "2019-10-01",
+        "title": "Joker",
+        "video": false,
+        "vote_average": 8.16,
+        "vote_count": 24849,
+        "cast": [
+            {
+                "id": 73421,
+                "nome": "Joaquin Phoenix",
+                "personagem": "Arthur Fleck / Joker",
+                "data_nascimento": "1974-10-28",
+                "sexo_ator": 2
+            },
+            {
+                "id": 380,
+                "nome": "Robert De Niro",
+                "personagem": "Murray Franklin",
+                "data_nascimento": "1943-08-17",
+                "sexo_ator": 2
+            },
+            {
+                "id": 1545693,
+                "nome": "Zazie Beetz",
+                "personagem": "Sophie Dumond",
+                "data_nascimento": "1991-06-01",
+                "sexo_ator": 1
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/7Nwnmyzrtd0FkcRyPqmdzTPppQa.jpg",
+        "genre_ids": [
+            80,
+            18,
+            35
+        ],
+        "id": 106646,
+        "original_language": "en",
+        "original_title": "The Wolf of Wall Street",
+        "overview": "A New York stockbroker refuses to cooperate in a large securities fraud case involving corruption on Wall Street, corporate banking world and mob infiltration. Based on Jordan Belfort's autobiography.",
+        "popularity": 151.339,
+        "poster_path": "/34m2tygAYBGqA9MXKhRDtzYd4MR.jpg",
+        "release_date": "2013-12-25",
+        "title": "The Wolf of Wall Street",
+        "video": false,
+        "vote_average": 8.036,
+        "vote_count": 23446,
+        "cast": [
+            {
+                "id": 6193,
+                "nome": "Leonardo DiCaprio",
+                "personagem": "Jordan Belfort",
+                "data_nascimento": "1974-11-11",
+                "sexo_ator": 2
+            },
+            {
+                "id": 21007,
+                "nome": "Jonah Hill",
+                "personagem": "Donnie Azoff",
+                "data_nascimento": "1983-12-20",
+                "sexo_ator": 2
+            },
+            {
+                "id": 234352,
+                "nome": "Margot Robbie",
+                "personagem": "Naomi Lapaglia",
+                "data_nascimento": "1990-07-02",
+                "sexo_ator": 1
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/c3OHQncTAnKFhdOTX7D3LTW6son.jpg",
+        "genre_ids": [
+            28,
+            80,
+            18,
+            53
+        ],
+        "id": 49026,
+        "original_language": "en",
+        "original_title": "The Dark Knight Rises",
+        "overview": "Following the death of District Attorney Harvey Dent, Batman assumes responsibility for Dent's crimes to protect the late attorney's reputation and is subsequently hunted by the Gotham City Police Department. Eight years later, Batman encounters the mysterious Selina Kyle and the villainous Bane, a new terrorist leader who overwhelms Gotham's finest. The Dark Knight resurfaces to protect a city that has branded him an enemy.",
+        "popularity": 85.71,
+        "poster_path": "/hr0L2aueqlP2BYUblTTjmtn0hw4.jpg",
+        "release_date": "2012-07-17",
+        "title": "The Dark Knight Rises",
+        "video": false,
+        "vote_average": 7.78,
+        "vote_count": 22274,
+        "cast": [
+            {
+                "id": 3894,
+                "nome": "Christian Bale",
+                "personagem": "Bruce Wayne / Batman",
+                "data_nascimento": "1974-01-30",
+                "sexo_ator": 2
+            },
+            {
+                "id": 3895,
+                "nome": "Michael Caine",
+                "personagem": "Alfred Pennyworth",
+                "data_nascimento": "1933-03-14",
+                "sexo_ator": 2
+            },
+            {
+                "id": 64,
+                "nome": "Gary Oldman",
+                "personagem": "James Gordon",
+                "data_nascimento": "1958-03-21",
+                "sexo_ator": 2
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/dYjZ27hDw2QFaEIfzbNGwW0IkV9.jpg",
+        "genre_ids": [
+            80,
+            9648,
+            53
+        ],
+        "id": 807,
+        "original_language": "en",
+        "original_title": "Se7en",
+        "overview": "Two homicide detectives are on a desperate hunt for a serial killer whose crimes are based on the \"seven deadly sins\" in this dark and haunting film that takes viewers from the tortured remains of one victim to the next. The seasoned Det. Sommerset researches each sin in an effort to get inside the killer's mind, while his novice partner, Mills, scoffs at his efforts to unravel the case.",
+        "popularity": 132.298,
+        "poster_path": "/6yoghtyTpznpBik8EngEmJskVUO.jpg",
+        "release_date": "1995-09-22",
+        "title": "Se7en",
+        "video": false,
+        "vote_average": 8.4,
+        "vote_count": 20540,
+        "cast": [
+            {
+                "id": 192,
+                "nome": "Morgan Freeman",
+                "personagem": "Somerset",
+                "data_nascimento": "1937-06-01",
+                "sexo_ator": 2
+            },
+            {
+                "id": 287,
+                "nome": "Brad Pitt",
+                "personagem": "Mills",
+                "data_nascimento": "1963-12-18",
+                "sexo_ator": 2
+            },
+            {
+                "id": 12052,
+                "nome": "Gwyneth Paltrow",
+                "personagem": "Tracy",
+                "data_nascimento": "1972-09-27",
+                "sexo_ator": 1
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/lh5lbisD4oDbEKgUxoRaZU8HVrk.jpg",
+        "genre_ids": [
+            28,
+            80,
+            18
+        ],
+        "id": 272,
+        "original_language": "en",
+        "original_title": "Batman Begins",
+        "overview": "Driven by tragedy, billionaire Bruce Wayne dedicates his life to uncovering and defeating the corruption that plagues his home, Gotham City.  Unable to work within the system, he instead creates a new identity, a symbol of fear for the criminal underworld - The Batman.",
+        "popularity": 65.824,
+        "poster_path": "/4MpN4kIEqUjW8OPtOQJXlTdHiJV.jpg",
+        "release_date": "2005-06-10",
+        "title": "Batman Begins",
+        "video": false,
+        "vote_average": 7.708,
+        "vote_count": 20533,
+        "cast": [
+            {
+                "id": 3894,
+                "nome": "Christian Bale",
+                "personagem": "Bruce Wayne / Batman",
+                "data_nascimento": "1974-01-30",
+                "sexo_ator": 2
+            },
+            {
+                "id": 3895,
+                "nome": "Michael Caine",
+                "personagem": "Alfred Pennyworth",
+                "data_nascimento": "1933-03-14",
+                "sexo_ator": 2
+            },
+            {
+                "id": 3896,
+                "nome": "Liam Neeson",
+                "personagem": "Ducard",
+                "data_nascimento": "1952-06-07",
+                "sexo_ator": 2
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/tmU7GeKVybMWFButWEGl2M4GeiP.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 238,
+        "original_language": "en",
+        "original_title": "The Godfather",
+        "overview": "Spanning the years 1945 to 1955, a chronicle of the fictional Italian-American Corleone crime family. When organized crime family patriarch, Vito Corleone barely survives an attempt on his life, his youngest son, Michael steps in to take care of the would-be killers, launching a campaign of bloody revenge.",
+        "popularity": 121.819,
+        "poster_path": "/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+        "release_date": "1972-03-14",
+        "title": "The Godfather",
+        "video": false,
+        "vote_average": 8.692,
+        "vote_count": 20077,
+        "cast": [
+            {
+                "id": 3084,
+                "nome": "Marlon Brando",
+                "personagem": "Don Vito Corleone",
+                "data_nascimento": "1924-04-03",
+                "sexo_ator": 2
+            },
+            {
+                "id": 1158,
+                "nome": "Al Pacino",
+                "personagem": "Michael Corleone",
+                "data_nascimento": "1940-04-25",
+                "sexo_ator": 2
+            },
+            {
+                "id": 3085,
+                "nome": "James Caan",
+                "personagem": "Sonny Corleone",
+                "data_nascimento": "1940-03-26",
+                "sexo_ator": 2
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/lVy5Zqcty2NfemqKYbVJfdg44rK.jpg",
+        "genre_ids": [
+            28,
+            80
+        ],
+        "id": 24,
+        "original_language": "en",
+        "original_title": "Kill Bill: Vol. 1",
+        "overview": "An assassin is shot by her ruthless employer, Bill, and other members of their assassination circle – but she lives to plot her vengeance.",
+        "popularity": 75.683,
+        "poster_path": "/v7TaX8kXMXs5yFFGR41guUDNcnB.jpg",
+        "release_date": "2003-10-10",
+        "title": "Kill Bill: Vol. 1",
+        "video": false,
+        "vote_average": 7.971,
+        "vote_count": 17010,
+        "cast": [
+            {
+                "id": 139,
+                "nome": "Uma Thurman",
+                "personagem": "The Bride",
+                "data_nascimento": "1970-04-29",
+                "sexo_ator": 1
+            },
+            {
+                "id": 140,
+                "nome": "Lucy Liu",
+                "personagem": "O-Ren Ishii",
+                "data_nascimento": "1968-12-02",
+                "sexo_ator": 1
+            },
+            {
+                "id": 2535,
+                "nome": "Vivica A. Fox",
+                "personagem": "Vernita Green",
+                "data_nascimento": "1964-07-30",
+                "sexo_ator": 1
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/vxJ08SvwomfKbpboCWynC3uqUg4.jpg",
+        "genre_ids": [
+            14,
+            18,
+            80
+        ],
+        "id": 497,
+        "original_language": "en",
+        "original_title": "The Green Mile",
+        "overview": "A supernatural tale set on death row in a Southern prison, where gentle giant John Coffey possesses the mysterious power to heal people's ailments. When the cell block's head guard, Paul Edgecomb, recognizes Coffey's miraculous gift, he tries desperately to help stave off the condemned man's execution.",
+        "popularity": 90.823,
+        "poster_path": "/8VG8fDNiy50H4FedGwdSVUPoaJe.jpg",
+        "release_date": "1999-12-10",
+        "title": "The Green Mile",
+        "video": false,
+        "vote_average": 8.506,
+        "vote_count": 16980,
+        "cast": [
+            {
+                "id": 31,
+                "nome": "Tom Hanks",
+                "personagem": "Paul Edgecomb",
+                "data_nascimento": "1956-07-09",
+                "sexo_ator": 2
+            },
+            {
+                "id": 61981,
+                "nome": "Michael Clarke Duncan",
+                "personagem": "John Coffey",
+                "data_nascimento": "1957-12-10",
+                "sexo_ator": 2
+            },
+            {
+                "id": 52,
+                "nome": "David Morse",
+                "personagem": "Brutus \"Brutal\" Howell",
+                "data_nascimento": "1953-10-11",
+                "sexo_ator": 2
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/1ZIeGwD2lMlLMr4u6IIR302jqhD.jpg",
+        "genre_ids": [
+            80,
+            35,
+            28,
+            12
+        ],
+        "id": 207703,
+        "original_language": "en",
+        "original_title": "Kingsman: The Secret Service",
+        "overview": "The story of a super-secret spy organization that recruits an unrefined but promising street kid into the agency's ultra-competitive training program just as a global threat emerges from a twisted tech genius.",
+        "popularity": 115.797,
+        "poster_path": "/r6q9wZK5a2K51KFj4LWVID6Ja1r.jpg",
+        "release_date": "2014-12-13",
+        "title": "Kingsman: The Secret Service",
+        "video": false,
+        "vote_average": 7.636,
+        "vote_count": 16329,
+        "cast": [
+            {
+                "id": 1303037,
+                "nome": "Taron Egerton",
+                "personagem": "Gary 'Eggsy' Unwin",
+                "data_nascimento": "1989-11-10",
+                "sexo_ator": 2
+            },
+            {
+                "id": 5472,
+                "nome": "Colin Firth",
+                "personagem": "Harry Hart / Galahad",
+                "data_nascimento": "1960-09-10",
+                "sexo_ator": 2
+            },
+            {
+                "id": 2231,
+                "nome": "Samuel L. Jackson",
+                "personagem": "Valentine",
+                "data_nascimento": "1948-12-21",
+                "sexo_ator": 2
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/aViJxMtIxoL3IkHCauYmFv0oCXh.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 274,
+        "original_language": "en",
+        "original_title": "The Silence of the Lambs",
+        "overview": "Clarice Starling is a top student at the FBI's training academy.  Jack Crawford wants Clarice to interview Dr. Hannibal Lecter, a brilliant psychiatrist who is also a violent psychopath, serving life behind bars for various acts of murder and cannibalism.  Crawford believes that Lecter may have insight into a case and that Starling, as an attractive young woman, may be just the bait to draw him out.",
+        "popularity": 22.11,
+        "poster_path": "/uS9m8OBk1A8eM9I042bx8XXpqAq.jpg",
+        "release_date": "1991-02-14",
+        "title": "The Silence of the Lambs",
+        "video": false,
+        "vote_average": 8.349,
+        "vote_count": 15906,
+        "cast": [
+            {
+                "id": 1038,
+                "nome": "Jodie Foster",
+                "personagem": "Clarice Starling",
+                "data_nascimento": "1962-11-19",
+                "sexo_ator": 1
+            },
+            {
+                "id": 4173,
+                "nome": "Anthony Hopkins",
+                "personagem": "Dr. Hannibal Lecter",
+                "data_nascimento": "1937-12-31",
+                "sexo_ator": 2
+            },
+            {
+                "id": 349,
+                "nome": "Scott Glenn",
+                "personagem": "Jack Crawford",
+                "data_nascimento": "1939-01-26",
+                "sexo_ator": 2
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/yir5430WblZSZuIMd9C6pIZerfA.jpg",
+        "genre_ids": [
+            28,
+            80
+        ],
+        "id": 339403,
+        "original_language": "en",
+        "original_title": "Baby Driver",
+        "overview": "After being coerced into working for a crime boss, a young getaway driver finds himself taking part in a heist doomed to fail.",
+        "popularity": 52.922,
+        "poster_path": "/rmnQ9jKW72bHu8uKlMjPIb2VLMI.jpg",
+        "release_date": "2017-06-28",
+        "title": "Baby Driver",
+        "video": false,
+        "vote_average": 7.453,
+        "vote_count": 15361,
+        "cast": [
+            {
+                "id": 1159982,
+                "nome": "Ansel Elgort",
+                "personagem": "Baby",
+                "data_nascimento": "1994-03-14",
+                "sexo_ator": 2
+            },
+            {
+                "id": 1979,
+                "nome": "Kevin Spacey",
+                "personagem": "Doc",
+                "data_nascimento": "1959-07-26",
+                "sexo_ator": 2
+            },
+            {
+                "id": 1016168,
+                "nome": "Lily James",
+                "personagem": "Debora",
+                "data_nascimento": "1989-04-05",
+                "sexo_ator": 1
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/Ag6qhzsJd3k1NKuNrG9RmhZDMh7.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 640,
+        "original_language": "en",
+        "original_title": "Catch Me If You Can",
+        "overview": "A true story about Frank Abagnale Jr. who, before his 19th birthday, successfully conned millions of dollars worth of checks as a Pan Am pilot, doctor, and legal prosecutor. An FBI agent makes it his mission to put him behind bars. But Frank not only eludes capture, he revels in the pursuit.",
+        "popularity": 88.129,
+        "poster_path": "/ctjEj2xM32OvBXCq8zAdK3ZrsAj.jpg",
+        "release_date": "2002-12-16",
+        "title": "Catch Me If You Can",
+        "video": false,
+        "vote_average": 7.976,
+        "vote_count": 15288,
+        "cast": [
+            {
+                "id": 6193,
+                "nome": "Leonardo DiCaprio",
+                "personagem": "Frank Abagnale Jr.",
+                "data_nascimento": "1974-11-11",
+                "sexo_ator": 2
+            },
+            {
+                "id": 31,
+                "nome": "Tom Hanks",
+                "personagem": "Carl Hanratty",
+                "data_nascimento": "1956-07-09",
+                "sexo_ator": 2
+            },
+            {
+                "id": 4690,
+                "nome": "Christopher Walken",
+                "personagem": "Frank Abagnale",
+                "data_nascimento": "1943-03-31",
+                "sexo_ator": 2
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/xEY0MV2jSQBz9iOJfCFvLTiPGMA.jpg",
+        "genre_ids": [
+            53,
+            80
+        ],
+        "id": 75656,
+        "original_language": "en",
+        "original_title": "Now You See Me",
+        "overview": "An FBI agent and an Interpol detective track a team of illusionists who pull off bank heists during their performances and reward their audiences with the money.",
+        "popularity": 104.025,
+        "poster_path": "/tWsNYbrqy1p1w6K9zRk0mSchztT.jpg",
+        "release_date": "2013-05-29",
+        "title": "Now You See Me",
+        "video": false,
+        "vote_average": 7.343,
+        "vote_count": 15253,
+        "cast": [
+            {
+                "id": 44735,
+                "nome": "Jesse Eisenberg",
+                "personagem": "J. Daniel Atlas",
+                "data_nascimento": "1983-10-05",
+                "sexo_ator": 2
+            },
+            {
+                "id": 103,
+                "nome": "Mark Ruffalo",
+                "personagem": "Dylan Rhodes",
+                "data_nascimento": "1967-11-22",
+                "sexo_ator": 2
+            },
+            {
+                "id": 57755,
+                "nome": "Woody Harrelson",
+                "personagem": "Merritt McKinney",
+                "data_nascimento": "1961-07-23",
+                "sexo_ator": 2
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/6WRrGYalXXveItfpnipYdayFkQB.jpg",
+        "genre_ids": [
+            18,
+            53,
+            80
+        ],
+        "id": 1422,
+        "original_language": "en",
+        "original_title": "The Departed",
+        "overview": "To take down South Boston's Irish Mafia, the police send in one of their own to infiltrate the underworld, not realizing the syndicate has done likewise. While an undercover cop curries favor with the mob kingpin, a career criminal rises through the police ranks. But both sides soon discover there's a mole among them.",
+        "popularity": 50.404,
+        "poster_path": "/nT97ifVT2J1yMQmeq20Qblg61T.jpg",
+        "release_date": "2006-10-04",
+        "title": "The Departed",
+        "video": false,
+        "vote_average": 8.168,
+        "vote_count": 14543,
+        "cast": [
+            {
+                "id": 6193,
+                "nome": "Leonardo DiCaprio",
+                "personagem": "Billy",
+                "data_nascimento": "1974-11-11",
+                "sexo_ator": 2
+            },
+            {
+                "id": 1892,
+                "nome": "Matt Damon",
+                "personagem": "Colin",
+                "data_nascimento": "1970-10-08",
+                "sexo_ator": 2
+            },
+            {
+                "id": 514,
+                "nome": "Jack Nicholson",
+                "personagem": "Costello",
+                "data_nascimento": "1937-04-22",
+                "sexo_ator": 2
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/jynfI114q3kOAbIiVjVfFFmttU2.jpg",
+        "genre_ids": [
+            80,
+            18,
+            28
+        ],
+        "id": 101,
+        "original_language": "en",
+        "original_title": "Léon: The Professional",
+        "overview": "Léon, the top hit man in New York, has earned a rep as an effective \"cleaner\". But when his next-door neighbors are wiped out by a loose-cannon DEA agent, he becomes the unwilling custodian of 12-year-old Mathilda. Before long, Mathilda's thoughts turn to revenge, and she considers following in Léon's footsteps.",
+        "popularity": 67.316,
+        "poster_path": "/yI6X2cCM5YPJtxMhUd3dPGqDAhw.jpg",
+        "release_date": "1994-09-14",
+        "title": "Léon: The Professional",
+        "video": false,
+        "vote_average": 8.308,
+        "vote_count": 14439,
+        "cast": [
+            {
+                "id": 1003,
+                "nome": "Jean Reno",
+                "personagem": "Léon Montana",
+                "data_nascimento": "1948-07-30",
+                "sexo_ator": 2
+            },
+            {
+                "id": 524,
+                "nome": "Natalie Portman",
+                "personagem": "Mathilda Lando",
+                "data_nascimento": "1981-06-09",
+                "sexo_ator": 1
+            },
+            {
+                "id": 64,
+                "nome": "Gary Oldman",
+                "personagem": "Norman Stansfield",
+                "data_nascimento": "1958-03-21",
+                "sexo_ator": 2
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/jqFjgNnxpXIXWuPsyfqmcLXRo9p.jpg",
+        "genre_ids": [
+            80,
+            53
+        ],
+        "id": 500,
+        "original_language": "en",
+        "original_title": "Reservoir Dogs",
+        "overview": "A botched robbery indicates a police informant, and the pressure mounts in the aftermath at a warehouse. Crime begets violence as the survivors -- veteran Mr. White, newcomer Mr. Orange, psychopathic parolee Mr. Blonde, bickering weasel Mr. Pink and Nice Guy Eddie -- unravel.",
+        "popularity": 40.724,
+        "poster_path": "/xi8Iu6qyTfyZVDVy60raIOYJJmk.jpg",
+        "release_date": "1992-09-02",
+        "title": "Reservoir Dogs",
+        "video": false,
+        "vote_average": 8.128,
+        "vote_count": 13984,
+        "cast": [
+            {
+                "id": 1037,
+                "nome": "Harvey Keitel",
+                "personagem": "Mr. White / Larry Dimmick",
+                "data_nascimento": "1939-05-13",
+                "sexo_ator": 2
+            },
+            {
+                "id": 3129,
+                "nome": "Tim Roth",
+                "personagem": "Mr. Orange / Freddy Newandyke",
+                "data_nascimento": "1961-05-14",
+                "sexo_ator": 2
+            },
+            {
+                "id": 147,
+                "nome": "Michael Madsen",
+                "personagem": "Mr. Blonde / Vic Vega",
+                "data_nascimento": "1957-09-25",
+                "sexo_ator": 2
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/veXdzn7LL0bFIDGmE7tTkvRg0qV.jpg",
+        "genre_ids": [
+            28,
+            12,
+            80,
+            9648
+        ],
+        "id": 10528,
+        "original_language": "en",
+        "original_title": "Sherlock Holmes",
+        "overview": "Eccentric consulting detective Sherlock Holmes and Doctor John Watson battle to bring down a new nemesis and unravel a deadly plot that could destroy England.",
+        "popularity": 44.991,
+        "poster_path": "/momkKuWburNTqKBF6ez7rvhYVhE.jpg",
+        "release_date": "2009-12-23",
+        "title": "Sherlock Holmes",
+        "video": false,
+        "vote_average": 7.212,
+        "vote_count": 13670,
+        "cast": [
+            {
+                "id": 3223,
+                "nome": "Robert Downey Jr.",
+                "personagem": "Sherlock Holmes",
+                "data_nascimento": "1965-04-04",
+                "sexo_ator": 2
+            },
+            {
+                "id": 9642,
+                "nome": "Jude Law",
+                "personagem": "Dr. John Watson",
+                "data_nascimento": "1972-12-29",
+                "sexo_ator": 2
+            },
+            {
+                "id": 53714,
+                "nome": "Rachel McAdams",
+                "personagem": "Irene Adler",
+                "data_nascimento": "1978-11-17",
+                "sexo_ator": 1
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/akXPz7zK6NZ8YxGqjcHunGK9bXL.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 393,
+        "original_language": "en",
+        "original_title": "Kill Bill: Vol. 2",
+        "overview": "The Bride unwaveringly continues on her roaring rampage of revenge against the band of assassins who had tried to kill her and her unborn child. She visits each of her former associates one-by-one, checking off the victims on her Death List Five until there's nothing left to do … but kill Bill.",
+        "popularity": 51.911,
+        "poster_path": "/2yhg0mZQMhDyvUQ4rG1IZ4oIA8L.jpg",
+        "release_date": "2004-04-16",
+        "title": "Kill Bill: Vol. 2",
+        "video": false,
+        "vote_average": 7.879,
+        "vote_count": 13547,
+        "cast": [
+            {
+                "id": 139,
+                "nome": "Uma Thurman",
+                "personagem": "Beatrix Kiddo AKA The Bride AKA Black Mamba AKA Mommy",
+                "data_nascimento": "1970-04-29",
+                "sexo_ator": 1
+            },
+            {
+                "id": 141,
+                "nome": "David Carradine",
+                "personagem": "Bill AKA Snake Charmer",
+                "data_nascimento": "1936-12-08",
+                "sexo_ator": 2
+            },
+            {
+                "id": 589,
+                "nome": "Daryl Hannah",
+                "personagem": "Elle Driver AKA California Mountain Snake",
+                "data_nascimento": "1960-12-03",
+                "sexo_ator": 1
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/tHkujDqdPC9VQoFpEWU0QgWIZyM.jpg",
+        "genre_ids": [
+            28,
+            53,
+            80
+        ],
+        "id": 324552,
+        "original_language": "en",
+        "original_title": "John Wick: Chapter 2",
+        "overview": "John Wick is forced out of retirement by a former associate looking to seize control of a shadowy international assassins’ guild. Bound by a blood oath to aid him, Wick travels to Rome and does battle against some of the world’s most dangerous killers.",
+        "popularity": 141.88,
+        "poster_path": "/hXWBc0ioZP3cN4zCu6SN3YHXZVO.jpg",
+        "release_date": "2017-02-08",
+        "title": "John Wick: Chapter 2",
+        "video": false,
+        "vote_average": 7.3,
+        "vote_count": 12732,
+        "cast": [
+            {
+                "id": 6384,
+                "nome": "Keanu Reeves",
+                "personagem": "John Wick",
+                "data_nascimento": "1964-09-02",
+                "sexo_ator": 2
+            },
+            {
+                "id": 4238,
+                "nome": "Common",
+                "personagem": "Cassian",
+                "data_nascimento": "1972-03-13",
+                "sexo_ator": 2
+            },
+            {
+                "id": 6972,
+                "nome": "Ian McShane",
+                "personagem": "Winston",
+                "data_nascimento": "1942-09-29",
+                "sexo_ator": 2
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/nLFxvLokHe3bQmrmAfljIfax2jQ.jpg",
+        "genre_ids": [
+            878,
+            80
+        ],
+        "id": 185,
+        "original_language": "en",
+        "original_title": "A Clockwork Orange",
+        "overview": "In a near-future Britain, young Alexander DeLarge and his pals get their kicks beating and raping anyone they please. When not destroying the lives of others, Alex swoons to the music of Beethoven. The state, eager to crack down on juvenile crime, gives an incarcerated Alex the option to undergo an invasive procedure that'll rob him of all personal agency. In a time when conscience is a commodity, can Alex change his tune?",
+        "popularity": 47.246,
+        "poster_path": "/4sHeTAp65WrSSuc05nRBKddhBxO.jpg",
+        "release_date": "1971-12-19",
+        "title": "A Clockwork Orange",
+        "video": false,
+        "vote_average": 8.203,
+        "vote_count": 12565,
+        "cast": [
+            {
+                "id": 56890,
+                "nome": "Malcolm McDowell",
+                "personagem": "Alex DeLarge",
+                "data_nascimento": "1943-06-13",
+                "sexo_ator": 2
+            },
+            {
+                "id": 2272,
+                "nome": "Carl Duering",
+                "personagem": "Dr. Brodsky",
+                "data_nascimento": "1923-05-29",
+                "sexo_ator": 2
+            },
+            {
+                "id": 2267,
+                "nome": "Michael Bates",
+                "personagem": "Chief Guard Barnes",
+                "data_nascimento": "1920-12-04",
+                "sexo_ator": 2
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/d6UxFCGQxpszcf8mwgGjQ3ynqGl.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 769,
+        "original_language": "en",
+        "original_title": "GoodFellas",
+        "overview": "The true story of Henry Hill, a half-Irish, half-Sicilian Brooklyn kid who is adopted by neighbourhood gangsters at an early age and climbs the ranks of a Mafia family under the guidance of Jimmy Conway.",
+        "popularity": 62.771,
+        "poster_path": "/aKuFiU82s5ISJpGZp7YkIr3kCUd.jpg",
+        "release_date": "1990-09-12",
+        "title": "GoodFellas",
+        "video": false,
+        "vote_average": 8.463,
+        "vote_count": 12542,
+        "cast": [
+            {
+                "id": 380,
+                "nome": "Robert De Niro",
+                "personagem": "James Conway",
+                "data_nascimento": "1943-08-17",
+                "sexo_ator": 2
+            },
+            {
+                "id": 11477,
+                "nome": "Ray Liotta",
+                "personagem": "Henry Hill",
+                "data_nascimento": "1954-12-18",
+                "sexo_ator": 2
+            },
+            {
+                "id": 4517,
+                "nome": "Joe Pesci",
+                "personagem": "Tommy DeVito",
+                "data_nascimento": "1943-02-09",
+                "sexo_ator": 2
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/1oaLxMtdn47TWdaty8BwdU4oXhV.jpg",
+        "genre_ids": [
+            18,
+            53,
+            80
+        ],
+        "id": 64690,
+        "original_language": "en",
+        "original_title": "Drive",
+        "overview": "Driver is a skilled Hollywood stuntman who moonlights as a getaway driver for criminals. Though he projects an icy exterior, lately he's been warming up to a pretty neighbor named Irene and her young son, Benicio. When Irene's husband gets out of jail, he enlists Driver's help in a million-dollar heist. The job goes horribly wrong, and Driver must risk his life to protect Irene and Benicio from the vengeful masterminds behind the robbery.",
+        "popularity": 39.103,
+        "poster_path": "/602vevIURmpDfzbnv5Ubi6wIkQm.jpg",
+        "release_date": "2011-09-15",
+        "title": "Drive",
+        "video": false,
+        "vote_average": 7.581,
+        "vote_count": 12314,
+        "cast": [
+            {
+                "id": 30614,
+                "nome": "Ryan Gosling",
+                "personagem": "Driver",
+                "data_nascimento": "1980-11-12",
+                "sexo_ator": 2
+            },
+            {
+                "id": 36662,
+                "nome": "Carey Mulligan",
+                "personagem": "Irene",
+                "data_nascimento": "1985-05-28",
+                "sexo_ator": 1
+            },
+            {
+                "id": 17419,
+                "nome": "Bryan Cranston",
+                "personagem": "Shannon",
+                "data_nascimento": "1956-03-07",
+                "sexo_ator": 2
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/b6w7gKLQLS2zw4JK0XmKgQ4gnzr.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 240,
+        "original_language": "en",
+        "original_title": "The Godfather Part II",
+        "overview": "In the continuing saga of the Corleone crime family, a young Vito Corleone grows up in Sicily and in 1910s New York. In the 1950s, Michael Corleone attempts to expand the family business into Las Vegas, Hollywood and Cuba.",
+        "popularity": 100.51,
+        "poster_path": "/hek3koDUyRQk7FIhPXsa6mT2Zc3.jpg",
+        "release_date": "1974-12-20",
+        "title": "The Godfather Part II",
+        "video": false,
+        "vote_average": 8.577,
+        "vote_count": 12109,
+        "cast": [
+            {
+                "id": 1158,
+                "nome": "Al Pacino",
+                "personagem": "Don Michael Corleone",
+                "data_nascimento": "1940-04-25",
+                "sexo_ator": 2
+            },
+            {
+                "id": 3087,
+                "nome": "Robert Duvall",
+                "personagem": "Tom Hagen",
+                "data_nascimento": "1931-01-05",
+                "sexo_ator": 2
+            },
+            {
+                "id": 3092,
+                "nome": "Diane Keaton",
+                "personagem": "Kay Corleone",
+                "data_nascimento": "1946-01-05",
+                "sexo_ator": 1
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/4HWAQu28e2yaWrtupFPGFkdNU7V.jpg",
+        "genre_ids": [
+            35,
+            80,
+            9648
+        ],
+        "id": 546554,
+        "original_language": "en",
+        "original_title": "Knives Out",
+        "overview": "When renowned crime novelist Harlan Thrombey is found dead at his estate just after his 85th birthday, the inquisitive and debonair Detective Benoit Blanc is mysteriously enlisted to investigate. From Harlan's dysfunctional family to his devoted staff, Blanc sifts through a web of red herrings and self-serving lies to uncover the truth behind Harlan's untimely death.",
+        "popularity": 70.753,
+        "poster_path": "/pThyQovXQrw2m0s9x82twj48Jq4.jpg",
+        "release_date": "2019-11-27",
+        "title": "Knives Out",
+        "video": false,
+        "vote_average": 7.849,
+        "vote_count": 12024,
+        "cast": [
+            {
+                "id": 8784,
+                "nome": "Daniel Craig",
+                "personagem": "Benoit Blanc",
+                "data_nascimento": "1968-03-02",
+                "sexo_ator": 2
+            },
+            {
+                "id": 16828,
+                "nome": "Chris Evans",
+                "personagem": "Ransom Drysdale",
+                "data_nascimento": "1981-06-13",
+                "sexo_ator": 2
+            },
+            {
+                "id": 224513,
+                "nome": "Ana de Armas",
+                "personagem": "Marta Cabrera",
+                "data_nascimento": "1988-04-30",
+                "sexo_ator": 1
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/6aoyUbvu0419XLKLIMoH0TkEicH.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 103,
+        "original_language": "en",
+        "original_title": "Taxi Driver",
+        "overview": "A mentally unstable Vietnam War veteran works as a night-time taxi driver in New York City where the perceived decadence and sleaze feed his urge for violent action.",
+        "popularity": 57.345,
+        "poster_path": "/ekstpH614fwDX8DUln1a2Opz0N8.jpg",
+        "release_date": "1976-02-09",
+        "title": "Taxi Driver",
+        "video": false,
+        "vote_average": 8.1,
+        "vote_count": 11919,
+        "cast": [
+            {
+                "id": 380,
+                "nome": "Robert De Niro",
+                "personagem": "Travis Bickle",
+                "data_nascimento": "1943-08-17",
+                "sexo_ator": 2
+            },
+            {
+                "id": 1038,
+                "nome": "Jodie Foster",
+                "personagem": "Iris Steensma",
+                "data_nascimento": "1962-11-19",
+                "sexo_ator": 1
+            },
+            {
+                "id": 1036,
+                "nome": "Cybill Shepherd",
+                "personagem": "Betsy",
+                "data_nascimento": "1950-02-18",
+                "sexo_ator": 1
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/kd9jFTTabg4xJpHDgxY0h8F9BzG.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 6977,
+        "original_language": "en",
+        "original_title": "No Country for Old Men",
+        "overview": "Llewelyn Moss stumbles upon dead bodies, $2 million and a hoard of heroin in a Texas desert, but methodical killer Anton Chigurh comes looking for it, with local sheriff Ed Tom Bell hot on his trail. The roles of prey and predator blur as the violent pursuit of money and justice collide.",
+        "popularity": 39.114,
+        "poster_path": "/bj1v6YKF8yHqA489VFfnQvOJpnc.jpg",
+        "release_date": "2007-06-13",
+        "title": "No Country for Old Men",
+        "video": false,
+        "vote_average": 7.94,
+        "vote_count": 11657,
+        "cast": [
+            {
+                "id": 3810,
+                "nome": "Javier Bardem",
+                "personagem": "Anton Chigurh",
+                "data_nascimento": "1969-03-01",
+                "sexo_ator": 2
+            },
+            {
+                "id": 2176,
+                "nome": "Tommy Lee Jones",
+                "personagem": "Ed Tom Bell",
+                "data_nascimento": "1946-09-15",
+                "sexo_ator": 2
+            },
+            {
+                "id": 16851,
+                "nome": "Josh Brolin",
+                "personagem": "Llewelyn Moss",
+                "data_nascimento": "1968-02-12",
+                "sexo_ator": 2
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/cCvp5Sni75agCtyJkNOMapORUQV.jpg",
+        "genre_ids": [
+            28,
+            80,
+            18
+        ],
+        "id": 111,
+        "original_language": "en",
+        "original_title": "Scarface",
+        "overview": "After getting a green card in exchange for assassinating a Cuban government official, Tony Montana stakes a claim on the drug trade in Miami. Viciously murdering anyone who stands in his way, Tony eventually becomes the biggest drug lord in the state, controlling nearly all the cocaine that comes through Miami. But increased pressure from the police, wars with Colombian drug cartels and his own drug-fueled paranoia serve to fuel the flames of his eventual downfall.",
+        "popularity": 80.49,
+        "poster_path": "/iQ5ztdjvteGeboxtmRdXEChJOHh.jpg",
+        "release_date": "1983-12-09",
+        "title": "Scarface",
+        "video": false,
+        "vote_average": 8.2,
+        "vote_count": 11478,
+        "cast": [
+            {
+                "id": 1158,
+                "nome": "Al Pacino",
+                "personagem": "Tony Montana",
+                "data_nascimento": "1940-04-25",
+                "sexo_ator": 2
+            },
+            {
+                "id": 1159,
+                "nome": "Steven Bauer",
+                "personagem": "Manny Ray",
+                "data_nascimento": "1956-12-02",
+                "sexo_ator": 2
+            },
+            {
+                "id": 1160,
+                "nome": "Michelle Pfeiffer",
+                "personagem": "Elvira",
+                "data_nascimento": "1958-04-29",
+                "sexo_ator": 1
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/3RFmTz5h2UuFWEV4oH00XICBR9y.jpg",
+        "genre_ids": [
+            18,
+            53,
+            80
+        ],
+        "id": 146233,
+        "original_language": "en",
+        "original_title": "Prisoners",
+        "overview": "Keller Dover is facing a parent’s worst nightmare: his young daughter and her friend have gone missing. Heading the investigation, Detective Loki arrests the only suspect – the driver of an RV on which the girls had been playing – but a lack of evidence forces his release. As pressure mounts, Loki’s team pursues multiple leads while a frantic Dover decides he has no choice but to take matters into his own hands.",
+        "popularity": 51.83,
+        "poster_path": "/uhviyknTT5cEQXbn6vWIqfM4vGm.jpg",
+        "release_date": "2013-09-19",
+        "title": "Prisoners",
+        "video": false,
+        "vote_average": 8.098,
+        "vote_count": 11445,
+        "cast": [
+            {
+                "id": 6968,
+                "nome": "Hugh Jackman",
+                "personagem": "Keller Dover",
+                "data_nascimento": "1968-10-12",
+                "sexo_ator": 2
+            },
+            {
+                "id": 131,
+                "nome": "Jake Gyllenhaal",
+                "personagem": "Detective Loki",
+                "data_nascimento": "1980-12-19",
+                "sexo_ator": 2
+            },
+            {
+                "id": 19492,
+                "nome": "Viola Davis",
+                "personagem": "Nancy Birch",
+                "data_nascimento": "1965-08-11",
+                "sexo_ator": 1
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/qHhuTmhRCYvj9ls4STFGnaeAPhR.jpg",
+        "genre_ids": [
+            28,
+            80
+        ],
+        "id": 23483,
+        "original_language": "en",
+        "original_title": "Kick-Ass",
+        "overview": "Dave Lizewski is an unnoticed high school student and comic book fan who one day decides to become a super-hero, even though he has no powers, training or meaningful reason to do so.",
+        "popularity": 42.488,
+        "poster_path": "/8citjdBmjddZjlPsAHEyCKwGVvD.jpg",
+        "release_date": "2010-03-26",
+        "title": "Kick-Ass",
+        "video": false,
+        "vote_average": 7.125,
+        "vote_count": 11404,
+        "cast": [
+            {
+                "id": 27428,
+                "nome": "Aaron Taylor-Johnson",
+                "personagem": "Dave Lizewski / Kick-Ass",
+                "data_nascimento": "1990-06-13",
+                "sexo_ator": 2
+            },
+            {
+                "id": 56734,
+                "nome": "Chloë Grace Moretz",
+                "personagem": "Mindy Macready / Hit Girl",
+                "data_nascimento": "1997-02-10",
+                "sexo_ator": 1
+            },
+            {
+                "id": 2963,
+                "nome": "Nicolas Cage",
+                "personagem": "Damon Macready / Big Daddy",
+                "data_nascimento": "1964-01-07",
+                "sexo_ator": 2
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ncoqdHs1poUaBqyKic9YI8ai7MP.jpg",
+        "genre_ids": [
+            53,
+            80
+        ],
+        "id": 161,
+        "original_language": "en",
+        "original_title": "Ocean's Eleven",
+        "overview": "Less than 24 hours into his parole, charismatic thief Danny Ocean is already rolling out his next plan: In one night, Danny's hand-picked crew of specialists will attempt to steal more than $150 million from three Las Vegas casinos. But to score the cash, Danny risks his chances of reconciling with ex-wife, Tess.",
+        "popularity": 107.837,
+        "poster_path": "/hQQCdZrsHtZyR6NbKH2YyCqd2fR.jpg",
+        "release_date": "2001-12-07",
+        "title": "Ocean's Eleven",
+        "video": false,
+        "vote_average": 7.4,
+        "vote_count": 11313,
+        "cast": [
+            {
+                "id": 1461,
+                "nome": "George Clooney",
+                "personagem": "Danny Ocean",
+                "data_nascimento": "1961-05-06",
+                "sexo_ator": 2
+            },
+            {
+                "id": 1892,
+                "nome": "Matt Damon",
+                "personagem": "Linus Caldwell",
+                "data_nascimento": "1970-10-08",
+                "sexo_ator": 2
+            },
+            {
+                "id": 1271,
+                "nome": "Andy García",
+                "personagem": "Terry Benedict",
+                "data_nascimento": "1956-04-12",
+                "sexo_ator": 2
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/nevS6wjzCxZESvmjJZqdyZ3RNQ6.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 115,
+        "original_language": "en",
+        "original_title": "The Big Lebowski",
+        "overview": "Jeffrey 'The Dude' Lebowski, a Los Angeles slacker who only wants to bowl and drink White Russians, is mistaken for another Jeffrey Lebowski, a wheelchair-bound millionaire, and finds himself dragged into a strange series of events involving nihilists, adult film producers, ferrets, errant toes, and large sums of money.",
+        "popularity": 53.814,
+        "poster_path": "/9mprbw31MGdd66LR0AQKoDMoFRv.jpg",
+        "release_date": "1998-03-06",
+        "title": "The Big Lebowski",
+        "video": false,
+        "vote_average": 7.845,
+        "vote_count": 10909,
+        "cast": [
+            {
+                "id": 1229,
+                "nome": "Jeff Bridges",
+                "personagem": "The Dude",
+                "data_nascimento": "1949-12-04",
+                "sexo_ator": 2
+            },
+            {
+                "id": 1230,
+                "nome": "John Goodman",
+                "personagem": "Walter Sobchak",
+                "data_nascimento": "1952-06-20",
+                "sexo_ator": 2
+            },
+            {
+                "id": 1231,
+                "nome": "Julianne Moore",
+                "personagem": "Maude Lebowski",
+                "data_nascimento": "1960-12-03",
+                "sexo_ator": 1
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/rRwD4MoBlkBXWQ6PDnbKRSU5dDu.jpg",
+        "genre_ids": [
+            53,
+            18,
+            80
+        ],
+        "id": 1359,
+        "original_language": "en",
+        "original_title": "American Psycho",
+        "overview": "A wealthy New York investment banking executive hides his alternate psychopathic ego from his co-workers and friends as he escalates deeper into his illogical, gratuitous fantasies.",
+        "popularity": 62.584,
+        "poster_path": "/9uGHEgsiUXjCNq8wdq4r49YL8A1.jpg",
+        "release_date": "2000-04-13",
+        "title": "American Psycho",
+        "video": false,
+        "vote_average": 7.4,
+        "vote_count": 10593,
+        "cast": [
+            {
+                "id": 3894,
+                "nome": "Christian Bale",
+                "personagem": "Patrick Bateman",
+                "data_nascimento": "1974-01-30",
+                "sexo_ator": 2
+            },
+            {
+                "id": 15009,
+                "nome": "Justin Theroux",
+                "personagem": "Timothy Bryce",
+                "data_nascimento": "1971-08-10",
+                "sexo_ator": 2
+            },
+            {
+                "id": 6164,
+                "nome": "Josh Lucas",
+                "personagem": "Craig McDermott",
+                "data_nascimento": "1971-06-20",
+                "sexo_ator": 2
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/qWE206uqSbEXLVATvbB6fUIX8WE.jpg",
+        "genre_ids": [
+            80,
+            53,
+            28,
+            9648
+        ],
+        "id": 291805,
+        "original_language": "en",
+        "original_title": "Now You See Me 2",
+        "overview": "One year after outwitting the FBI and winning the public’s adulation with their mind-bending spectacles, the Four Horsemen resurface only to find themselves face to face with a new enemy who enlists them to pull off their most dangerous heist yet.",
+        "popularity": 78.347,
+        "poster_path": "/A81kDB6a1K86YLlcOtZB27jriJh.jpg",
+        "release_date": "2016-06-02",
+        "title": "Now You See Me 2",
+        "video": false,
+        "vote_average": 6.827,
+        "vote_count": 10546,
+        "cast": [
+            {
+                "id": 44735,
+                "nome": "Jesse Eisenberg",
+                "personagem": "J. Daniel Atlas",
+                "data_nascimento": "1983-10-05",
+                "sexo_ator": 2
+            },
+            {
+                "id": 103,
+                "nome": "Mark Ruffalo",
+                "personagem": "Dylan Rhodes",
+                "data_nascimento": "1967-11-22",
+                "sexo_ator": 2
+            },
+            {
+                "id": 57755,
+                "nome": "Woody Harrelson",
+                "personagem": "Merritt McKinney / Chase McKinney",
+                "data_nascimento": "1961-07-23",
+                "sexo_ator": 2
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/wofhl2lsTYCPmMQPsbj6iu9n0P6.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 242582,
+        "original_language": "en",
+        "original_title": "Nightcrawler",
+        "overview": "When Lou Bloom, desperate for work, muscles into the world of L.A. crime journalism, he blurs the line between observer and participant to become the star of his own story. Aiding him in his effort is Nina, a TV-news veteran.",
+        "popularity": 54.526,
+        "poster_path": "/j9HrX8f7GbZQm1BrBiR40uFQZSb.jpg",
+        "release_date": "2014-10-23",
+        "title": "Nightcrawler",
+        "video": false,
+        "vote_average": 7.7,
+        "vote_count": 10508,
+        "cast": [
+            {
+                "id": 131,
+                "nome": "Jake Gyllenhaal",
+                "personagem": "Louis Bloom",
+                "data_nascimento": "1980-12-19",
+                "sexo_ator": 2
+            },
+            {
+                "id": 53240,
+                "nome": "Riz Ahmed",
+                "personagem": "Rick",
+                "data_nascimento": "1982-12-01",
+                "sexo_ator": 2
+            },
+            {
+                "id": 14343,
+                "nome": "Rene Russo",
+                "personagem": "Nina Romina",
+                "data_nascimento": "1954-02-17",
+                "sexo_ator": 1
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/cHkhb5A4gQRK6zs6Pv7zorHs8Nk.jpg",
+        "genre_ids": [
+            28,
+            53,
+            80
+        ],
+        "id": 168259,
+        "original_language": "en",
+        "original_title": "Furious 7",
+        "overview": "Deckard Shaw seeks revenge against Dominic Toretto and his family for his comatose brother.",
+        "popularity": 76.149,
+        "poster_path": "/ktofZ9Htrjiy0P6LEowsDaxd3Ri.jpg",
+        "release_date": "2015-04-01",
+        "title": "Furious 7",
+        "video": false,
+        "vote_average": 7.234,
+        "vote_count": 10407,
+        "cast": [
+            {
+                "id": 12835,
+                "nome": "Vin Diesel",
+                "personagem": "Dominic Toretto",
+                "data_nascimento": "1967-07-18",
+                "sexo_ator": 2
+            },
+            {
+                "id": 8167,
+                "nome": "Paul Walker",
+                "personagem": "Brian O'Conner",
+                "data_nascimento": "1973-09-12",
+                "sexo_ator": 2
+            },
+            {
+                "id": 976,
+                "nome": "Jason Statham",
+                "personagem": "Deckard Shaw",
+                "data_nascimento": "1967-07-26",
+                "sexo_ator": 2
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/mRfI3y2oAd7ejur2di09xC9niqp.jpg",
+        "genre_ids": [
+            28,
+            53,
+            80
+        ],
+        "id": 82992,
+        "original_language": "en",
+        "original_title": "Fast & Furious 6",
+        "overview": "Hobbs has Dominic and Brian reassemble their crew to take down a team of mercenaries; Dominic unexpectedly gets sidetracked with facing his presumed deceased girlfriend, Letty.",
+        "popularity": 9.753,
+        "poster_path": "/3EXOOkhSmJQ9DisNmIjZ8Xi633I.jpg",
+        "release_date": "2013-05-21",
+        "title": "Fast & Furious 6",
+        "video": false,
+        "vote_average": 6.818,
+        "vote_count": 10391,
+        "cast": [
+            {
+                "id": 12835,
+                "nome": "Vin Diesel",
+                "personagem": "Dominic Toretto",
+                "data_nascimento": "1967-07-18",
+                "sexo_ator": 2
+            },
+            {
+                "id": 8167,
+                "nome": "Paul Walker",
+                "personagem": "Brian O'Conner",
+                "data_nascimento": "1973-09-12",
+                "sexo_ator": 2
+            },
+            {
+                "id": 18918,
+                "nome": "Dwayne Johnson",
+                "personagem": "Luke Hobbs",
+                "data_nascimento": "1972-05-02",
+                "sexo_ator": 2
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/vVpEOvdxVBP2aV166j5Xlvb5Cdc.jpg",
+        "genre_ids": [
+            28,
+            53,
+            80
+        ],
+        "id": 458156,
+        "original_language": "en",
+        "original_title": "John Wick: Chapter 3 - Parabellum",
+        "overview": "Super-assassin John Wick returns with a $14 million price tag on his head and an army of bounty-hunting killers on his trail. After killing a member of the shadowy international assassin’s guild, the High Table, John Wick is excommunicado, but the world’s most ruthless hit men and women await his every turn.",
+        "popularity": 144.999,
+        "poster_path": "/ziEuG1essDuWuC5lpWUaw1uXY2O.jpg",
+        "release_date": "2019-05-15",
+        "title": "John Wick: Chapter 3 - Parabellum",
+        "video": false,
+        "vote_average": 7.4,
+        "vote_count": 10328,
+        "cast": [
+            {
+                "id": 6384,
+                "nome": "Keanu Reeves",
+                "personagem": "John Wick",
+                "data_nascimento": "1964-09-02",
+                "sexo_ator": 2
+            },
+            {
+                "id": 4587,
+                "nome": "Halle Berry",
+                "personagem": "Sofia",
+                "data_nascimento": "1966-08-14",
+                "sexo_ator": 1
+            },
+            {
+                "id": 6972,
+                "nome": "Ian McShane",
+                "personagem": "Winston",
+                "data_nascimento": "1942-09-29",
+                "sexo_ator": 2
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/elzsm8vIpYVh0s6ztFEKElqgXqe.jpg",
+        "genre_ids": [
+            80,
+            18,
+            9648,
+            53
+        ],
+        "id": 1949,
+        "original_language": "en",
+        "original_title": "Zodiac",
+        "overview": "The zodiac murders cause the lives of Paul Avery, David Toschi and Robert Graysmith to intersect.",
+        "popularity": 32.182,
+        "poster_path": "/6YmeO4pB7XTh8P8F960O1uA14JO.jpg",
+        "release_date": "2007-03-02",
+        "title": "Zodiac",
+        "video": false,
+        "vote_average": 7.522,
+        "vote_count": 10208,
+        "cast": [
+            {
+                "id": 131,
+                "nome": "Jake Gyllenhaal",
+                "personagem": "Robert Graysmith",
+                "data_nascimento": "1980-12-19",
+                "sexo_ator": 2
+            },
+            {
+                "id": 103,
+                "nome": "Mark Ruffalo",
+                "personagem": "David Toschi",
+                "data_nascimento": "1967-11-22",
+                "sexo_ator": 2
+            },
+            {
+                "id": 11085,
+                "nome": "Anthony Edwards",
+                "personagem": "William Armstrong",
+                "data_nascimento": "1962-07-19",
+                "sexo_ator": 2
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/7S7PE3vK9Eh5uzCYBDGk5qTJeYW.jpg",
+        "genre_ids": [
+            18,
+            80,
+            53
+        ],
+        "id": 629,
+        "original_language": "en",
+        "original_title": "The Usual Suspects",
+        "overview": "Held in an L.A. interrogation room, Verbal Kint attempts to convince the feds that a mythic crime lord, Keyser Soze, not only exists, but was also responsible for drawing him and his four partners into a multi-million dollar heist that ended with an explosion in San Pedro harbor – leaving few survivors. Verbal lures his interrogators with an incredible story of the crime lord's almost supernatural prowess.",
+        "popularity": 61.719,
+        "poster_path": "/8dH7y4O26uLPesxUTT80igEtsBM.jpg",
+        "release_date": "1995-07-19",
+        "title": "The Usual Suspects",
+        "video": false,
+        "vote_average": 8.186,
+        "vote_count": 10135,
+        "cast": [
+            {
+                "id": 1979,
+                "nome": "Kevin Spacey",
+                "personagem": "Roger ‘Verbal’ Kint",
+                "data_nascimento": "1959-07-26",
+                "sexo_ator": 2
+            },
+            {
+                "id": 5168,
+                "nome": "Gabriel Byrne",
+                "personagem": "Dean Keaton",
+                "data_nascimento": "1950-05-12",
+                "sexo_ator": 2
+            },
+            {
+                "id": 9045,
+                "nome": "Stephen Baldwin",
+                "personagem": "Michael McManus",
+                "data_nascimento": "1966-05-12",
+                "sexo_ator": 2
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/lWNASscWXn32Asr9vkB1wq6cKvD.jpg",
+        "genre_ids": [
+            12,
+            28,
+            80,
+            9648
+        ],
+        "id": 58574,
+        "original_language": "en",
+        "original_title": "Sherlock Holmes: A Game of Shadows",
+        "overview": "There is a new criminal mastermind at large (Professor Moriarty) and not only is he Holmes’ intellectual equal, but his capacity for evil and lack of conscience may give him an advantage over the  detective.",
+        "popularity": 70.777,
+        "poster_path": "/y1MYZkwhZK6L0Jy4YMuPktzDOfn.jpg",
+        "release_date": "2011-11-22",
+        "title": "Sherlock Holmes: A Game of Shadows",
+        "video": false,
+        "vote_average": 7.139,
+        "vote_count": 10127,
+        "cast": [
+            {
+                "id": 3223,
+                "nome": "Robert Downey Jr.",
+                "personagem": "Sherlock Holmes",
+                "data_nascimento": "1965-04-04",
+                "sexo_ator": 2
+            },
+            {
+                "id": 9642,
+                "nome": "Jude Law",
+                "personagem": "Dr. John Watson",
+                "data_nascimento": "1972-12-29",
+                "sexo_ator": 2
+            },
+            {
+                "id": 87722,
+                "nome": "Noomi Rapace",
+                "personagem": "Madam Simza Heron",
+                "data_nascimento": "1979-12-28",
+                "sexo_ator": 1
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/jzdnhRhG0dsuYorwvSqPqqnM1cV.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 337339,
+        "original_language": "en",
+        "original_title": "The Fate of the Furious",
+        "overview": "When a mysterious woman seduces Dom into the world of crime and a betrayal of those closest to him, the crew face trials that will test them as never before.",
+        "popularity": 82.4,
+        "poster_path": "/dImWM7GJqryWJO9LHa3XQ8DD5NH.jpg",
+        "release_date": "2017-04-12",
+        "title": "The Fate of the Furious",
+        "video": false,
+        "vote_average": 6.879,
+        "vote_count": 10094,
+        "cast": [
+            {
+                "id": 12835,
+                "nome": "Vin Diesel",
+                "personagem": "Dominic Toretto",
+                "data_nascimento": "1967-07-18",
+                "sexo_ator": 2
+            },
+            {
+                "id": 976,
+                "nome": "Jason Statham",
+                "personagem": "Deckard Shaw",
+                "data_nascimento": "1967-07-26",
+                "sexo_ator": 2
+            },
+            {
+                "id": 18918,
+                "nome": "Dwayne Johnson",
+                "personagem": "Luke Hobbs",
+                "data_nascimento": "1972-05-02",
+                "sexo_ator": 2
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/rXrpYOveFl76ivMmyb2612T7Q8w.jpg",
+        "genre_ids": [
+            28,
+            35,
+            80
+        ],
+        "id": 64688,
+        "original_language": "en",
+        "original_title": "21 Jump Street",
+        "overview": "When cops Schmidt and Jenko join the secret Jump Street unit, they use their youthful appearances to go under cover as high-school students. They trade in their guns and badges for backpacks, and set out to shut down a dangerous drug ring. But, as time goes on, Schmidt and Jenko discover that high school is nothing like it was just a few years earlier -- and, what's more, they must again confront the teenage terror and anxiety they thought they had left behind.",
+        "popularity": 47.243,
+        "poster_path": "/8v3Sqv9UcIUC4ebmpKWROqPBINZ.jpg",
+        "release_date": "2012-03-14",
+        "title": "21 Jump Street",
+        "video": false,
+        "vote_average": 6.883,
+        "vote_count": 10065,
+        "cast": [
+            {
+                "id": 21007,
+                "nome": "Jonah Hill",
+                "personagem": "Schmidt",
+                "data_nascimento": "1983-12-20",
+                "sexo_ator": 2
+            },
+            {
+                "id": 38673,
+                "nome": "Channing Tatum",
+                "personagem": "Jenko",
+                "data_nascimento": "1980-04-26",
+                "sexo_ator": 2
+            },
+            {
+                "id": 60073,
+                "nome": "Brie Larson",
+                "personagem": "Molly Tracey",
+                "data_nascimento": "1989-10-01",
+                "sexo_ator": 1
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/3zBjU7mXlzxJKAStRzlNDZRGT0m.jpg",
+        "genre_ids": [
+            28,
+            80
+        ],
+        "id": 495764,
+        "original_language": "en",
+        "original_title": "Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn)",
+        "overview": "Harley Quinn joins forces with a singer, an assassin and a police detective to help a young girl who had a hit placed on her after she stole a rare diamond from a crime lord.",
+        "popularity": 74.334,
+        "poster_path": "/h4VB6m0RwcicVEZvzftYZyKXs6K.jpg",
+        "release_date": "2020-02-05",
+        "title": "Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn)",
+        "video": false,
+        "vote_average": 6.927,
+        "vote_count": 10057,
+        "cast": [
+            {
+                "id": 234352,
+                "nome": "Margot Robbie",
+                "personagem": "Harley Quinn",
+                "data_nascimento": "1990-07-02",
+                "sexo_ator": 1
+            },
+            {
+                "id": 4810,
+                "nome": "Rosie Perez",
+                "personagem": "Renee Montoya",
+                "data_nascimento": "1964-09-06",
+                "sexo_ator": 1
+            },
+            {
+                "id": 17628,
+                "nome": "Mary Elizabeth Winstead",
+                "personagem": "Helena Bertinelli / Huntress",
+                "data_nascimento": "1984-11-28",
+                "sexo_ator": 1
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/80uHK2xWwjlOxmfJ1wQB09omAht.jpg",
+        "genre_ids": [
+            10749,
+            35,
+            80,
+            14
+        ],
+        "id": 854,
+        "original_language": "en",
+        "original_title": "The Mask",
+        "overview": "When timid bank clerk Stanley Ipkiss discovers a magical mask containing the spirit of the Norse god Loki, his entire life changes. While wearing the mask, Ipkiss becomes a supernatural playboy exuding charm and confidence which allows him to catch the eye of local nightclub singer Tina Carlyle. Unfortunately, under the mask's influence, Ipkiss also robs a bank, which angers junior crime lord Dorian Tyrell, whose goons get blamed for the heist.",
+        "popularity": 52.863,
+        "poster_path": "/xbbXp9px4o8Oe7IbGd0yIbla8mZ.jpg",
+        "release_date": "1994-07-29",
+        "title": "The Mask",
+        "video": false,
+        "vote_average": 6.956,
+        "vote_count": 9975,
+        "cast": [
+            {
+                "id": 206,
+                "nome": "Jim Carrey",
+                "personagem": "Stanley Ipkiss / The Mask",
+                "data_nascimento": "1962-01-17",
+                "sexo_ator": 2
+            },
+            {
+                "id": 11803,
+                "nome": "Peter Greene",
+                "personagem": "Dorian Tyrrell",
+                "data_nascimento": "1965-10-08",
+                "sexo_ator": 2
+            },
+            {
+                "id": 6941,
+                "nome": "Cameron Diaz",
+                "personagem": "Tina Carlyle",
+                "data_nascimento": "1972-08-30",
+                "sexo_ator": 1
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/oQHF0Y4gCw6VdPmapjsbZoxY2ht.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 359940,
+        "original_language": "en",
+        "original_title": "Three Billboards Outside Ebbing, Missouri",
+        "overview": "After seven months have passed without a culprit in her daughter's murder case, Mildred Hayes makes a bold move, painting three signs leading into her town with a controversial message directed at Bill Willoughby, the town's revered chief of police. When his second-in-command Officer Jason Dixon, an immature mother's boy with a penchant for violence, gets involved, the battle between Mildred and Ebbing's law enforcement is only exacerbated.",
+        "popularity": 35.785,
+        "poster_path": "/pZRhqJj0DBy4ghB7g6pU7MGHsWJ.jpg",
+        "release_date": "2017-12-01",
+        "title": "Three Billboards Outside Ebbing, Missouri",
+        "video": false,
+        "vote_average": 8.072,
+        "vote_count": 9877,
+        "cast": [
+            {
+                "id": 3910,
+                "nome": "Frances McDormand",
+                "personagem": "Mildred Hayes",
+                "data_nascimento": "1957-06-23",
+                "sexo_ator": 1
+            },
+            {
+                "id": 57755,
+                "nome": "Woody Harrelson",
+                "personagem": "Bill Willoughby",
+                "data_nascimento": "1961-07-23",
+                "sexo_ator": 2
+            },
+            {
+                "id": 6807,
+                "nome": "Sam Rockwell",
+                "personagem": "Jason Dixon",
+                "data_nascimento": "1968-11-05",
+                "sexo_ator": 2
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/tRS6jvPM9qPrrnx2KRp3ew96Yot.jpg",
+        "genre_ids": [
+            80,
+            9648,
+            53
+        ],
+        "id": 414906,
+        "original_language": "en",
+        "original_title": "The Batman",
+        "overview": "In his second year of fighting crime, Batman uncovers corruption in Gotham City that connects to his own family while facing a serial killer known as the Riddler.",
+        "popularity": 120.488,
+        "poster_path": "/74xTEgt7R36Fpooo50r9T25onhq.jpg",
+        "release_date": "2022-03-01",
+        "title": "The Batman",
+        "video": false,
+        "vote_average": 7.679,
+        "vote_count": 9805,
+        "cast": [
+            {
+                "id": 11288,
+                "nome": "Robert Pattinson",
+                "personagem": "Bruce Wayne / The Batman",
+                "data_nascimento": "1986-05-13",
+                "sexo_ator": 2
+            },
+            {
+                "id": 37153,
+                "nome": "Zoë Kravitz",
+                "personagem": "Selina Kyle",
+                "data_nascimento": "1988-12-01",
+                "sexo_ator": 1
+            },
+            {
+                "id": 2954,
+                "nome": "Jeffrey Wright",
+                "personagem": "Lt. James Gordon",
+                "data_nascimento": "1965-12-07",
+                "sexo_ator": 2
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/jY9ef5nqY4xIIMu3yzW3qamUCoi.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 9799,
+        "original_language": "en",
+        "original_title": "The Fast and the Furious",
+        "overview": "Dominic Toretto is a Los Angeles street racer suspected of masterminding a series of big-rig hijackings. When undercover cop Brian O'Conner infiltrates Toretto's iconoclastic crew, he falls for Toretto's sister and must choose a side: the gang or the LAPD.",
+        "popularity": 7.32,
+        "poster_path": "/gqY0ITBgT7A82poL9jv851qdnIb.jpg",
+        "release_date": "2001-06-22",
+        "title": "The Fast and the Furious",
+        "video": false,
+        "vote_average": 6.982,
+        "vote_count": 9738,
+        "cast": [
+            {
+                "id": 8167,
+                "nome": "Paul Walker",
+                "personagem": "Brian O'Conner",
+                "data_nascimento": "1973-09-12",
+                "sexo_ator": 2
+            },
+            {
+                "id": 12835,
+                "nome": "Vin Diesel",
+                "personagem": "Dominic Toretto",
+                "data_nascimento": "1967-07-18",
+                "sexo_ator": 2
+            },
+            {
+                "id": 17647,
+                "nome": "Michelle Rodriguez",
+                "personagem": "Letty Ortiz",
+                "data_nascimento": "1978-07-12",
+                "sexo_ator": 1
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/2J283YNxKhxAqHeVegUJ5mzLfGb.jpg",
+        "genre_ids": [
+            9648,
+            18,
+            80
+        ],
+        "id": 392044,
+        "original_language": "en",
+        "original_title": "Murder on the Orient Express",
+        "overview": "Genius Belgian detective Hercule Poirot investigates the murder of an American tycoon aboard the Orient Express train.",
+        "popularity": 50.187,
+        "poster_path": "/kc2gJjebceoFgOQbukzPzP8SXVZ.jpg",
+        "release_date": "2017-11-03",
+        "title": "Murder on the Orient Express",
+        "video": false,
+        "vote_average": 6.713,
+        "vote_count": 9722,
+        "cast": [
+            {
+                "id": 11181,
+                "nome": "Kenneth Branagh",
+                "personagem": "Hercule Poirot",
+                "data_nascimento": "1960-12-10",
+                "sexo_ator": 2
+            },
+            {
+                "id": 1364004,
+                "nome": "Tom Bateman",
+                "personagem": "Mr. Bouc",
+                "data_nascimento": "1989-03-15",
+                "sexo_ator": 2
+            },
+            {
+                "id": 1160,
+                "nome": "Michelle Pfeiffer",
+                "personagem": "Caroline Hubbard",
+                "data_nascimento": "1958-04-29",
+                "sexo_ator": 1
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/s5R6kTMfOxkGit96A8lqcDL4uVk.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 641,
+        "original_language": "en",
+        "original_title": "Requiem for a Dream",
+        "overview": "The drug-induced utopias of four Coney Island residents are shattered when their addictions run deep.",
+        "popularity": 36.016,
+        "poster_path": "/nOd6vjEmzCT0k4VYqsA2hwyi87C.jpg",
+        "release_date": "2000-10-06",
+        "title": "Requiem for a Dream",
+        "video": false,
+        "vote_average": 8.02,
+        "vote_count": 9700,
+        "cast": [
+            {
+                "id": 9560,
+                "nome": "Ellen Burstyn",
+                "personagem": "Sara Goldfarb",
+                "data_nascimento": "1932-12-07",
+                "sexo_ator": 1
+            },
+            {
+                "id": 7499,
+                "nome": "Jared Leto",
+                "personagem": "Harry Goldfarb",
+                "data_nascimento": "1971-12-26",
+                "sexo_ator": 2
+            },
+            {
+                "id": 6161,
+                "nome": "Jennifer Connelly",
+                "personagem": "Marion Silver",
+                "data_nascimento": "1970-12-12",
+                "sexo_ator": 1
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/xbk4yCvG9k6Z5gfPqcNM5DG6x3d.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 627,
+        "original_language": "en",
+        "original_title": "Trainspotting",
+        "overview": "Heroin addict Mark Renton stumbles through bad ideas and sobriety attempts with his unreliable friends -- Sick Boy, Begbie, Spud and Tommy. He also has an underage girlfriend, Diane, along for the ride. After cleaning up and moving from Edinburgh to London, Mark finds he can't escape the life he left behind when Begbie shows up at his front door on the lam, and a scheming Sick Boy follows.",
+        "popularity": 36.907,
+        "poster_path": "/yKmmT0q35R4AfW9Rbq2IPVAPwk3.jpg",
+        "release_date": "1996-02-23",
+        "title": "Trainspotting",
+        "video": false,
+        "vote_average": 7.97,
+        "vote_count": 9441,
+        "cast": [
+            {
+                "id": 3061,
+                "nome": "Ewan McGregor",
+                "personagem": "Renton",
+                "data_nascimento": "1971-03-31",
+                "sexo_ator": 2
+            },
+            {
+                "id": 1125,
+                "nome": "Ewen Bremner",
+                "personagem": "Spud",
+                "data_nascimento": "1972-01-23",
+                "sexo_ator": 2
+            },
+            {
+                "id": 9012,
+                "nome": "Jonny Lee Miller",
+                "personagem": "Sick Boy",
+                "data_nascimento": "1972-11-15",
+                "sexo_ator": 2
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/6MKr3KgOLmzOP6MSuZERO41Lpkt.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 337404,
+        "original_language": "en",
+        "original_title": "Cruella",
+        "overview": "In 1970s London amidst the punk rock revolution, a young grifter named Estella is determined to make a name for herself with her designs. She befriends a pair of young thieves who appreciate her appetite for mischief, and together they are able to build a life for themselves on the London streets. One day, Estella’s flair for fashion catches the eye of the Baroness von Hellman, a fashion legend who is devastatingly chic and terrifyingly haute. But their relationship sets in motion a course of events and revelations that will cause Estella to embrace her wicked side and become the raucous, fashionable and revenge-bent Cruella.",
+        "popularity": 97.372,
+        "poster_path": "/wToO8opxkGwKgSfJ1JK8tGvkG6U.jpg",
+        "release_date": "2021-05-26",
+        "title": "Cruella",
+        "video": false,
+        "vote_average": 8.017,
+        "vote_count": 9094,
+        "cast": [
+            {
+                "id": 54693,
+                "nome": "Emma Stone",
+                "personagem": "Estella / Cruella",
+                "data_nascimento": "1988-11-06",
+                "sexo_ator": 1
+            },
+            {
+                "id": 7056,
+                "nome": "Emma Thompson",
+                "personagem": "The Baroness",
+                "data_nascimento": "1959-04-15",
+                "sexo_ator": 1
+            },
+            {
+                "id": 54811,
+                "nome": "Joel Fry",
+                "personagem": "Jasper",
+                "data_nascimento": "1984-05-20",
+                "sexo_ator": 2
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/wkTEdiZFa8wmZsRUxunHKsrA9r9.jpg",
+        "genre_ids": [
+            27,
+            9648,
+            80
+        ],
+        "id": 176,
+        "original_language": "en",
+        "original_title": "Saw",
+        "overview": "Two men wake up to find themselves shackled in a grimy, abandoned bathroom. As they struggle to comprehend their predicament, they discover a disturbing tape left behind by the sadistic mastermind known as Jigsaw. With a chilling voice and cryptic instructions, Jigsaw informs them that they must partake in a gruesome game in order to secure their freedom.",
+        "popularity": 77.194,
+        "poster_path": "/rLNSOudrayDBo1uqXjrhxcjODIC.jpg",
+        "release_date": "2004-10-01",
+        "title": "Saw",
+        "video": false,
+        "vote_average": 7.417,
+        "vote_count": 8977,
+        "cast": [
+            {
+                "id": 2130,
+                "nome": "Cary Elwes",
+                "personagem": "Dr. Lawrence Gordon",
+                "data_nascimento": "1962-10-26",
+                "sexo_ator": 2
+            },
+            {
+                "id": 2128,
+                "nome": "Leigh Whannell",
+                "personagem": "Adam Faulkner-Stanheight",
+                "data_nascimento": "1977-01-17",
+                "sexo_ator": 2
+            },
+            {
+                "id": 2047,
+                "nome": "Danny Glover",
+                "personagem": "David Tapp",
+                "data_nascimento": "1946-07-22",
+                "sexo_ator": 2
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/9vAoubhoZE8aSkUZoSfxs3UWZhO.jpg",
+        "genre_ids": [
+            53,
+            28,
+            80
+        ],
+        "id": 156022,
+        "original_language": "en",
+        "original_title": "The Equalizer",
+        "overview": "McCall believes he has put his mysterious past behind him and dedicated himself to beginning a new, quiet life. But when he meets Teri, a young girl under the control of ultra-violent Russian gangsters, he can’t stand idly by – he has to help her. Armed with hidden skills that allow him to serve vengeance against anyone who would brutalize the helpless, McCall comes out of his self-imposed retirement and finds his desire for justice reawakened. If someone has a problem, if the odds are stacked against them, if they have nowhere else to turn, McCall will help. He is The Equalizer.",
+        "popularity": 117.863,
+        "poster_path": "/9u4yW7yPA0BQ2pv9XwiNzItwvp8.jpg",
+        "release_date": "2014-09-24",
+        "title": "The Equalizer",
+        "video": false,
+        "vote_average": 7.275,
+        "vote_count": 8790,
+        "cast": [
+            {
+                "id": 5292,
+                "nome": "Denzel Washington",
+                "personagem": "Robert McCall",
+                "data_nascimento": "1954-12-28",
+                "sexo_ator": 2
+            },
+            {
+                "id": 20982,
+                "nome": "Marton Csokas",
+                "personagem": "Teddy",
+                "data_nascimento": "1966-06-30",
+                "sexo_ator": 2
+            },
+            {
+                "id": 56734,
+                "nome": "Chloë Grace Moretz",
+                "personagem": "Teri",
+                "data_nascimento": "1997-02-10",
+                "sexo_ator": 1
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/32V4uHVRU2fbDsQl1dsYsZm3uba.jpg",
+        "genre_ids": [
+            80,
+            35
+        ],
+        "id": 107,
+        "original_language": "en",
+        "original_title": "Snatch",
+        "overview": "Unscrupulous boxing promoters, violent bookmakers, a Russian gangster, incompetent amateur robbers and supposedly Jewish jewelers fight to track down a priceless stolen diamond.",
+        "popularity": 33.312,
+        "poster_path": "/8KSDI7ijEv7QVZdIyrLw5Gnhhr8.jpg",
+        "release_date": "2000-09-01",
+        "title": "Snatch",
+        "video": false,
+        "vote_average": 7.812,
+        "vote_count": 8787,
+        "cast": [
+            {
+                "id": 287,
+                "nome": "Brad Pitt",
+                "personagem": "Mickey O'Neil",
+                "data_nascimento": "1963-12-18",
+                "sexo_ator": 2
+            },
+            {
+                "id": 976,
+                "nome": "Jason Statham",
+                "personagem": "Turkish",
+                "data_nascimento": "1967-07-26",
+                "sexo_ator": 2
+            },
+            {
+                "id": 1116,
+                "nome": "Alan Ford",
+                "personagem": "Brick Top Polford",
+                "data_nascimento": "1938-02-23",
+                "sexo_ator": 2
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/4QLdZ2A8mkDWp2rpfgDrwmeCtUW.jpg",
+        "genre_ids": [
+            28,
+            12,
+            80
+        ],
+        "id": 47971,
+        "original_language": "en",
+        "original_title": "xXx: Return of Xander Cage",
+        "overview": "Extreme athlete turned government operative Xander Cage comes out of self-imposed exile, thought to be long dead, and is set on a collision course with deadly alpha warrior Xiang and his team in a race to recover a sinister and seemingly unstoppable weapon known as Pandora's Box. Recruiting an all-new group of thrill-seeking cohorts, Xander finds himself enmeshed in a deadly conspiracy that points to collusion at the highest levels of world governments.",
+        "popularity": 114.002,
+        "poster_path": "/hba8zREJpP1AYhaXgb2oJLQeO0K.jpg",
+        "release_date": "2017-01-13",
+        "title": "xXx: Return of Xander Cage",
+        "video": false,
+        "vote_average": 6.1,
+        "vote_count": 8739,
+        "cast": [
+            {
+                "id": 12835,
+                "nome": "Vin Diesel",
+                "personagem": "Xander Cage",
+                "data_nascimento": "1967-07-18",
+                "sexo_ator": 2
+            },
+            {
+                "id": 1341,
+                "nome": "Donnie Yen",
+                "personagem": "Xiang",
+                "data_nascimento": "1963-07-27",
+                "sexo_ator": 2
+            },
+            {
+                "id": 1246972,
+                "nome": "Ruby Rose",
+                "personagem": "Adele Wolff",
+                "data_nascimento": "1986-03-20",
+                "sexo_ator": 1
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/soxvAxlPTp3ATvvza4jSwzFUUEV.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 138832,
+        "original_language": "en",
+        "original_title": "We're the Millers",
+        "overview": "A veteran pot dealer creates a fake family as part of his plan to move a huge shipment of weed into the U.S. from Mexico.",
+        "popularity": 91.306,
+        "poster_path": "/qF2LJ0jwWrtXSuT4AFD5OS2IqaT.jpg",
+        "release_date": "2013-08-07",
+        "title": "We're the Millers",
+        "video": false,
+        "vote_average": 6.826,
+        "vote_count": 8697,
+        "cast": [
+            {
+                "id": 4491,
+                "nome": "Jennifer Aniston",
+                "personagem": "Rose O'Reilly",
+                "data_nascimento": "1969-02-11",
+                "sexo_ator": 1
+            },
+            {
+                "id": 58224,
+                "nome": "Jason Sudeikis",
+                "personagem": "David Clark",
+                "data_nascimento": "1975-09-18",
+                "sexo_ator": 2
+            },
+            {
+                "id": 34847,
+                "nome": "Emma Roberts",
+                "personagem": "Casey Mathis",
+                "data_nascimento": "1991-02-10",
+                "sexo_ator": 1
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/fKPgObonYgPgCdu88yjV7Hpn7Dp.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 273481,
+        "original_language": "en",
+        "original_title": "Sicario",
+        "overview": "An idealistic FBI agent is enlisted by a government task force to aid in the escalating war against drugs at the border area between the U.S. and Mexico.",
+        "popularity": 49.729,
+        "poster_path": "/7P4Pd24PYhIGd8ow47n9ttSTDkY.jpg",
+        "release_date": "2015-09-17",
+        "title": "Sicario",
+        "video": false,
+        "vote_average": 7.4,
+        "vote_count": 8337,
+        "cast": [
+            {
+                "id": 5081,
+                "nome": "Emily Blunt",
+                "personagem": "Kate Macer",
+                "data_nascimento": "1983-02-23",
+                "sexo_ator": 1
+            },
+            {
+                "id": 1121,
+                "nome": "Benicio del Toro",
+                "personagem": "Alejandro Gillick",
+                "data_nascimento": "1967-02-19",
+                "sexo_ator": 2
+            },
+            {
+                "id": 16851,
+                "nome": "Josh Brolin",
+                "personagem": "Matt Graver",
+                "data_nascimento": "1968-02-12",
+                "sexo_ator": 2
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/w9QfTrYmtoA96zJlVNvjS8eucf8.jpg",
+        "genre_ids": [
+            80,
+            35,
+            28
+        ],
+        "id": 402900,
+        "original_language": "en",
+        "original_title": "Ocean's Eight",
+        "overview": "Debbie Ocean, a criminal mastermind, gathers a crew of female thieves to pull off the heist of the century at New York's annual Met Gala.",
+        "popularity": 56.11,
+        "poster_path": "/MvYpKlpFukTivnlBhizGbkAe3v.jpg",
+        "release_date": "2018-06-07",
+        "title": "Ocean's Eight",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 8136,
+        "cast": [
+            {
+                "id": 18277,
+                "nome": "Sandra Bullock",
+                "personagem": "Deborah 'Debbie' Ocean",
+                "data_nascimento": "1964-07-26",
+                "sexo_ator": 1
+            },
+            {
+                "id": 112,
+                "nome": "Cate Blanchett",
+                "personagem": "Lou Miller",
+                "data_nascimento": "1969-05-14",
+                "sexo_ator": 1
+            },
+            {
+                "id": 34490,
+                "nome": "Sarah Paulson",
+                "personagem": "Tammy",
+                "data_nascimento": "1974-12-17",
+                "sexo_ator": 1
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/eAIHqfS3kXm7kZl4j7ZBfdegyEz.jpg",
+        "genre_ids": [
+            53,
+            28,
+            80
+        ],
+        "id": 38700,
+        "original_language": "en",
+        "original_title": "Bad Boys for Life",
+        "overview": "Marcus and Mike are forced to confront new threats, career changes, and midlife crises as they join the newly created elite team AMMO of the Miami police department to take down the ruthless Armando Armas, the vicious leader of a Miami drug cartel.",
+        "popularity": 317.962,
+        "poster_path": "/y95lQLnuNKdPAzw9F9Ab8kJ80c3.jpg",
+        "release_date": "2020-01-15",
+        "title": "Bad Boys for Life",
+        "video": false,
+        "vote_average": 7.135,
+        "vote_count": 8028,
+        "cast": [
+            {
+                "id": 2888,
+                "nome": "Will Smith",
+                "personagem": "Mike",
+                "data_nascimento": "1968-09-25",
+                "sexo_ator": 2
+            },
+            {
+                "id": 78029,
+                "nome": "Martin Lawrence",
+                "personagem": "Marcus",
+                "data_nascimento": "1965-04-16",
+                "sexo_ator": 2
+            },
+            {
+                "id": 67599,
+                "nome": "Vanessa Hudgens",
+                "personagem": "Kelly",
+                "data_nascimento": "1988-12-14",
+                "sexo_ator": 1
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/lvSxooYCRuF3S2kHWXYTrcOtYco.jpg",
+        "genre_ids": [
+            28,
+            53,
+            80
+        ],
+        "id": 51497,
+        "original_language": "en",
+        "original_title": "Fast Five",
+        "overview": "Former cop Brian O'Conner partners with ex-con Dom Toretto on the opposite side of the law. Since Brian and Mia Toretto broke Dom out of custody, they've blown across many borders to elude authorities. Now backed into a corner in Rio de Janeiro, they must pull one last job in order to gain their freedom.",
+        "popularity": 9.869,
+        "poster_path": "/gEfQjjQwY7fh5bI4GlG0RrBu7Pz.jpg",
+        "release_date": "2011-04-20",
+        "title": "Fast Five",
+        "video": false,
+        "vote_average": 7.248,
+        "vote_count": 7984,
+        "cast": [
+            {
+                "id": 12835,
+                "nome": "Vin Diesel",
+                "personagem": "Dominic Toretto",
+                "data_nascimento": "1967-07-18",
+                "sexo_ator": 2
+            },
+            {
+                "id": 8167,
+                "nome": "Paul Walker",
+                "personagem": "Brian O'Conner",
+                "data_nascimento": "1973-09-12",
+                "sexo_ator": 2
+            },
+            {
+                "id": 18918,
+                "nome": "Dwayne Johnson",
+                "personagem": "Luke Hobbs",
+                "data_nascimento": "1972-05-02",
+                "sexo_ator": 2
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/lt1rGQSqhk2T2T4lHo6CTQYvoWP.jpg",
+        "genre_ids": [
+            53,
+            28,
+            80
+        ],
+        "id": 187,
+        "original_language": "en",
+        "original_title": "Sin City",
+        "overview": "Welcome to Sin City. This town beckons to the tough, the corrupt, the brokenhearted. Some call it dark… Hard-boiled. Then there are those who call it home — Crooked cops, sexy dames, desperate vigilantes. Some are seeking revenge, others lust after redemption, and then there are those hoping for a little of both. A universe of unlikely and reluctant heroes still trying to do the right thing in a city that refuses to care.",
+        "popularity": 44.998,
+        "poster_path": "/i66G50wATMmPrvpP95f0XP6ZdVS.jpg",
+        "release_date": "2005-04-01",
+        "title": "Sin City",
+        "video": false,
+        "vote_average": 7.458,
+        "vote_count": 7912,
+        "cast": [
+            {
+                "id": 62,
+                "nome": "Bruce Willis",
+                "personagem": "Det. John Hartigan",
+                "data_nascimento": "1955-03-19",
+                "sexo_ator": 2
+            },
+            {
+                "id": 56731,
+                "nome": "Jessica Alba",
+                "personagem": "Nancy Callahan",
+                "data_nascimento": "1981-04-28",
+                "sexo_ator": 1
+            },
+            {
+                "id": 2296,
+                "nome": "Clive Owen",
+                "personagem": "Dwight McCarthy",
+                "data_nascimento": "1964-10-03",
+                "sexo_ator": 2
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/t6TL7V9IsT4Ktx6YO8b1UYj3agd.jpg",
+        "genre_ids": [
+            35,
+            28,
+            80
+        ],
+        "id": 339846,
+        "original_language": "en",
+        "original_title": "Baywatch",
+        "overview": "Devoted lifeguard Mitch Buchannon butts heads with a brash new recruit. Together, they uncover a local criminal plot that threatens the future of the Bay.",
+        "popularity": 59.757,
+        "poster_path": "/6HE4xd8zloDqmjMZuhUCCw2UcY1.jpg",
+        "release_date": "2017-05-25",
+        "title": "Baywatch",
+        "video": false,
+        "vote_average": 6.095,
+        "vote_count": 7876,
+        "cast": [
+            {
+                "id": 18918,
+                "nome": "Dwayne Johnson",
+                "personagem": "Mitch Buchanan",
+                "data_nascimento": "1972-05-02",
+                "sexo_ator": 2
+            },
+            {
+                "id": 29222,
+                "nome": "Zac Efron",
+                "personagem": "Matt Brody",
+                "data_nascimento": "1987-10-18",
+                "sexo_ator": 2
+            },
+            {
+                "id": 77234,
+                "nome": "Priyanka Chopra Jonas",
+                "personagem": "Victoria Leeds",
+                "data_nascimento": "1982-07-18",
+                "sexo_ator": 1
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/747dgDfL5d8esobk7h4odaOFhUq.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 275,
+        "original_language": "en",
+        "original_title": "Fargo",
+        "overview": "Jerry, a small-town Minnesota car salesman is bursting at the seams with debt... but he's got a plan. He's going to hire two thugs to kidnap his wife in a scheme to collect a hefty ransom from his wealthy father-in-law. It's going to be a snap and nobody's going to get hurt... until people start dying. Enter Police Chief Marge, a coffee-drinking, parka-wearing - and extremely pregnant - investigator who'll stop at nothing to get her man. And if you think her small-time investigative skills will give the crooks a run for their ransom... you betcha!",
+        "popularity": 62.372,
+        "poster_path": "/rt7cpEr1uP6RTZykBFhBTcRaKvG.jpg",
+        "release_date": "1996-03-08",
+        "title": "Fargo",
+        "video": false,
+        "vote_average": 7.862,
+        "vote_count": 7843,
+        "cast": [
+            {
+                "id": 3910,
+                "nome": "Frances McDormand",
+                "personagem": "Marge Gunderson",
+                "data_nascimento": "1957-06-23",
+                "sexo_ator": 1
+            },
+            {
+                "id": 3905,
+                "nome": "William H. Macy",
+                "personagem": "Jerry Lundegaard",
+                "data_nascimento": "1950-03-13",
+                "sexo_ator": 2
+            },
+            {
+                "id": 884,
+                "nome": "Steve Buscemi",
+                "personagem": "Carl Showalter",
+                "data_nascimento": "1957-12-13",
+                "sexo_ator": 2
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/kdyYOwpKvvD2fSbwfnMM2YPAzfq.jpg",
+        "genre_ids": [
+            80,
+            35,
+            28
+        ],
+        "id": 187017,
+        "original_language": "en",
+        "original_title": "22 Jump Street",
+        "overview": "After making their way through high school (twice), big changes are in store for officers Schmidt and Jenko when they go deep undercover at a local college. But when Jenko meets a kindred spirit on the football team, and Schmidt infiltrates the bohemian art major scene, they begin to question their partnership. Now they don't have to just crack the case - they have to figure out if they can have a mature relationship. If these two overgrown adolescents can grow from freshmen into real men, college might be the best thing that ever happened to them.",
+        "popularity": 41.195,
+        "poster_path": "/850chzYHYbT3IISl6Q7dbBuFP2B.jpg",
+        "release_date": "2014-06-05",
+        "title": "22 Jump Street",
+        "video": false,
+        "vote_average": 6.84,
+        "vote_count": 7770,
+        "cast": [
+            {
+                "id": 21007,
+                "nome": "Jonah Hill",
+                "personagem": "Schmidt",
+                "data_nascimento": "1983-12-20",
+                "sexo_ator": 2
+            },
+            {
+                "id": 38673,
+                "nome": "Channing Tatum",
+                "personagem": "Jenko",
+                "data_nascimento": "1980-04-26",
+                "sexo_ator": 2
+            },
+            {
+                "id": 53,
+                "nome": "Peter Stormare",
+                "personagem": "The Ghost",
+                "data_nascimento": "1953-08-27",
+                "sexo_ator": 2
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/qX5T5GVAcq2UKaaiAx5SZp1AtlY.jpg",
+        "genre_ids": [
+            80,
+            28,
+            878
+        ],
+        "id": 198184,
+        "original_language": "en",
+        "original_title": "Chappie",
+        "overview": "Every child comes into the world full of promise, and none more so than Chappie: he is gifted, special, a prodigy. Like any child, Chappie will come under the influence of his surroundings—some good, some bad—and he will rely on his heart and soul to find his way in the world and become his own man. But there's one thing that makes Chappie different from any one else: he is a robot.",
+        "popularity": 126.163,
+        "poster_path": "/hpnuXlKKWznTgbheGe4iQXzkuwJ.jpg",
+        "release_date": "2015-03-04",
+        "title": "Chappie",
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 7745,
+        "cast": [
+            {
+                "id": 82191,
+                "nome": "Sharlto Copley",
+                "personagem": "Chappie",
+                "data_nascimento": "1973-11-27",
+                "sexo_ator": 2
+            },
+            {
+                "id": 76788,
+                "nome": "Dev Patel",
+                "personagem": "Deon Wilson",
+                "data_nascimento": "1990-04-23",
+                "sexo_ator": 2
+            },
+            {
+                "id": 6968,
+                "nome": "Hugh Jackman",
+                "personagem": "Vincent Moore",
+                "data_nascimento": "1968-10-12",
+                "sexo_ator": 2
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/oLp6ueqQXNWvWCFwrb6tXDnH0Ye.jpg",
+        "genre_ids": [
+            35,
+            80,
+            28
+        ],
+        "id": 290250,
+        "original_language": "en",
+        "original_title": "The Nice Guys",
+        "overview": "A private eye investigates the apparent suicide of a fading porn star in 1970s Los Angeles and uncovers a conspiracy.",
+        "popularity": 45.955,
+        "poster_path": "/uXdQztKoAtx7UU3RvqeF52KsoQP.jpg",
+        "release_date": "2016-05-15",
+        "title": "The Nice Guys",
+        "video": false,
+        "vote_average": 7.116,
+        "vote_count": 7720,
+        "cast": [
+            {
+                "id": 30614,
+                "nome": "Ryan Gosling",
+                "personagem": "Holland March",
+                "data_nascimento": "1980-11-12",
+                "sexo_ator": 2
+            },
+            {
+                "id": 934,
+                "nome": "Russell Crowe",
+                "personagem": "Jackson Healy",
+                "data_nascimento": "1964-04-07",
+                "sexo_ator": 2
+            },
+            {
+                "id": 1265629,
+                "nome": "Angourie Rice",
+                "personagem": "Holly March",
+                "data_nascimento": "2001-01-01",
+                "sexo_ator": 1
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/3CqMIX3ZlrD0pU3fpBL6DM0Cneb.jpg",
+        "genre_ids": [
+            12,
+            28,
+            53,
+            80
+        ],
+        "id": 10764,
+        "original_language": "en",
+        "original_title": "Quantum of Solace",
+        "overview": "Betrayed by Vesper, the woman he loved, 007 fights the urge to make his latest mission personal. Pursuing his determination to uncover the truth, Bond and M interrogate Mr. White, who reveals that the organization that blackmailed Vesper is far more complex and dangerous than anyone had imagined.",
+        "popularity": 50.666,
+        "poster_path": "/e3DXXLJHGqMx9yYpXsql1XNljmM.jpg",
+        "release_date": "2008-10-29",
+        "title": "Quantum of Solace",
+        "video": false,
+        "vote_average": 6.327,
+        "vote_count": 7667,
+        "cast": [
+            {
+                "id": 8784,
+                "nome": "Daniel Craig",
+                "personagem": "James Bond",
+                "data_nascimento": "1968-03-02",
+                "sexo_ator": 2
+            },
+            {
+                "id": 18182,
+                "nome": "Olga Kurylenko",
+                "personagem": "Camille",
+                "data_nascimento": "1979-11-14",
+                "sexo_ator": 1
+            },
+            {
+                "id": 8789,
+                "nome": "Mathieu Amalric",
+                "personagem": "Dominic Greene",
+                "data_nascimento": "1965-10-25",
+                "sexo_ator": 2
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/f79viVdvyIvu0ivAtlO7QtsE6bN.jpg",
+        "genre_ids": [
+            10749,
+            35,
+            80
+        ],
+        "id": 256591,
+        "original_language": "en",
+        "original_title": "Focus",
+        "overview": "Nicky, an accomplished con artist, gets romantically involved with his disciple Jess but later ends their relationship. Years later, she returns as a femme fatale to spoil his plans.",
+        "popularity": 28.645,
+        "poster_path": "/lOzGWjceYTd0kd5HyX7Ch46O9kh.jpg",
+        "release_date": "2015-02-25",
+        "title": "Focus",
+        "video": false,
+        "vote_average": 6.88,
+        "vote_count": 7643,
+        "cast": [
+            {
+                "id": 2888,
+                "nome": "Will Smith",
+                "personagem": "Nicky Spurgeon",
+                "data_nascimento": "1968-09-25",
+                "sexo_ator": 2
+            },
+            {
+                "id": 234352,
+                "nome": "Margot Robbie",
+                "personagem": "Jess Barrett",
+                "data_nascimento": "1990-07-02",
+                "sexo_ator": 1
+            },
+            {
+                "id": 17289,
+                "nome": "Rodrigo Santoro",
+                "personagem": "Garriga",
+                "data_nascimento": "1975-08-22",
+                "sexo_ator": 2
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/frDS8A5vIP927KYAxTVVKRIbqZw.jpg",
+        "genre_ids": [
+            14,
+            28,
+            80
+        ],
+        "id": 268,
+        "original_language": "en",
+        "original_title": "Batman",
+        "overview": "Batman must face his most ruthless nemesis when a deformed madman calling himself \"The Joker\" seizes control of Gotham's criminal underworld.",
+        "popularity": 33.718,
+        "poster_path": "/cij4dd21v2Rk2YtUQbV5kW69WB2.jpg",
+        "release_date": "1989-06-21",
+        "title": "Batman",
+        "video": false,
+        "vote_average": 7.231,
+        "vote_count": 7598,
+        "cast": [
+            {
+                "id": 514,
+                "nome": "Jack Nicholson",
+                "personagem": "Jack Napier / Joker",
+                "data_nascimento": "1937-04-22",
+                "sexo_ator": 2
+            },
+            {
+                "id": 2232,
+                "nome": "Michael Keaton",
+                "personagem": "Bruce Wayne / Batman",
+                "data_nascimento": "1951-09-05",
+                "sexo_ator": 2
+            },
+            {
+                "id": 326,
+                "nome": "Kim Basinger",
+                "personagem": "Vicki Vale",
+                "data_nascimento": "1953-12-08",
+                "sexo_ator": 1
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/gMVdhfQ7q9DFHhDkehrququjGPd.jpg",
+        "genre_ids": [
+            35,
+            80,
+            18,
+            36
+        ],
+        "id": 487558,
+        "original_language": "en",
+        "original_title": "BlacKkKlansman",
+        "overview": "Colorado Springs, late 1970s. Ron Stallworth, an African American police officer, and Flip Zimmerman, his Jewish colleague, run an undercover operation to infiltrate the Ku Klux Klan.",
+        "popularity": 19.103,
+        "poster_path": "/8jxqAvSDoneSKRczaK8v9X5gqBp.jpg",
+        "release_date": "2018-08-09",
+        "title": "BlacKkKlansman",
+        "video": false,
+        "vote_average": 7.5,
+        "vote_count": 7375,
+        "cast": [
+            {
+                "id": 1117313,
+                "nome": "John David Washington",
+                "personagem": "Ron Stallworth",
+                "data_nascimento": "1984-07-28",
+                "sexo_ator": 2
+            },
+            {
+                "id": 1023139,
+                "nome": "Adam Driver",
+                "personagem": "Flip Zimmerman",
+                "data_nascimento": "1983-11-19",
+                "sexo_ator": 2
+            },
+            {
+                "id": 17052,
+                "nome": "Topher Grace",
+                "personagem": "David Duke",
+                "data_nascimento": "1978-07-12",
+                "sexo_ator": 2
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/e1rPzkIcBEJiAd3piGirt7qVux7.jpg",
+        "genre_ids": [
+            80,
+            28,
+            35
+        ],
+        "id": 4638,
+        "original_language": "en",
+        "original_title": "Hot Fuzz",
+        "overview": "Former London constable Nicholas Angel finds it difficult to adapt to his new assignment in the sleepy British village of Sandford. Not only does he miss the excitement of the big city, but he also has a well-meaning oaf for a partner. However, when a series of grisly accidents rocks Sandford, Angel smells something rotten in the idyllic village.",
+        "popularity": 34.332,
+        "poster_path": "/zPib4ukTSdXvHP9pxGkFCe34f3y.jpg",
+        "release_date": "2007-02-14",
+        "title": "Hot Fuzz",
+        "video": false,
+        "vote_average": 7.558,
+        "vote_count": 7340,
+        "cast": [
+            {
+                "id": 11108,
+                "nome": "Simon Pegg",
+                "personagem": "Nicholas Angel",
+                "data_nascimento": "1970-02-14",
+                "sexo_ator": 2
+            },
+            {
+                "id": 11109,
+                "nome": "Nick Frost",
+                "personagem": "PC Danny Butterman",
+                "data_nascimento": "1972-03-28",
+                "sexo_ator": 2
+            },
+            {
+                "id": 388,
+                "nome": "Jim Broadbent",
+                "personagem": "Inspector Frank Butterman",
+                "data_nascimento": "1949-05-24",
+                "sexo_ator": 2
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/xWf5Mjtv2HfIB9FyPYbbaSDdfCW.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 584,
+        "original_language": "en",
+        "original_title": "2 Fast 2 Furious",
+        "overview": "It's a major double-cross when former police officer Brian O'Conner teams up with his ex-con buddy Roman Pearce to transport a shipment of \"dirty\" money for shady Miami-based import-export dealer Carter Verone. But the guys are actually working with undercover agent Monica Fuentes to bring Verone down.",
+        "popularity": 12.542,
+        "poster_path": "/6nDZExrDKIXvSAghsFKVFRVJuSf.jpg",
+        "release_date": "2003-06-05",
+        "title": "2 Fast 2 Furious",
+        "video": false,
+        "vote_average": 6.502,
+        "vote_count": 7243,
+        "cast": [
+            {
+                "id": 8167,
+                "nome": "Paul Walker",
+                "personagem": "Brian O'Conner",
+                "data_nascimento": "1973-09-12",
+                "sexo_ator": 2
+            },
+            {
+                "id": 8169,
+                "nome": "Tyrese Gibson",
+                "personagem": "Roman Pearce",
+                "data_nascimento": "1978-12-30",
+                "sexo_ator": 2
+            },
+            {
+                "id": 8170,
+                "nome": "Eva Mendes",
+                "personagem": "Monica Fuentes",
+                "data_nascimento": "1974-03-05",
+                "sexo_ator": 1
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/uvitbjFU4JqvMwIkMWHp69bmUzG.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 598,
+        "original_language": "pt",
+        "original_title": "Cidade de Deus",
+        "overview": "In the slums of Rio, two kids' paths diverge as one struggles to become a photographer and the other a kingpin.",
+        "popularity": 70.86,
+        "poster_path": "/k7eYdWvhYQyRQoU2TB2A2Xu2TfD.jpg",
+        "release_date": "2002-08-30",
+        "title": "City of God",
+        "video": false,
+        "vote_average": 8.429,
+        "vote_count": 7155,
+        "cast": [
+            {
+                "id": 8595,
+                "nome": "Alexandre Rodrigues",
+                "personagem": "Buscapé",
+                "data_nascimento": "1983-05-21",
+                "sexo_ator": 2
+            },
+            {
+                "id": 8596,
+                "nome": "Leandro Firmino",
+                "personagem": "Zé Pequeno",
+                "data_nascimento": "1978-06-23",
+                "sexo_ator": 2
+            },
+            {
+                "id": 8597,
+                "nome": "Phellipe Haagensen",
+                "personagem": "Bené",
+                "data_nascimento": "1984-01-01",
+                "sexo_ator": 2
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/bof71DUdBb5FwTylar4rnIVd8z.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 168672,
+        "original_language": "en",
+        "original_title": "American Hustle",
+        "overview": "A conman and his seductive partner are forced to work for a wild FBI agent, who pushes them into a world of Jersey power-brokers and the Mafia.",
+        "popularity": 27.393,
+        "poster_path": "/koXGRfatN0tURFWMA0Keb0p0Gtg.jpg",
+        "release_date": "2013-12-03",
+        "title": "American Hustle",
+        "video": false,
+        "vote_average": 6.856,
+        "vote_count": 7113,
+        "cast": [
+            {
+                "id": 3894,
+                "nome": "Christian Bale",
+                "personagem": "Irving Rosenfeld",
+                "data_nascimento": "1974-01-30",
+                "sexo_ator": 2
+            },
+            {
+                "id": 51329,
+                "nome": "Bradley Cooper",
+                "personagem": "Richie DiMaso",
+                "data_nascimento": "1975-01-05",
+                "sexo_ator": 2
+            },
+            {
+                "id": 9273,
+                "nome": "Amy Adams",
+                "personagem": "Sydney Prosser",
+                "data_nascimento": "1974-08-20",
+                "sexo_ator": 1
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/5b5HrewiViLWEdMR4dmbd7ajQ8Q.jpg",
+        "genre_ids": [
+            53,
+            80
+        ],
+        "id": 163,
+        "original_language": "en",
+        "original_title": "Ocean's Twelve",
+        "overview": "Danny Ocean reunites with his old flame and the rest of his merry band of thieves in carrying out three huge heists in Rome, Paris and Amsterdam – but a Europol agent is hot on their heels.",
+        "popularity": 72.516,
+        "poster_path": "/Ad55M8newGWemFWCsMAkxO3fDwl.jpg",
+        "release_date": "2004-12-09",
+        "title": "Ocean's Twelve",
+        "video": false,
+        "vote_average": 6.6,
+        "vote_count": 7075,
+        "cast": [
+            {
+                "id": 1461,
+                "nome": "George Clooney",
+                "personagem": "Danny Ocean",
+                "data_nascimento": "1961-05-06",
+                "sexo_ator": 2
+            },
+            {
+                "id": 287,
+                "nome": "Brad Pitt",
+                "personagem": "Rusty Ryan",
+                "data_nascimento": "1963-12-18",
+                "sexo_ator": 2
+            },
+            {
+                "id": 1892,
+                "nome": "Matt Damon",
+                "personagem": "Linus Caldwell",
+                "data_nascimento": "1970-10-08",
+                "sexo_ator": 2
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/uI22JkEMediWyiRqhllNqeeGtW0.jpg",
+        "genre_ids": [
+            28,
+            80,
+            18
+        ],
+        "id": 949,
+        "original_language": "en",
+        "original_title": "Heat",
+        "overview": "Obsessive master thief Neil McCauley leads a top-notch crew on various daring heists throughout Los Angeles while determined detective Vincent Hanna pursues him without rest. Each man recognizes and respects the ability and the dedication of the other even though they are aware their cat-and-mouse game may end in violence.",
+        "popularity": 66.579,
+        "poster_path": "/umSVjVdbVwtx5ryCA2QXL44Durm.jpg",
+        "release_date": "1995-12-15",
+        "title": "Heat",
+        "video": false,
+        "vote_average": 7.9,
+        "vote_count": 7072,
+        "cast": [
+            {
+                "id": 1158,
+                "nome": "Al Pacino",
+                "personagem": "Lt. Vincent Hanna",
+                "data_nascimento": "1940-04-25",
+                "sexo_ator": 2
+            },
+            {
+                "id": 380,
+                "nome": "Robert De Niro",
+                "personagem": "Neil McCauley",
+                "data_nascimento": "1943-08-17",
+                "sexo_ator": 2
+            },
+            {
+                "id": 5576,
+                "nome": "Val Kilmer",
+                "personagem": "Chris Shiherlis",
+                "data_nascimento": "1959-12-31",
+                "sexo_ator": 2
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/acktCBsLJcgEJsjTuyiQhJipCD6.jpg",
+        "genre_ids": [
+            28,
+            80,
+            18,
+            53
+        ],
+        "id": 13804,
+        "original_language": "en",
+        "original_title": "Fast & Furious",
+        "overview": "When a crime brings them back to L.A., fugitive ex-con Dom Toretto reignites his feud with agent Brian O'Conner. But as they are forced to confront a shared enemy, Dom and Brian must give in to an uncertain new trust if they hope to outmaneuver him. And the two men will find the best way to get revenge: push the limits of what's possible behind the wheel.",
+        "popularity": 7.924,
+        "poster_path": "/lUtVoRukW7WNtUySwd8hWlByBds.jpg",
+        "release_date": "2009-04-02",
+        "title": "Fast & Furious",
+        "video": false,
+        "vote_average": 6.687,
+        "vote_count": 7054,
+        "cast": [
+            {
+                "id": 12835,
+                "nome": "Vin Diesel",
+                "personagem": "Dominic Toretto",
+                "data_nascimento": "1967-07-18",
+                "sexo_ator": 2
+            },
+            {
+                "id": 8167,
+                "nome": "Paul Walker",
+                "personagem": "Brian O'Conner",
+                "data_nascimento": "1973-09-12",
+                "sexo_ator": 2
+            },
+            {
+                "id": 17647,
+                "nome": "Michelle Rodriguez",
+                "personagem": "Letty Ortiz",
+                "data_nascimento": "1978-07-12",
+                "sexo_ator": 1
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/xXHZeb1yhJvnSHPzZDqee0zfMb6.jpg",
+        "genre_ids": [
+            28,
+            12,
+            80
+        ],
+        "id": 385128,
+        "original_language": "en",
+        "original_title": "F9",
+        "overview": "Dominic Toretto and his crew battle the most skilled assassin and high-performance driver they've ever encountered: his forsaken brother.",
+        "popularity": 61.96,
+        "poster_path": "/bOFaAXmWWXC3Rbv4u4uM9ZSzRXP.jpg",
+        "release_date": "2021-05-19",
+        "title": "F9",
+        "video": false,
+        "vote_average": 7.089,
+        "vote_count": 7037,
+        "cast": [
+            {
+                "id": 12835,
+                "nome": "Vin Diesel",
+                "personagem": "Dominic Toretto",
+                "data_nascimento": "1967-07-18",
+                "sexo_ator": 2
+            },
+            {
+                "id": 17647,
+                "nome": "Michelle Rodriguez",
+                "personagem": "Letty Ortiz",
+                "data_nascimento": "1978-07-12",
+                "sexo_ator": 1
+            },
+            {
+                "id": 8169,
+                "nome": "Tyrese Gibson",
+                "personagem": "Roman Pearce",
+                "data_nascimento": "1978-12-30",
+                "sexo_ator": 2
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/iwvP8XVpYVmJ3xfF9xdBi5uAOWl.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53,
+            28
+        ],
+        "id": 75780,
+        "original_language": "en",
+        "original_title": "Jack Reacher",
+        "overview": "One morning in an ordinary town, five people are shot dead in a seemingly random attack. All evidence points to a single suspect: an ex-military sniper who is quickly brought into custody. The interrogation yields one written note: 'Get Jack Reacher!'. Reacher, an enigmatic ex-Army investigator, believes the authorities have the right man but agrees to help the sniper's defense attorney. However, the more Reacher delves into the case, the less clear-cut it appears. So begins an extraordinary chase for the truth, pitting Jack Reacher against an unexpected enemy, with a skill for violence and a secret to keep.",
+        "popularity": 54.241,
+        "poster_path": "/uQBbjrLVsUibWxNDGA4Czzo8lwz.jpg",
+        "release_date": "2012-12-20",
+        "title": "Jack Reacher",
+        "video": false,
+        "vote_average": 6.627,
+        "vote_count": 6833,
+        "cast": [
+            {
+                "id": 500,
+                "nome": "Tom Cruise",
+                "personagem": "Jack Reacher",
+                "data_nascimento": "1962-07-03",
+                "sexo_ator": 2
+            },
+            {
+                "id": 10882,
+                "nome": "Rosamund Pike",
+                "personagem": "Helen Rodin",
+                "data_nascimento": "1979-01-27",
+                "sexo_ator": 1
+            },
+            {
+                "id": 28633,
+                "nome": "Richard Jenkins",
+                "personagem": "D.A. Alex Rodin",
+                "data_nascimento": "1947-05-04",
+                "sexo_ator": 2
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/qqhzXiNyCotzJdyEbi41EtzYYYI.jpg",
+        "genre_ids": [
+            28,
+            53,
+            80
+        ],
+        "id": 8909,
+        "original_language": "en",
+        "original_title": "Wanted",
+        "overview": "Doormat Wesley Gibson is an office worker whose life is going nowhere. He meets a sexy woman named Fox and discovers that his recently murdered father - whom Wesley never knew - belonged to the Fraternity, a secret society of assassins which takes its orders from Fate itself. Fox and Sloan, the Fraternity's leader, teach Wesley, through intense training, to tap into dormant powers and hone his innate killing skills. Though he enjoys his newfound abilities, he begins to suspect that there is more to the Fraternity than meets the eye.",
+        "popularity": 36.736,
+        "poster_path": "/9ajbORY7zQrdxlMF2QPfIqTLfg7.jpg",
+        "release_date": "2008-06-19",
+        "title": "Wanted",
+        "video": false,
+        "vote_average": 6.519,
+        "vote_count": 6830,
+        "cast": [
+            {
+                "id": 5530,
+                "nome": "James McAvoy",
+                "personagem": "Wesley Gibson",
+                "data_nascimento": "1979-04-21",
+                "sexo_ator": 2
+            },
+            {
+                "id": 11701,
+                "nome": "Angelina Jolie",
+                "personagem": "Fox",
+                "data_nascimento": "1975-06-04",
+                "sexo_ator": 1
+            },
+            {
+                "id": 192,
+                "nome": "Morgan Freeman",
+                "personagem": "Sloan",
+                "data_nascimento": "1937-06-01",
+                "sexo_ator": 2
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/dNFbrnF0mIBm0rClbfEFWTtsgMP.jpg",
+        "genre_ids": [
+            53,
+            80,
+            9648
+        ],
+        "id": 65754,
+        "original_language": "en",
+        "original_title": "The Girl with the Dragon Tattoo",
+        "overview": "Disgraced journalist Mikael Blomkvist investigates the disappearance of a weary patriarch's niece from 40 years ago. He is aided by the pierced, tattooed, punk computer hacker named Lisbeth Salander. As they work together in the investigation, Blomkvist and Salander uncover immense corruption beyond anything they have ever imagined.",
+        "popularity": 29.201,
+        "poster_path": "/8bokS83zGdhaXgN9tjidUKmAftW.jpg",
+        "release_date": "2011-12-14",
+        "title": "The Girl with the Dragon Tattoo",
+        "video": false,
+        "vote_average": 7.4,
+        "vote_count": 6804,
+        "cast": [
+            {
+                "id": 8784,
+                "nome": "Daniel Craig",
+                "personagem": "Mikael Blomkvist",
+                "data_nascimento": "1968-03-02",
+                "sexo_ator": 2
+            },
+            {
+                "id": 108916,
+                "nome": "Rooney Mara",
+                "personagem": "Lisbeth Salander",
+                "data_nascimento": "1985-04-17",
+                "sexo_ator": 1
+            },
+            {
+                "id": 290,
+                "nome": "Christopher Plummer",
+                "personagem": "Henrik Vanger",
+                "data_nascimento": "1929-12-13",
+                "sexo_ator": 2
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/4PPC7fKClu0u7NTbo5xgV4vb5VD.jpg",
+        "genre_ids": [
+            80,
+            27,
+            9648
+        ],
+        "id": 4232,
+        "original_language": "en",
+        "original_title": "Scream",
+        "overview": "After a series of mysterious deaths befalls their small town, an offbeat group of friends led by Sidney Prescott become the target of a masked killer.",
+        "popularity": 67.564,
+        "poster_path": "/3O3klyyYpAZBBE4n7IngzTomRDp.jpg",
+        "release_date": "1996-12-20",
+        "title": "Scream",
+        "video": false,
+        "vote_average": 7.421,
+        "vote_count": 6726,
+        "cast": [
+            {
+                "id": 15234,
+                "nome": "David Arquette",
+                "personagem": "Dewey Riley",
+                "data_nascimento": "1971-09-08",
+                "sexo_ator": 2
+            },
+            {
+                "id": 9206,
+                "nome": "Neve Campbell",
+                "personagem": "Sidney Prescott",
+                "data_nascimento": "1973-10-03",
+                "sexo_ator": 1
+            },
+            {
+                "id": 14405,
+                "nome": "Courteney Cox",
+                "personagem": "Gale Weathers",
+                "data_nascimento": "1964-06-15",
+                "sexo_ator": 1
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/fg04CQyJzuDJ82jm2meY37n9XyE.jpg",
+        "genre_ids": [
+            9648,
+            12,
+            80
+        ],
+        "id": 328387,
+        "original_language": "en",
+        "original_title": "Nerve",
+        "overview": "Industrious high school senior Vee Delmonico has had it with living life on the sidelines. When pressured by friends to join the popular online game Nerve, Vee decides to sign up for just one dare in what seems like harmless fun. But as she finds herself caught up in the thrill of the adrenaline-fueled competition partnered with a mysterious stranger, the game begins to take a sinister turn with increasingly dangerous acts, leading her into a high stakes finale that will determine her entire future.",
+        "popularity": 21.955,
+        "poster_path": "/qmSpHC0CSNyNll9WhlwWYuwoQ28.jpg",
+        "release_date": "2016-06-27",
+        "title": "Nerve",
+        "video": false,
+        "vote_average": 7.027,
+        "vote_count": 6713,
+        "cast": [
+            {
+                "id": 34847,
+                "nome": "Emma Roberts",
+                "personagem": "Vee Delmonico",
+                "data_nascimento": "1991-02-10",
+                "sexo_ator": 1
+            },
+            {
+                "id": 54697,
+                "nome": "Dave Franco",
+                "personagem": "Ian",
+                "data_nascimento": "1985-06-12",
+                "sexo_ator": 2
+            },
+            {
+                "id": 71815,
+                "nome": "Emily Meade",
+                "personagem": "Sydney Sloane",
+                "data_nascimento": "1989-01-10",
+                "sexo_ator": 1
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/dMARcKLrv0T7kVJ4iQR3vqTTdtT.jpg",
+        "genre_ids": [
+            28,
+            80,
+            18,
+            53
+        ],
+        "id": 9615,
+        "original_language": "en",
+        "original_title": "The Fast and the Furious: Tokyo Drift",
+        "overview": "In order to avoid a jail sentence, Sean Boswell heads to Tokyo to live with his military father. In a low-rent section of the city, Shaun gets caught up in the underground world of drift racing",
+        "popularity": 23.258,
+        "poster_path": "/46xqGOwHbh2TH2avWSw3SMXph4E.jpg",
+        "release_date": "2006-06-03",
+        "title": "The Fast and the Furious: Tokyo Drift",
+        "video": false,
+        "vote_average": 6.494,
+        "vote_count": 6677,
+        "cast": [
+            {
+                "id": 155,
+                "nome": "Lucas Black",
+                "personagem": "Sean Boswell",
+                "data_nascimento": "1982-11-29",
+                "sexo_ator": 2
+            },
+            {
+                "id": 116277,
+                "nome": "Nathalie Kelley",
+                "personagem": "Neela",
+                "data_nascimento": "1985-03-03",
+                "sexo_ator": 1
+            },
+            {
+                "id": 61697,
+                "nome": "Sung Kang",
+                "personagem": "Han Lue",
+                "data_nascimento": "1972-04-08",
+                "sexo_ator": 2
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/1RDto0tLo8Fhq7OcwgDaM7nECb7.jpg",
+        "genre_ids": [
+            80,
+            18,
+            36
+        ],
+        "id": 398978,
+        "original_language": "en",
+        "original_title": "The Irishman",
+        "overview": "Pennsylvania, 1956. Frank Sheeran, a war veteran of Irish origin who works as a truck driver, accidentally meets mobster Russell Bufalino. Once Frank becomes his trusted man, Bufalino sends him to Chicago with the task of helping Jimmy Hoffa, a powerful union leader related to organized crime, with whom Frank will maintain a close friendship for nearly twenty years.",
+        "popularity": 42.812,
+        "poster_path": "/mbm8k3GFhXS0ROd9AD1gqYbIFbM.jpg",
+        "release_date": "2019-11-01",
+        "title": "The Irishman",
+        "video": false,
+        "vote_average": 7.607,
+        "vote_count": 6625,
+        "cast": [
+            {
+                "id": 380,
+                "nome": "Robert De Niro",
+                "personagem": "Frank Sheeran",
+                "data_nascimento": "1943-08-17",
+                "sexo_ator": 2
+            },
+            {
+                "id": 1158,
+                "nome": "Al Pacino",
+                "personagem": "Jimmy Hoffa",
+                "data_nascimento": "1940-04-25",
+                "sexo_ator": 2
+            },
+            {
+                "id": 4517,
+                "nome": "Joe Pesci",
+                "personagem": "Russell Bufalino",
+                "data_nascimento": "1943-02-09",
+                "sexo_ator": 2
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/jlCMNcyqmHnsLe8AdhoTMg2kbDu.jpg",
+        "genre_ids": [
+            28,
+            12,
+            35,
+            80,
+            53
+        ],
+        "id": 39514,
+        "original_language": "en",
+        "original_title": "RED",
+        "overview": "After surviving an assault from a squad of hit men, retired CIA black ops agent Frank Moses reassembles his old team for an all-out war. Frank reunites with old Joe, crazy Marvin and wily Victoria to uncover a massive conspiracy that threatens their lives. Only their expert training will allow them to survive a near-impossible mission -- breaking into CIA headquarters.",
+        "popularity": 64.474,
+        "poster_path": "/8eeK3OB5PeSRQD7BpZcGZKkehG.jpg",
+        "release_date": "2010-10-13",
+        "title": "RED",
+        "video": false,
+        "vote_average": 6.7,
+        "vote_count": 6553,
+        "cast": [
+            {
+                "id": 62,
+                "nome": "Bruce Willis",
+                "personagem": "Frank Moses",
+                "data_nascimento": "1955-03-19",
+                "sexo_ator": 2
+            },
+            {
+                "id": 6949,
+                "nome": "John Malkovich",
+                "personagem": "Marvin Boggs",
+                "data_nascimento": "1953-12-09",
+                "sexo_ator": 2
+            },
+            {
+                "id": 192,
+                "nome": "Morgan Freeman",
+                "personagem": "Joe Matheson",
+                "data_nascimento": "1937-06-01",
+                "sexo_ator": 2
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/m4c1V53pQ4Z1Jk6rC0Ve3OTcWqW.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 82675,
+        "original_language": "en",
+        "original_title": "Taken 2",
+        "overview": "In Istanbul, retired CIA operative Bryan Mills and his wife are taken hostage by the father of a kidnapper Mills killed while rescuing his daughter.",
+        "popularity": 57.77,
+        "poster_path": "/yzAlcuJhpnxRPjaj7AHBRbNPQCJ.jpg",
+        "release_date": "2012-09-27",
+        "title": "Taken 2",
+        "video": false,
+        "vote_average": 6.352,
+        "vote_count": 6478,
+        "cast": [
+            {
+                "id": 3896,
+                "nome": "Liam Neeson",
+                "personagem": "Bryan Mills",
+                "data_nascimento": "1952-06-07",
+                "sexo_ator": 2
+            },
+            {
+                "id": 11825,
+                "nome": "Maggie Grace",
+                "personagem": "Kim Mills",
+                "data_nascimento": "1983-09-21",
+                "sexo_ator": 1
+            },
+            {
+                "id": 10696,
+                "nome": "Famke Janssen",
+                "personagem": "Lenore",
+                "data_nascimento": "1964-11-05",
+                "sexo_ator": 1
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/a2Aj5ksEo2HOUH3FbGyZCtaJM4C.jpg",
+        "genre_ids": [
+            18,
+            36,
+            80
+        ],
+        "id": 3131,
+        "original_language": "en",
+        "original_title": "Gangs of New York",
+        "overview": "In 1863, Amsterdam Vallon returns to the Five Points of America to seek vengeance against the psychotic gangland kingpin, Bill the Butcher, who murdered his father years earlier. With an eager pickpocket by his side and a whole new army, Vallon fights his way to seek vengeance on the Butcher and restore peace in the area.",
+        "popularity": 53.054,
+        "poster_path": "/lemqKtcCuAano5aqrzxYiKC8kkn.jpg",
+        "release_date": "2002-12-14",
+        "title": "Gangs of New York",
+        "video": false,
+        "vote_average": 7.327,
+        "vote_count": 6457,
+        "cast": [
+            {
+                "id": 6193,
+                "nome": "Leonardo DiCaprio",
+                "personagem": "Amsterdam Vallon",
+                "data_nascimento": "1974-11-11",
+                "sexo_ator": 2
+            },
+            {
+                "id": 11856,
+                "nome": "Daniel Day-Lewis",
+                "personagem": "Bill \"The Butcher\" Cutting",
+                "data_nascimento": "1957-04-29",
+                "sexo_ator": 2
+            },
+            {
+                "id": 6941,
+                "nome": "Cameron Diaz",
+                "personagem": "Jenny Everdeane",
+                "data_nascimento": "1972-08-30",
+                "sexo_ator": 1
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/4ycpMe25LYpzGW42U9amyW9gM53.jpg",
+        "genre_ids": [
+            53,
+            80,
+            18,
+            9648
+        ],
+        "id": 322,
+        "original_language": "en",
+        "original_title": "Mystic River",
+        "overview": "The lives of three men who were childhood friends are shattered when one of them suffers a family tragedy.",
+        "popularity": 51.593,
+        "poster_path": "/hCHVDbo6XJGj3r2i4hVjKhE0GKF.jpg",
+        "release_date": "2003-03-03",
+        "title": "Mystic River",
+        "video": false,
+        "vote_average": 7.741,
+        "vote_count": 6447,
+        "cast": [
+            {
+                "id": 2228,
+                "nome": "Sean Penn",
+                "personagem": "Jimmy Markum",
+                "data_nascimento": "1960-08-17",
+                "sexo_ator": 2
+            },
+            {
+                "id": 504,
+                "nome": "Tim Robbins",
+                "personagem": "Dave Boyle",
+                "data_nascimento": "1958-10-16",
+                "sexo_ator": 2
+            },
+            {
+                "id": 4724,
+                "nome": "Kevin Bacon",
+                "personagem": "Sean Devine",
+                "data_nascimento": "1958-07-08",
+                "sexo_ator": 2
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/cXQH2u7wUIX1eoIdEj51kHXoWhX.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 100,
+        "original_language": "en",
+        "original_title": "Lock, Stock and Two Smoking Barrels",
+        "overview": "A card shark and his unwillingly-enlisted friends need to make a lot of cash quick after losing a sketchy poker match. To do this they decide to pull a heist on a small-time gang who happen to be operating out of the flat next door.",
+        "popularity": 38.98,
+        "poster_path": "/wt2TRBmFmBn5M5MBcPTwovlREaB.jpg",
+        "release_date": "1998-08-28",
+        "title": "Lock, Stock and Two Smoking Barrels",
+        "video": false,
+        "vote_average": 8.123,
+        "vote_count": 6401,
+        "cast": [
+            {
+                "id": 980,
+                "nome": "Vinnie Jones",
+                "personagem": "Big Chris",
+                "data_nascimento": "1965-01-05",
+                "sexo_ator": 2
+            },
+            {
+                "id": 973,
+                "nome": "Jason Flemyng",
+                "personagem": "Tom",
+                "data_nascimento": "1966-09-25",
+                "sexo_ator": 2
+            },
+            {
+                "id": 974,
+                "nome": "Dexter Fletcher",
+                "personagem": "Soap",
+                "data_nascimento": "1966-01-31",
+                "sexo_ator": 2
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/9fkYHcOtaz4cKmlDWw7tqUr5TUt.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 51540,
+        "original_language": "en",
+        "original_title": "Horrible Bosses",
+        "overview": "For Nick, Kurt and Dale, the only thing that would make the daily grind more tolerable would be to grind their intolerable bosses into dust. Quitting is not an option, so, with the benefit of a few-too-many drinks and some dubious advice from a hustling ex-con, the three friends devise a convoluted and seemingly foolproof plan to rid themselves of their respective employers... permanently.",
+        "popularity": 35.178,
+        "poster_path": "/uQkUwgyFHAm0jGQERPG6Z9o9Zbj.jpg",
+        "release_date": "2011-07-08",
+        "title": "Horrible Bosses",
+        "video": false,
+        "vote_average": 6.577,
+        "vote_count": 6208,
+        "cast": [
+            {
+                "id": 23532,
+                "nome": "Jason Bateman",
+                "personagem": "Nick Hendricks",
+                "data_nascimento": "1969-01-14",
+                "sexo_ator": 2
+            },
+            {
+                "id": 95101,
+                "nome": "Charlie Day",
+                "personagem": "Dale Arbus",
+                "data_nascimento": "1976-02-09",
+                "sexo_ator": 2
+            },
+            {
+                "id": 58224,
+                "nome": "Jason Sudeikis",
+                "personagem": "Kurt Buckman",
+                "data_nascimento": "1975-09-18",
+                "sexo_ator": 2
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/nu9nyVoyHecM6Zj6nTeTRgv54mb.jpg",
+        "genre_ids": [
+            80,
+            53
+        ],
+        "id": 298,
+        "original_language": "en",
+        "original_title": "Ocean's Thirteen",
+        "overview": "Danny Ocean's team of criminals are back and composing a plan more personal than ever. When ruthless casino owner Willy Bank doublecrosses Reuben Tishkoff, causing a heart attack, Danny Ocean vows that he and his team will do anything to bring down Willy Bank along with everything he's got. Even if it means asking for help from an enemy.",
+        "popularity": 61.002,
+        "poster_path": "/pBsZs4zYUiUTemqbikTZ76iQRaU.jpg",
+        "release_date": "2007-06-05",
+        "title": "Ocean's Thirteen",
+        "video": false,
+        "vote_average": 6.7,
+        "vote_count": 6176,
+        "cast": [
+            {
+                "id": 1461,
+                "nome": "George Clooney",
+                "personagem": "Danny Ocean",
+                "data_nascimento": "1961-05-06",
+                "sexo_ator": 2
+            },
+            {
+                "id": 287,
+                "nome": "Brad Pitt",
+                "personagem": "Rusty Ryan",
+                "data_nascimento": "1963-12-18",
+                "sexo_ator": 2
+            },
+            {
+                "id": 1892,
+                "nome": "Matt Damon",
+                "personagem": "Linus Caldwell",
+                "data_nascimento": "1970-10-08",
+                "sexo_ator": 2
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/r4TxCaZvQ2bLFoXRLHGfii6b3tJ.jpg",
+        "genre_ids": [
+            28,
+            35,
+            80,
+            53
+        ],
+        "id": 9737,
+        "original_language": "en",
+        "original_title": "Bad Boys",
+        "overview": "Marcus Burnett is a henpecked family man. Mike Lowry is a footloose and fancy free ladies' man. Both Miami policemen, they have 72 hours to reclaim a consignment of drugs stolen from under their station's nose. To complicate matters, in order to get the assistance of the sole witness to a murder, they have to pretend to be each other.",
+        "popularity": 206.57,
+        "poster_path": "/x1ygBecKHfXX4M2kRhmFKWfWbJc.jpg",
+        "release_date": "1995-04-07",
+        "title": "Bad Boys",
+        "video": false,
+        "vote_average": 6.808,
+        "vote_count": 6145,
+        "cast": [
+            {
+                "id": 2888,
+                "nome": "Will Smith",
+                "personagem": "Mike Lowrey",
+                "data_nascimento": "1968-09-25",
+                "sexo_ator": 2
+            },
+            {
+                "id": 78029,
+                "nome": "Martin Lawrence",
+                "personagem": "Marcus Burnett",
+                "data_nascimento": "1965-04-16",
+                "sexo_ator": 2
+            },
+            {
+                "id": 4939,
+                "nome": "Téa Leoni",
+                "personagem": "Julie Mott",
+                "data_nascimento": "1966-02-25",
+                "sexo_ator": 1
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/mXELcGjyU0osFfUCiz1YdAn470M.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 184,
+        "original_language": "en",
+        "original_title": "Jackie Brown",
+        "overview": "Jackie Brown is a flight attendant who gets caught in the middle of smuggling cash into the country for her gunrunner boss. When the cops try to use Jackie to get to her boss, she hatches a plan — with help from a bail bondsman — to keep the money for herself.",
+        "popularity": 23.408,
+        "poster_path": "/ewbLUXvm4riZL0aepy90o0vMesn.jpg",
+        "release_date": "1997-12-25",
+        "title": "Jackie Brown",
+        "video": false,
+        "vote_average": 7.4,
+        "vote_count": 6139,
+        "cast": [
+            {
+                "id": 2230,
+                "nome": "Pam Grier",
+                "personagem": "Jackie Brown",
+                "data_nascimento": "1949-05-26",
+                "sexo_ator": 1
+            },
+            {
+                "id": 2231,
+                "nome": "Samuel L. Jackson",
+                "personagem": "Ordell Robbie",
+                "data_nascimento": "1948-12-21",
+                "sexo_ator": 2
+            },
+            {
+                "id": 380,
+                "nome": "Robert De Niro",
+                "personagem": "Louis Gara",
+                "data_nascimento": "1943-08-17",
+                "sexo_ator": 2
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/7I6VUdPj6tQECNHdviJkUHD2u89.jpg",
+        "genre_ids": [
+            28,
+            53,
+            80
+        ],
+        "id": 603692,
+        "original_language": "en",
+        "original_title": "John Wick: Chapter 4",
+        "overview": "With the price on his head ever increasing, John Wick uncovers a path to defeating The High Table. But before he can earn his freedom, Wick must face off against a new enemy with powerful alliances across the globe and forces that turn old friends into foes.",
+        "popularity": 270.229,
+        "poster_path": "/vZloFAK7NmvMGKE7VkF5UHaz0I.jpg",
+        "release_date": "2023-03-22",
+        "title": "John Wick: Chapter 4",
+        "video": false,
+        "vote_average": 7.741,
+        "vote_count": 6080,
+        "cast": [
+            {
+                "id": 6384,
+                "nome": "Keanu Reeves",
+                "personagem": "John Wick",
+                "data_nascimento": "1964-09-02",
+                "sexo_ator": 2
+            },
+            {
+                "id": 1341,
+                "nome": "Donnie Yen",
+                "personagem": "Caine",
+                "data_nascimento": "1963-07-27",
+                "sexo_ator": 2
+            },
+            {
+                "id": 137905,
+                "nome": "Bill Skarsgård",
+                "personagem": "Marquis",
+                "data_nascimento": "1990-08-09",
+                "sexo_ator": 2
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/7KsqfXDECZMryX1Rv4RKsT7SIjQ.jpg",
+        "genre_ids": [
+            28,
+            35,
+            80,
+            53
+        ],
+        "id": 390043,
+        "original_language": "en",
+        "original_title": "The Hitman's Bodyguard",
+        "overview": "The world’s top bodyguard gets a new client, a hitman who must testify at the International Court of Justice. They must put their differences aside and work together to make it to the trial on time.",
+        "popularity": 81.931,
+        "poster_path": "/5CGjlz2vyBhW5xHW4eNOZIdgzYq.jpg",
+        "release_date": "2017-08-16",
+        "title": "The Hitman's Bodyguard",
+        "video": false,
+        "vote_average": 6.898,
+        "vote_count": 6032,
+        "cast": [
+            {
+                "id": 10859,
+                "nome": "Ryan Reynolds",
+                "personagem": "Michael Bryce",
+                "data_nascimento": "1976-10-23",
+                "sexo_ator": 2
+            },
+            {
+                "id": 2231,
+                "nome": "Samuel L. Jackson",
+                "personagem": "Darius Kincaid",
+                "data_nascimento": "1948-12-21",
+                "sexo_ator": 2
+            },
+            {
+                "id": 64,
+                "nome": "Gary Oldman",
+                "personagem": "Vladislav Dukhovich",
+                "data_nascimento": "1958-03-21",
+                "sexo_ator": 2
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/4hCDuBCG1oSKFfr4TKLOJG30JzV.jpg",
+        "genre_ids": [
+            28,
+            12,
+            80
+        ],
+        "id": 59859,
+        "original_language": "en",
+        "original_title": "Kick-Ass 2",
+        "overview": "After Kick-Ass’ insane bravery inspires a new wave of self-made masked crusaders, he joins a patrol led by the Colonel Stars and Stripes. When these amateur superheroes are hunted down by Red Mist — reborn as The Mother Fucker — only the blade-wielding Hit-Girl can prevent their annihilation.",
+        "popularity": 67.099,
+        "poster_path": "/1go2A3gdQjaMuHWquybgoJlQRcX.jpg",
+        "release_date": "2013-07-17",
+        "title": "Kick-Ass 2",
+        "video": false,
+        "vote_average": 6.399,
+        "vote_count": 6030,
+        "cast": [
+            {
+                "id": 27428,
+                "nome": "Aaron Taylor-Johnson",
+                "personagem": "Dave Lizewski / Kick-Ass",
+                "data_nascimento": "1990-06-13",
+                "sexo_ator": 2
+            },
+            {
+                "id": 56734,
+                "nome": "Chloë Grace Moretz",
+                "personagem": "Mindy Macready / Hit Girl",
+                "data_nascimento": "1997-02-10",
+                "sexo_ator": 1
+            },
+            {
+                "id": 54691,
+                "nome": "Christopher Mintz-Plasse",
+                "personagem": "Chris D'Amico / The Motherfucker",
+                "data_nascimento": "1989-06-20",
+                "sexo_ator": 2
+            }
+        ]
+    }
+]

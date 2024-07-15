@@ -1,0 +1,4417 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/gFZriCkpJYsApPZEF3jhxL4yLzG.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 71446,
+        "origin_country": [
+            "ES"
+        ],
+        "original_language": "es",
+        "original_name": "La Casa de Papel",
+        "overview": "To carry out the biggest heist in history, a mysterious man called The Professor recruits a band of eight robbers who have a single characteristic: none of them has anything to lose. Five months of seclusion - memorizing every step, every detail, every probability - culminate in eleven days locked up in the National Coinage and Stamp Factory of Spain, surrounded by police forces and with dozens of hostages in their power, to find out whether their suicide wager will lead to everything or nothing.",
+        "popularity": 183.445,
+        "poster_path": "/reEMJA1uzscCbkpeRJeTT2bjqUp.jpg",
+        "first_air_date": "2017-05-02",
+        "name": "Money Heist",
+        "vote_average": 8.248,
+        "vote_count": 18372,
+        "cast": [
+            {
+                "id": 1340020,
+                "nome": "Álvaro Morte",
+                "personagem": "Profesor",
+                "data_nascimento": "1975-02-23",
+                "sexo_ator": 2
+            },
+            {
+                "id": 1109836,
+                "nome": "Pedro Alonso",
+                "personagem": "Berlín",
+                "data_nascimento": "1971-06-21",
+                "sexo_ator": 2
+            },
+            {
+                "id": 1042728,
+                "nome": "Úrsula Corberó",
+                "personagem": "Tokio",
+                "data_nascimento": "1989-08-11",
+                "sexo_ator": 1
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/aDBRtunw49UF4XmqfyNuD9nlYIu.jpg",
+        "genre_ids": [
+            80,
+            10765
+        ],
+        "id": 63174,
+        "origin_country": [
+            "US"
+        ],
+        "original_language": "en",
+        "original_name": "Lucifer",
+        "overview": "Bored and unhappy as the Lord of Hell, Lucifer Morningstar abandoned his throne and retired to Los Angeles, where he has teamed up with LAPD detective Chloe Decker to take down criminals. But the longer he's away from the underworld, the greater the threat that the worst of humanity could escape.",
+        "popularity": 405.215,
+        "poster_path": "/ekZobS8isE6mA53RAiGDG93hBxL.jpg",
+        "first_air_date": "2016-01-25",
+        "name": "Lucifer",
+        "vote_average": 8.47,
+        "vote_count": 14449,
+        "cast": [
+            {
+                "id": 192944,
+                "nome": "Tom Ellis",
+                "personagem": "Lucifer Morningstar",
+                "data_nascimento": "1978-11-17",
+                "sexo_ator": 2
+            },
+            {
+                "id": 37014,
+                "nome": "Lauren German",
+                "personagem": "Chloe Decker",
+                "data_nascimento": "1978-11-29",
+                "sexo_ator": 1
+            },
+            {
+                "id": 116474,
+                "nome": "Kevin Alejandro",
+                "personagem": "Dan Espinoza",
+                "data_nascimento": "1976-04-07",
+                "sexo_ator": 2
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/9faGSFi5jam6pDWGNd0p8JcJgXQ.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 1396,
+        "origin_country": [
+            "US"
+        ],
+        "original_language": "en",
+        "original_name": "Breaking Bad",
+        "overview": "Walter White, a New Mexico chemistry teacher, is diagnosed with Stage III cancer and given a prognosis of only two years left to live. He becomes filled with a sense of fearlessness and an unrelenting desire to secure his family's financial future at any cost as he enters the dangerous world of drugs and crime.",
+        "popularity": 508.737,
+        "poster_path": "/ztkUQFLlC19CCMYHW9o1zWhJRNq.jpg",
+        "first_air_date": "2008-01-20",
+        "name": "Breaking Bad",
+        "vote_average": 8.913,
+        "vote_count": 13820,
+        "cast": [
+            {
+                "id": 17419,
+                "nome": "Bryan Cranston",
+                "personagem": "Walter White",
+                "data_nascimento": "1956-03-07",
+                "sexo_ator": 2
+            },
+            {
+                "id": 84497,
+                "nome": "Aaron Paul",
+                "personagem": "Jesse Pinkman",
+                "data_nascimento": "1979-08-27",
+                "sexo_ator": 2
+            },
+            {
+                "id": 134531,
+                "nome": "Anna Gunn",
+                "personagem": "Skyler White",
+                "data_nascimento": "1968-08-11",
+                "sexo_ator": 1
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/soQgquPkLmUu9eKLJJzuA4KZDyi.jpg",
+        "genre_ids": [
+            80,
+            18,
+            9648
+        ],
+        "id": 69050,
+        "origin_country": [
+            "US"
+        ],
+        "original_language": "en",
+        "original_name": "Riverdale",
+        "overview": "Set in the present, the series offers a bold, subversive take on Archie, Betty, Veronica and their friends, exploring the surreality of small-town life, the darkness and weirdness bubbling beneath Riverdale’s wholesome facade.",
+        "popularity": 291.921,
+        "poster_path": "/c1ROxK1Afo6YuGi3j6ClXmrNcHi.jpg",
+        "first_air_date": "2017-01-26",
+        "name": "Riverdale",
+        "vote_average": 8.5,
+        "vote_count": 13372,
+        "cast": [
+            {
+                "id": 1680339,
+                "nome": "K.J. Apa",
+                "personagem": "Archie Andrews",
+                "data_nascimento": "1997-06-17",
+                "sexo_ator": 2
+            },
+            {
+                "id": 1136940,
+                "nome": "Lili Reinhart",
+                "personagem": "Betty Cooper",
+                "data_nascimento": "1996-09-13",
+                "sexo_ator": 1
+            },
+            {
+                "id": 1721740,
+                "nome": "Camila Mendes",
+                "personagem": "Veronica Lodge",
+                "data_nascimento": "1994-06-29",
+                "sexo_ator": 1
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/wiE9doxiLwq3WCGamDIOb2PqBqc.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 60574,
+        "origin_country": [
+            "GB"
+        ],
+        "original_language": "en",
+        "original_name": "Peaky Blinders",
+        "overview": "A gangster family epic set in 1919 Birmingham, England and centered on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby, who means to move up in the world.",
+        "popularity": 382.514,
+        "poster_path": "/vUUqzWa2LnHIVqkaKVlVGkVcZIW.jpg",
+        "first_air_date": "2013-09-12",
+        "name": "Peaky Blinders",
+        "vote_average": 8.538,
+        "vote_count": 9656,
+        "cast": [
+            {
+                "id": 2037,
+                "nome": "Cillian Murphy",
+                "personagem": "Thomas Shelby / Tommy",
+                "data_nascimento": "1976-05-25",
+                "sexo_ator": 2
+            },
+            {
+                "id": 220448,
+                "nome": "Paul Anderson",
+                "personagem": "Arthur Shelby",
+                "data_nascimento": "1978-02-12",
+                "sexo_ator": 2
+            },
+            {
+                "id": 1088620,
+                "nome": "Sophie Rundle",
+                "personagem": "Ada Shelby",
+                "data_nascimento": "1988-04-21",
+                "sexo_ator": 1
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/uU6YW3N11qECNfz18LNGAGg3Uir.jpg",
+        "genre_ids": [
+            80,
+            9648,
+            18
+        ],
+        "id": 76669,
+        "origin_country": [
+            "ES"
+        ],
+        "original_language": "es",
+        "original_name": "Élite",
+        "overview": "When three working class kids enroll in the most exclusive school in Spain, the clash between the wealthy and the poor students leads to tragedy.",
+        "popularity": 426.122,
+        "poster_path": "/3NTAbAiao4JLzFQw6YxP1YZppM8.jpg",
+        "first_air_date": "2018-10-05",
+        "name": "Elite",
+        "vote_average": 8.045,
+        "vote_count": 9028,
+        "cast": [
+            {
+                "id": 2025254,
+                "nome": "Omar Ayuso",
+                "personagem": "Omar Shanaa",
+                "data_nascimento": "1998-03-25",
+                "sexo_ator": 2
+            },
+            {
+                "id": 3248375,
+                "nome": "Nadia Al Saidi",
+                "personagem": "Sonia",
+                "data_nascimento": "1998-04-07",
+                "sexo_ator": 1
+            },
+            {
+                "id": 2025253,
+                "nome": "Mina El Hammani",
+                "personagem": "Nadia Shanaa",
+                "data_nascimento": "1993-11-29",
+                "sexo_ator": 1
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/75HgaphatW0PDI3XIHQWZUpbhn6.jpg",
+        "genre_ids": [
+            80,
+            18,
+            10765,
+            9648
+        ],
+        "id": 70523,
+        "origin_country": [
+            "DE"
+        ],
+        "original_language": "de",
+        "original_name": "Dark",
+        "overview": "A missing child causes four families to help each other for answers. What they could not imagine is that this mystery would be connected to innumerable other secrets of the small town.",
+        "popularity": 242.436,
+        "poster_path": "/7CFCzWIZZcnxHke3yAQiGPWXHwF.jpg",
+        "first_air_date": "2017-12-01",
+        "name": "Dark",
+        "vote_average": 8.421,
+        "vote_count": 6493,
+        "cast": [
+            {
+                "id": 1037348,
+                "nome": "Louis Hofmann",
+                "personagem": "Jonas Kahnwald",
+                "data_nascimento": "1997-06-03",
+                "sexo_ator": 2
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/xSM3Ba3Nabs2p0wW8vTJP0yx3Zv.jpg",
+        "genre_ids": [
+            80,
+            18,
+            10759
+        ],
+        "id": 1412,
+        "origin_country": [
+            "US"
+        ],
+        "original_language": "en",
+        "original_name": "Arrow",
+        "overview": "Spoiled billionaire playboy Oliver Queen is missing and presumed dead when his yacht is lost at sea. He returns five years later a changed man, determined to clean up the city as a hooded vigilante armed with a bow.",
+        "popularity": 777.956,
+        "poster_path": "/gKG5QGz5Ngf8fgWpBsWtlg5L2SF.jpg",
+        "first_air_date": "2012-10-10",
+        "name": "Arrow",
+        "vote_average": 6.818,
+        "vote_count": 5839,
+        "cast": [
+            {
+                "id": 76110,
+                "nome": "Stephen Amell",
+                "personagem": "Oliver Queen / Green Arrow",
+                "data_nascimento": "1981-05-08",
+                "sexo_ator": 2
+            },
+            {
+                "id": 116774,
+                "nome": "David Ramsey",
+                "personagem": "John Diggle / Spartan",
+                "data_nascimento": "1971-11-17",
+                "sexo_ator": 2
+            },
+            {
+                "id": 55775,
+                "nome": "Katie Cassidy",
+                "personagem": "Laurel Lance / Black Canary",
+                "data_nascimento": "1986-11-25",
+                "sexo_ator": 1
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/4q6TBkY0Ilx7WtV5LX8HRqNHr5J.jpg",
+        "genre_ids": [
+            80,
+            18,
+            9648
+        ],
+        "id": 19885,
+        "origin_country": [
+            "GB"
+        ],
+        "original_language": "en",
+        "original_name": "Sherlock",
+        "overview": "A modern update finds the famous sleuth and his doctor partner solving crime in 21st century London.",
+        "popularity": 142.034,
+        "poster_path": "/7WTsnHkbA0FaG6R9twfFde0I9hl.jpg",
+        "first_air_date": "2010-07-25",
+        "name": "Sherlock",
+        "vote_average": 8.516,
+        "vote_count": 5246,
+        "cast": [
+            {
+                "id": 71580,
+                "nome": "Benedict Cumberbatch",
+                "personagem": "Sherlock Holmes",
+                "data_nascimento": "1976-07-19",
+                "sexo_ator": 2
+            },
+            {
+                "id": 7060,
+                "nome": "Martin Freeman",
+                "personagem": "John Watson",
+                "data_nascimento": "1971-09-08",
+                "sexo_ator": 2
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/1yhQGQH7pfKdIY2xJSYNdp8ReD6.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 82883,
+        "origin_country": [
+            "US"
+        ],
+        "original_language": "en",
+        "original_name": "The Act",
+        "overview": "A seasonal anthology series that tells startling, stranger-than-fiction true crime stories with the first season following Gypsy Blanchard, a girl trying to escape the toxic relationship she has with her overprotective mother.",
+        "popularity": 61.759,
+        "poster_path": "/vb1sQLC2MqfCPOFqHd8SyVsyDVB.jpg",
+        "first_air_date": "2019-03-20",
+        "name": "The Act",
+        "vote_average": 7.565,
+        "vote_count": 5052,
+        "cast": [
+            {
+                "id": 4687,
+                "nome": "Patricia Arquette",
+                "personagem": "Dee Dee Blanchard",
+                "data_nascimento": "1968-04-08",
+                "sexo_ator": 1
+            },
+            {
+                "id": 125025,
+                "nome": "Joey King",
+                "personagem": "Gypsy Rose Blanchard",
+                "data_nascimento": "1999-07-30",
+                "sexo_ator": 1
+            },
+            {
+                "id": 1285,
+                "nome": "AnnaSophia Robb",
+                "personagem": "Lacey",
+                "data_nascimento": "1993-12-08",
+                "sexo_ator": 1
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/hPea3Qy5Gd6z4kJLUruBbwAH8Rm.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 60059,
+        "origin_country": [
+            "US"
+        ],
+        "original_language": "en",
+        "original_name": "Better Call Saul",
+        "overview": "Six years before Saul Goodman meets Walter White. We meet him when the man who will become Saul Goodman is known as Jimmy McGill, a small-time lawyer searching for his destiny, and, more immediately, hustling to make ends meet. Working alongside, and, often, against Jimmy, is “fixer” Mike Ehrmantraut. The series tracks Jimmy’s transformation into Saul Goodman, the man who puts “criminal” in “criminal lawyer\".",
+        "popularity": 516.703,
+        "poster_path": "/fC2HDm5t0kHl7mTm7jxMR31b7by.jpg",
+        "first_air_date": "2015-02-08",
+        "name": "Better Call Saul",
+        "vote_average": 8.674,
+        "vote_count": 4960,
+        "cast": [
+            {
+                "id": 59410,
+                "nome": "Bob Odenkirk",
+                "personagem": "Jimmy McGill",
+                "data_nascimento": "1962-10-22",
+                "sexo_ator": 2
+            },
+            {
+                "id": 783,
+                "nome": "Jonathan Banks",
+                "personagem": "Mike Ehrmantraut",
+                "data_nascimento": "1947-01-31",
+                "sexo_ator": 2
+            },
+            {
+                "id": 62765,
+                "nome": "Rhea Seehorn",
+                "personagem": "Kim Wexler",
+                "data_nascimento": "1972-05-12",
+                "sexo_ator": 1
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/7w165QdHmJuTHSQwEyJDBDpuDT7.jpg",
+        "genre_ids": [
+            10759,
+            80,
+            18
+        ],
+        "id": 2288,
+        "origin_country": [
+            "US"
+        ],
+        "original_language": "en",
+        "original_name": "Prison Break",
+        "overview": "Due to a political conspiracy, an innocent man is sent to death row and his only hope is his brother, who makes it his mission to deliberately get himself sent to the same prison in order to break the both of them out, from the inside out.",
+        "popularity": 315.554,
+        "poster_path": "/5E1BhkCgjLBlqx557Z5yzcN0i88.jpg",
+        "first_air_date": "2005-08-29",
+        "name": "Prison Break",
+        "vote_average": 8.081,
+        "vote_count": 4880,
+        "cast": [
+            {
+                "id": 3972,
+                "nome": "Wentworth Miller",
+                "personagem": "Michael Scofield",
+                "data_nascimento": "1972-06-02",
+                "sexo_ator": 2
+            },
+            {
+                "id": 10862,
+                "nome": "Dominic Purcell",
+                "personagem": "Lincoln Burrows",
+                "data_nascimento": "1970-02-17",
+                "sexo_ator": 2
+            },
+            {
+                "id": 86468,
+                "nome": "Sarah Wayne Callies",
+                "personagem": "Sara Tancredi",
+                "data_nascimento": "1977-06-01",
+                "sexo_ator": 1
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/4ceSkV7cmCon4exXaZwuhW1VdE0.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 62560,
+        "origin_country": [
+            "US"
+        ],
+        "original_language": "en",
+        "original_name": "Mr. Robot",
+        "overview": "A contemporary and culturally resonant drama about a young programmer, Elliot, who suffers from a debilitating anti-social disorder and decides that he can only connect to people by hacking them. He wields his skills as a weapon to protect the people that he cares about. Elliot will find himself in the intersection between a cybersecurity firm he works for and the underworld organizations that are recruiting him to bring down corporate America.",
+        "popularity": 196.963,
+        "poster_path": "/oKIBhzZzDX07SoE2bOLhq2EE8rf.jpg",
+        "first_air_date": "2015-06-24",
+        "name": "Mr. Robot",
+        "vote_average": 8.235,
+        "vote_count": 4480,
+        "cast": [
+            {
+                "id": 17838,
+                "nome": "Rami Malek",
+                "personagem": "Elliot Alderson",
+                "data_nascimento": "1981-05-12",
+                "sexo_ator": 2
+            },
+            {
+                "id": 2224,
+                "nome": "Christian Slater",
+                "personagem": "Mr. Robot",
+                "data_nascimento": "1969-08-18",
+                "sexo_ator": 2
+            },
+            {
+                "id": 114601,
+                "nome": "Carly Chaikin",
+                "personagem": "Darlene",
+                "data_nascimento": "1990-03-26",
+                "sexo_ator": 1
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/qsnXwGS7KBbX4JLqHvICngtR8qg.jpg",
+        "genre_ids": [
+            80,
+            18,
+            10759
+        ],
+        "id": 61889,
+        "origin_country": [
+            "US"
+        ],
+        "original_language": "en",
+        "original_name": "Marvel's Daredevil",
+        "overview": "Lawyer-by-day Matt Murdock uses his heightened senses from being blinded as a young boy to fight crime at night on the streets of Hell’s Kitchen as Daredevil.",
+        "popularity": 120.391,
+        "poster_path": "/QWbPaDxiB6LW2LjASknzYBvjMj.jpg",
+        "first_air_date": "2015-04-10",
+        "name": "Marvel's Daredevil",
+        "vote_average": 8.162,
+        "vote_count": 4357,
+        "cast": [
+            {
+                "id": 23458,
+                "nome": "Charlie Cox",
+                "personagem": "Matt Murdock / Daredevil",
+                "data_nascimento": "1982-12-15",
+                "sexo_ator": 2
+            },
+            {
+                "id": 212154,
+                "nome": "Deborah Ann Woll",
+                "personagem": "Karen Page",
+                "data_nascimento": "1985-02-07",
+                "sexo_ator": 1
+            },
+            {
+                "id": 20220,
+                "nome": "Elden Henson",
+                "personagem": "Foggy Nelson",
+                "data_nascimento": "1977-08-30",
+                "sexo_ator": 2
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/l4pb3wCBGKYc1RaDOyXmJ1oWH9t.jpg",
+        "genre_ids": [
+            80,
+            18,
+            9648
+        ],
+        "id": 1405,
+        "origin_country": [
+            "US"
+        ],
+        "original_language": "en",
+        "original_name": "Dexter",
+        "overview": "Dexter Morgan, a blood spatter pattern analyst for the Miami Metro Police also leads a secret life as a serial killer, hunting down criminals who have slipped through the cracks of justice.",
+        "popularity": 568.655,
+        "poster_path": "/q8dWfc4JwQuv3HayIZeO84jAXED.jpg",
+        "first_air_date": "2006-10-01",
+        "name": "Dexter",
+        "vote_average": 8.196,
+        "vote_count": 4087,
+        "cast": [
+            {
+                "id": 53820,
+                "nome": "Michael C. Hall",
+                "personagem": "Dexter Morgan",
+                "data_nascimento": "1971-02-01",
+                "sexo_ator": 2
+            },
+            {
+                "id": 53828,
+                "nome": "Jennifer Carpenter",
+                "personagem": "Debra Morgan",
+                "data_nascimento": "1979-12-07",
+                "sexo_ator": 1
+            },
+            {
+                "id": 25879,
+                "nome": "Geoff Pierson",
+                "personagem": "Thomas Matthews",
+                "data_nascimento": "1949-06-16",
+                "sexo_ator": 2
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/lyZmMTwpr6ZCXKA7lszpXcDwNOM.jpg",
+        "genre_ids": [
+            80,
+            35,
+            9648
+        ],
+        "id": 90462,
+        "origin_country": [
+            "US"
+        ],
+        "original_language": "en",
+        "original_name": "Chucky",
+        "overview": "After a vintage Chucky doll turns up at a suburban yard sale, an idyllic American town is thrown into chaos as a series of horrifying murders begin to expose the town’s hypocrisies and secrets. Meanwhile, the arrival of enemies — and allies — from Chucky’s past threatens to expose the truth behind the killings, as well as the demon doll’s untold origins.",
+        "popularity": 125.032,
+        "poster_path": "/7KbhQpg6OV2o58SoulRbEtK9HYT.jpg",
+        "first_air_date": "2021-10-12",
+        "name": "Chucky",
+        "vote_average": 7.851,
+        "vote_count": 3994,
+        "cast": [
+            {
+                "id": 1379122,
+                "nome": "Zackary Arthur",
+                "personagem": "Jake Wheeler",
+                "data_nascimento": "2006-09-12",
+                "sexo_ator": 2
+            },
+            {
+                "id": 3028929,
+                "nome": "Björgvin Arnarson",
+                "personagem": "Devon Evans",
+                "data_nascimento": "2005-11-24",
+                "sexo_ator": 2
+            },
+            {
+                "id": 1274510,
+                "nome": "Alyvia Alyn Lind",
+                "personagem": "Lexy Cross",
+                "data_nascimento": "2007-07-27",
+                "sexo_ator": 1
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/fThSrHjuS1X82XoH9VrtvgvMIXm.jpg",
+        "genre_ids": [
+            10759,
+            18,
+            80
+        ],
+        "id": 60797,
+        "origin_country": [
+            "US"
+        ],
+        "original_language": "en",
+        "original_name": "Scorpion",
+        "overview": "Based on a true story, Scorpion is a high-octane drama about eccentric genius Walter O’Brien and his team of brilliant misfits who comprise the last line of defense against complex, high-tech threats of the modern age. As Homeland Security’s new think tank, O’Brien’s “Scorpion” team includes Toby Curtis, an expert behaviorist who can read anyone; Happy Quinn, a mechanical prodigy; and Sylvester Dodd, a statistics guru.",
+        "popularity": 316.955,
+        "poster_path": "/hzeirSF6bRjssDh5JFrm5WRwFLd.jpg",
+        "first_air_date": "2014-09-22",
+        "name": "Scorpion",
+        "vote_average": 8.241,
+        "vote_count": 3886,
+        "cast": [
+            {
+                "id": 78050,
+                "nome": "Elyes Gabel",
+                "personagem": "Walter O'Brien",
+                "data_nascimento": "1983-05-08",
+                "sexo_ator": 2
+            },
+            {
+                "id": 77088,
+                "nome": "Katharine McPhee",
+                "personagem": "Paige Dineen",
+                "data_nascimento": "1984-03-25",
+                "sexo_ator": 1
+            },
+            {
+                "id": 86765,
+                "nome": "Jadyn Wong",
+                "personagem": "Happy Quinn",
+                "data_nascimento": "1985-05-10",
+                "sexo_ator": 1
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/hib8MpBPU7GdluS38htXCF4uw0c.jpg",
+        "genre_ids": [
+            80,
+            18,
+            9648
+        ],
+        "id": 2734,
+        "origin_country": [
+            "US"
+        ],
+        "original_language": "en",
+        "original_name": "Law & Order: Special Victims Unit",
+        "overview": "In the criminal justice system, sexually-based offenses are considered especially heinous. In New York City, the dedicated detectives who investigate these vicious felonies are members of an elite squad known as the Special Victims Unit. These are their stories.",
+        "popularity": 2397.632,
+        "poster_path": "/onmSVwYsPMYtO8OjLdjS8FfRNKb.jpg",
+        "first_air_date": "1999-09-20",
+        "name": "Law & Order: Special Victims Unit",
+        "vote_average": 7.9,
+        "vote_count": 3727,
+        "cast": [
+            {
+                "id": 6240,
+                "nome": "Mariska Hargitay",
+                "personagem": "Olivia Benson",
+                "data_nascimento": "1964-01-23",
+                "sexo_ator": 1
+            },
+            {
+                "id": 21411,
+                "nome": "Ice-T",
+                "personagem": "Odafin 'Fin' Tutuola",
+                "data_nascimento": "1958-02-16",
+                "sexo_ator": 2
+            },
+            {
+                "id": 1217599,
+                "nome": "Peter Scanavino",
+                "personagem": "Dominick 'Sonny' Carisi Jr.",
+                "data_nascimento": "1980-02-29",
+                "sexo_ator": 2
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/rJFqKcmMSttdNP58l0dVzY2NcTA.jpg",
+        "genre_ids": [
+            80,
+            18,
+            9648
+        ],
+        "id": 5920,
+        "origin_country": [
+            "US"
+        ],
+        "original_language": "en",
+        "original_name": "The Mentalist",
+        "overview": "Patrick Jane, a former celebrity psychic medium, uses his razor sharp skills of observation and expertise at \"reading\" people to solve serious crimes with the California Bureau of Investigation.",
+        "popularity": 611.18,
+        "poster_path": "/acYXu4KaDj1NIkMgObnhe4C4a0T.jpg",
+        "first_air_date": "2008-09-23",
+        "name": "The Mentalist",
+        "vote_average": 8.364,
+        "vote_count": 3658,
+        "cast": [
+            {
+                "id": 1284159,
+                "nome": "Simon Baker",
+                "personagem": "Patrick Jane",
+                "data_nascimento": "1969-07-30",
+                "sexo_ator": 2
+            },
+            {
+                "id": 17346,
+                "nome": "Robin Tunney",
+                "personagem": "Teresa Lisbon",
+                "data_nascimento": "1972-06-19",
+                "sexo_ator": 1
+            },
+            {
+                "id": 52947,
+                "nome": "Tim Kang",
+                "personagem": "Kimball Cho",
+                "data_nascimento": "1973-03-16",
+                "sexo_ator": 2
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/tuMZKK47l6l42lql9fC6PV6S06M.jpg",
+        "genre_ids": [
+            80,
+            18,
+            9648
+        ],
+        "id": 4057,
+        "origin_country": [
+            "US"
+        ],
+        "original_language": "en",
+        "original_name": "Criminal Minds",
+        "overview": "An elite team of FBI profilers analyze the country's most twisted criminal minds, anticipating their next moves before they strike again. The Behavioral Analysis Unit's most experienced agent is David Rossi, a founding member of the BAU who returns to help the team solve new cases.",
+        "popularity": 653.151,
+        "poster_path": "/wLMQebhTApmn4F6Fzg6FovdwVvL.jpg",
+        "first_air_date": "2005-09-22",
+        "name": "Criminal Minds",
+        "vote_average": 8.318,
+        "vote_count": 3634,
+        "cast": [
+            {
+                "id": 3266,
+                "nome": "Joe Mantegna",
+                "personagem": "David Rossi",
+                "data_nascimento": "1947-11-13",
+                "sexo_ator": 2
+            },
+            {
+                "id": 15423,
+                "nome": "Paget Brewster",
+                "personagem": "Emily Prentiss",
+                "data_nascimento": "1969-03-10",
+                "sexo_ator": 1
+            },
+            {
+                "id": 49706,
+                "nome": "Adam Rodriguez",
+                "personagem": "Luke Alvez",
+                "data_nascimento": "1975-04-02",
+                "sexo_ator": 2
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/r1tMESor8QuPVKP2VxcVEX6t6ad.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 43348,
+        "origin_country": [
+            "CO"
+        ],
+        "original_language": "es",
+        "original_name": "Pablo Escobar: El Patrón del Mal",
+        "overview": "Pablo is a man with a natural ability for business. Early in his life, Pablo is introduced to the business of cocaine and the power it yields. A young life of crime lands Pablo in and out of jail as he builds his criminal empire. Pablo expands his power through politics but it is not long before his conflicts as a Congressman and a drug lord collide. Pablo has his enemies executed, but not before the United States activates its own war on the Medellin cartel.",
+        "popularity": 527.397,
+        "poster_path": "/5u02bo70uzUFpEV9Pd0lFkLA9Es.jpg",
+        "first_air_date": "2012-05-28",
+        "name": "Pablo Escobar: The Drug Lord",
+        "vote_average": 7.613,
+        "vote_count": 3496,
+        "cast": [
+            {
+                "id": 71200,
+                "nome": "Andrés Parra",
+                "personagem": "Pablo Emilio Escobar Gaviria",
+                "data_nascimento": "1977-09-18",
+                "sexo_ator": 2
+            },
+            {
+                "id": 120557,
+                "nome": "Angie Cepeda",
+                "personagem": "Regina Parejo",
+                "data_nascimento": "1974-08-02",
+                "sexo_ator": 1
+            },
+            {
+                "id": 61743,
+                "nome": "Vicky Hernández",
+                "personagem": "Doña Enelia de Escobar",
+                "data_nascimento": "1945-10-14",
+                "sexo_ator": 1
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/7QSM3AsgWXctWBm7OFov9dGdZgt.jpg",
+        "genre_ids": [
+            18,
+            80,
+            10765
+        ],
+        "id": 60708,
+        "origin_country": [
+            "US"
+        ],
+        "original_language": "en",
+        "original_name": "Gotham",
+        "overview": "Everyone knows the name Commissioner Gordon. He is one of the crime world's greatest foes, a man whose reputation is synonymous with law and order. But what is known of Gordon's story and his rise from rookie detective to Police Commissioner? What did it take to navigate the multiple layers of corruption that secretly ruled Gotham City, the spawning ground of the world's most iconic villains? And what circumstances created them – the larger-than-life personas who would become Catwoman, The Penguin, The Riddler, Two-Face and The Joker?",
+        "popularity": 386.426,
+        "poster_path": "/2knM0D9yGrnUgECWfj6OSJl4Poa.jpg",
+        "first_air_date": "2014-09-22",
+        "name": "Gotham",
+        "vote_average": 7.594,
+        "vote_count": 3311,
+        "cast": [
+            {
+                "id": 17245,
+                "nome": "Ben McKenzie",
+                "personagem": "James \"Jim\" Gordon",
+                "data_nascimento": "1978-09-12",
+                "sexo_ator": 2
+            },
+            {
+                "id": 10825,
+                "nome": "Donal Logue",
+                "personagem": "Harvey Bullock",
+                "data_nascimento": "1966-02-27",
+                "sexo_ator": 2
+            },
+            {
+                "id": 934173,
+                "nome": "David Mazouz",
+                "personagem": "Bruce Wayne",
+                "data_nascimento": "2001-02-19",
+                "sexo_ator": 2
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/azyjKmaoJT0HxEXHJ112E7Vp0Z1.jpg",
+        "genre_ids": [
+            9648,
+            80,
+            18
+        ],
+        "id": 80213,
+        "origin_country": [
+            "US"
+        ],
+        "original_language": "en",
+        "original_name": "The Purge",
+        "overview": "Set in a dystopian America ruled by a totalitarian political party, the series follows several seemingly unrelated characters living in a small city. Tying them all together is a mysterious savior who’s impeccably equipped for everything the night throws at them. As the clock winds down with their fates hanging in the balance, each character is forced to reckon with their pasts as they discover how far they will go to survive the night.",
+        "popularity": 41.647,
+        "poster_path": "/9CaS2XFd0Db42grzzVBnWcSkrbg.jpg",
+        "first_air_date": "2018-09-04",
+        "name": "The Purge",
+        "vote_average": 6.922,
+        "vote_count": 3282,
+        "cast": [
+            {
+                "id": 544442,
+                "nome": "Paola Nuñez",
+                "personagem": "Esme Carmona",
+                "data_nascimento": "1978-04-08",
+                "sexo_ator": 1
+            },
+            {
+                "id": 94864,
+                "nome": "Max Martini",
+                "personagem": "Ryan Grant",
+                "data_nascimento": "1969-12-11",
+                "sexo_ator": 2
+            },
+            {
+                "id": 15543,
+                "nome": "Derek Luke",
+                "personagem": "Marcus Moore",
+                "data_nascimento": "1974-04-24",
+                "sexo_ator": 2
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/9AeiA1XtP5sel2tAf9LaGeUjhDb.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 48891,
+        "origin_country": [
+            "US"
+        ],
+        "original_language": "en",
+        "original_name": "Brooklyn Nine-Nine",
+        "overview": "A single-camera ensemble comedy following the lives of an eclectic group of detectives in a New York precinct, including one slacker who is forced to shape up when he gets a new boss.",
+        "popularity": 465.513,
+        "poster_path": "/hgRMSOt7a1b8qyQR68vUixJPang.jpg",
+        "first_air_date": "2013-09-17",
+        "name": "Brooklyn Nine-Nine",
+        "vote_average": 8.223,
+        "vote_count": 3234,
+        "cast": [
+            {
+                "id": 62861,
+                "nome": "Andy Samberg",
+                "personagem": "Jake Peralta",
+                "data_nascimento": "1978-08-18",
+                "sexo_ator": 2
+            },
+            {
+                "id": 1220767,
+                "nome": "Melissa Fumero",
+                "personagem": "Amy Santiago",
+                "data_nascimento": "1982-08-19",
+                "sexo_ator": 1
+            },
+            {
+                "id": 53256,
+                "nome": "Terry Crews",
+                "personagem": "Terry Jeffords",
+                "data_nascimento": "1968-07-30",
+                "sexo_ator": 2
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/qUP2Zy4whlLSApTELz0LaxZTBQH.jpg",
+        "genre_ids": [
+            80,
+            18,
+            10766
+        ],
+        "id": 44953,
+        "origin_country": [
+            "US"
+        ],
+        "original_language": "es",
+        "original_name": "El señor de los cielos",
+        "overview": "Set in the 1990s, these are the life and times of Amado Carrillo Fuentes, a man who became the head of the Juárez cartel. Nicknamed “El Señor de los Cielos” (Lord of the Skies) because of the large fleet of airplanes he used to transport drugs, he was also known for washing more than $200 million through Colombia to finance his huge fleet. He is described as the most powerful drug trafficker of his time.",
+        "popularity": 392.68,
+        "poster_path": "/Ag7VUdnrRz5Qpq3Yn3E5OCvFnu0.jpg",
+        "first_air_date": "2013-04-15",
+        "name": "El Señor de los Cielos",
+        "vote_average": 7.924,
+        "vote_count": 3148,
+        "cast": [
+            {
+                "id": 237569,
+                "nome": "Rafael Amaya",
+                "personagem": "Aurelio Casillas \"El Señor de los Cielos\"",
+                "data_nascimento": "1977-02-28",
+                "sexo_ator": 2
+            },
+            {
+                "id": 1254327,
+                "nome": "Isabella Castillo",
+                "personagem": "Diana Ahumada",
+                "data_nascimento": "1994-12-23",
+                "sexo_ator": 1
+            },
+            {
+                "id": 1317776,
+                "nome": "Carmen Aub",
+                "personagem": "Rutila Casillas",
+                "data_nascimento": "1989-10-24",
+                "sexo_ator": 1
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/e9n87p3Ax67spq3eUgLB6rjIEow.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 1911,
+        "origin_country": [
+            "US"
+        ],
+        "original_language": "en",
+        "original_name": "Bones",
+        "overview": "Dr. Temperance Brennan and her colleagues at the Jeffersonian's Medico-Legal Lab assist Special Agent Seeley Booth with murder investigations when the remains are so badly decomposed, burned or destroyed that the standard identification methods are useless.",
+        "popularity": 615.989,
+        "poster_path": "/eyTu5c8LniVciRZIOSHTvvkkgJa.jpg",
+        "first_air_date": "2005-09-13",
+        "name": "Bones",
+        "vote_average": 8.245,
+        "vote_count": 3092,
+        "cast": [
+            {
+                "id": 25933,
+                "nome": "Emily Deschanel",
+                "personagem": "Temperance 'Bones' Brennan",
+                "data_nascimento": "1976-10-11",
+                "sexo_ator": 1
+            },
+            {
+                "id": 25934,
+                "nome": "David Boreanaz",
+                "personagem": "Seeley Booth",
+                "data_nascimento": "1969-05-16",
+                "sexo_ator": 2
+            },
+            {
+                "id": 58621,
+                "nome": "John Boyd",
+                "personagem": "James Aubrey",
+                "data_nascimento": "1981-10-22",
+                "sexo_ator": 2
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/2eIlCirgcvEwmCSYh2wDfz5Sxvz.jpg",
+        "genre_ids": [
+            18,
+            80,
+            9648
+        ],
+        "id": 46952,
+        "origin_country": [
+            "US"
+        ],
+        "original_language": "en",
+        "original_name": "The Blacklist",
+        "overview": "Raymond \"Red\" Reddington, one of the FBI's most wanted fugitives, surrenders in person at FBI Headquarters in Washington, D.C. He claims that he and the FBI have the same interests: bringing down dangerous criminals and terrorists. In the last two decades, he's made a list of criminals and terrorists that matter the most but the FBI cannot find because it does not know they exist. Reddington calls this \"The Blacklist\". Reddington will co-operate, but insists that he will speak only to Elizabeth Keen, a rookie FBI profiler.",
+        "popularity": 393.123,
+        "poster_path": "/r935SMphvXppx5bJjbIBNx02fwc.jpg",
+        "first_air_date": "2013-09-23",
+        "name": "The Blacklist",
+        "vote_average": 7.617,
+        "vote_count": 3063,
+        "cast": [
+            {
+                "id": 13548,
+                "nome": "James Spader",
+                "personagem": "Raymond 'Red' Reddington",
+                "data_nascimento": "1960-02-07",
+                "sexo_ator": 2
+            },
+            {
+                "id": 142193,
+                "nome": "Diego Klattenhoff",
+                "personagem": "Donald Ressler",
+                "data_nascimento": "1979-11-30",
+                "sexo_ator": 2
+            },
+            {
+                "id": 144583,
+                "nome": "Hisham Tawfiq",
+                "personagem": "Dembe Zuma",
+                "data_nascimento": "1970-05-17",
+                "sexo_ator": 2
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/7S00UQBstAcmyuwQ5KQt9kgIPIB.jpg",
+        "genre_ids": [
+            35,
+            18,
+            80
+        ],
+        "id": 74577,
+        "origin_country": [
+            "GB"
+        ],
+        "original_language": "en",
+        "original_name": "The End of the F***ing World",
+        "overview": "James is 17 and is pretty sure he is a psychopath. Alyssa, also 17, is the cool and moody new girl at school. The pair make a connection and she persuades him to embark on a darkly comedic road trip in search of her real father.",
+        "popularity": 160.083,
+        "poster_path": "/f1OV9xEJCZVYcYSDRr5xOD8NJw3.jpg",
+        "first_air_date": "2017-10-24",
+        "name": "The End of the F***ing World",
+        "vote_average": 8.066,
+        "vote_count": 3037,
+        "cast": [
+            {
+                "id": 1379277,
+                "nome": "Alex Lawther",
+                "personagem": "James",
+                "data_nascimento": "1995-05-04",
+                "sexo_ator": 2
+            },
+            {
+                "id": 550552,
+                "nome": "Jessica Barden",
+                "personagem": "Alyssa Foley",
+                "data_nascimento": "1992-07-21",
+                "sexo_ator": 1
+            },
+            {
+                "id": 1537686,
+                "nome": "Naomi Ackie",
+                "personagem": "Bonnie",
+                "data_nascimento": "1992-11-02",
+                "sexo_ator": 1
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/1vpmGGDaW4aUGKCfQTV0ygAPtBu.jpg",
+        "genre_ids": [
+            80,
+            18,
+            9648,
+            10765
+        ],
+        "id": 4087,
+        "origin_country": [
+            "US"
+        ],
+        "original_language": "en",
+        "original_name": "The X-Files",
+        "overview": "The exploits of FBI Special Agents Fox Mulder and Dana Scully who investigate X-Files: marginalized, unsolved cases involving paranormal phenomena. Mulder believes in the existence of aliens and the paranormal while Scully, a skeptic, is assigned to make scientific analyses of Mulder's discoveries that debunk Mulder's work and thus return him to mainstream cases.",
+        "popularity": 304.943,
+        "poster_path": "/5BD0kiTGnDxONqdrsswTewnk6WH.jpg",
+        "first_air_date": "1993-09-10",
+        "name": "The X-Files",
+        "vote_average": 8.4,
+        "vote_count": 2995,
+        "cast": [
+            {
+                "id": 12640,
+                "nome": "David Duchovny",
+                "personagem": "Fox Mulder",
+                "data_nascimento": "1960-08-07",
+                "sexo_ator": 2
+            },
+            {
+                "id": 12214,
+                "nome": "Gillian Anderson",
+                "personagem": "Dana Scully",
+                "data_nascimento": "1968-08-09",
+                "sexo_ator": 1
+            },
+            {
+                "id": 12644,
+                "nome": "Mitch Pileggi",
+                "personagem": "Walter Skinner",
+                "data_nascimento": "1952-04-05",
+                "sexo_ator": 2
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/mcgZDwhMlrFsfpbvCeg5RY5mhiu.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 1409,
+        "origin_country": [
+            "US"
+        ],
+        "original_language": "en",
+        "original_name": "Sons of Anarchy",
+        "overview": "An adrenalized drama with darkly comedic undertones that explores a notorious outlaw motorcycle club’s (MC) desire to protect its livelihood while ensuring that their simple, sheltered town of Charming, California remains exactly that, charming. The MC must confront threats from drug dealers, corporate developers, and overzealous law officers. Behind the MC’s familial lifestyle and legally thriving automotive shop is a ruthless and illegal arms business driven by the seduction of money, power, and blood.",
+        "popularity": 309.597,
+        "poster_path": "/yPLkf4EiCkR0NOvMfmpHMA2zfN3.jpg",
+        "first_air_date": "2008-09-03",
+        "name": "Sons of Anarchy",
+        "vote_average": 8.424,
+        "vote_count": 2792,
+        "cast": [
+            {
+                "id": 56365,
+                "nome": "Charlie Hunnam",
+                "personagem": "Jax Teller",
+                "data_nascimento": "1980-04-10",
+                "sexo_ator": 2
+            },
+            {
+                "id": 18980,
+                "nome": "Katey Sagal",
+                "personagem": "Gemma Teller Morrow",
+                "data_nascimento": "1954-01-19",
+                "sexo_ator": 1
+            },
+            {
+                "id": 2478,
+                "nome": "Tommy Flanagan",
+                "personagem": "Filip \"Chibs\" Telford",
+                "data_nascimento": "1965-07-03",
+                "sexo_ator": 2
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/oAkpvVvoyZWMo9cpNk3aQoVKsjM.jpg",
+        "genre_ids": [
+            10759,
+            80,
+            18,
+            9648
+        ],
+        "id": 67335,
+        "origin_country": [
+            "CO",
+            "US"
+        ],
+        "original_language": "es",
+        "original_name": "Sin senos sí hay paraíso",
+        "overview": "A young woman born in a mafia-controlled town seeks revenge on those who wrongfully harmed and imprisoned her family.",
+        "popularity": 420.541,
+        "poster_path": "/7lBJ6lOS0uQqsH13U9iMTikawQS.jpg",
+        "first_air_date": "2016-07-19",
+        "name": "Sin senos sí hay paraíso",
+        "vote_average": 7.559,
+        "vote_count": 2774,
+        "cast": [
+            {
+                "id": 1418219,
+                "nome": "Carmen Villalobos",
+                "personagem": "Catalina Santana",
+                "data_nascimento": "1983-07-13",
+                "sexo_ator": 1
+            },
+            {
+                "id": 1489764,
+                "nome": "Carolina Gaitán",
+                "personagem": "Catalina Marín",
+                "data_nascimento": "1984-04-04",
+                "sexo_ator": 1
+            },
+            {
+                "id": 2982047,
+                "nome": "Stephania Duque",
+                "personagem": "Mariana Sanín Santana",
+                "data_nascimento": null,
+                "sexo_ator": 0
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/tCjXy1iCsr2BVlNczafnkZ40LPn.jpg",
+        "genre_ids": [
+            18,
+            80,
+            10765
+        ],
+        "id": 60866,
+        "origin_country": [
+            "US"
+        ],
+        "original_language": "en",
+        "original_name": "iZombie",
+        "overview": "A medical student who becomes a zombie joins a Coroner's Office in order to gain access to the brains she must reluctantly eat so that she can maintain her humanity. But every brain she eats, she also inherits their memories and must now solve their deaths with help from the Medical examiner and a police detective.",
+        "popularity": 215.064,
+        "poster_path": "/q4nqNwAhzVR7JuYctrWJvUWz3xR.jpg",
+        "first_air_date": "2015-03-17",
+        "name": "iZombie",
+        "vote_average": 7.801,
+        "vote_count": 2754,
+        "cast": [
+            {
+                "id": 53485,
+                "nome": "Rose McIver",
+                "personagem": "Olivia \"Liv\" Moore",
+                "data_nascimento": "1988-10-10",
+                "sexo_ator": 1
+            },
+            {
+                "id": 40632,
+                "nome": "David Anders",
+                "personagem": "Blaine DeBeers",
+                "data_nascimento": "1981-03-11",
+                "sexo_ator": 2
+            },
+            {
+                "id": 96792,
+                "nome": "Robert Buckley",
+                "personagem": "Major Lilywhite",
+                "data_nascimento": "1981-05-02",
+                "sexo_ator": 2
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/bT7pArYmcE91iCTec5H7pjrVbSu.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 63351,
+        "origin_country": [
+            "US"
+        ],
+        "original_language": "en",
+        "original_name": "Narcos",
+        "overview": "A gritty chronicle of the war against Colombia's infamously violent and powerful drug cartels.",
+        "popularity": 253.954,
+        "poster_path": "/rTmal9fDbwh5F0waol2hq35U4ah.jpg",
+        "first_air_date": "2015-08-28",
+        "name": "Narcos",
+        "vote_average": 8.02,
+        "vote_count": 2727,
+        "cast": [
+            {
+                "id": 1253360,
+                "nome": "Pedro Pascal",
+                "personagem": "Javier Peña",
+                "data_nascimento": "1975-04-02",
+                "sexo_ator": 2
+            },
+            {
+                "id": 125739,
+                "nome": "Matias Varela",
+                "personagem": "Jorge Salcedo",
+                "data_nascimento": "1980-06-23",
+                "sexo_ator": 2
+            },
+            {
+                "id": 7370,
+                "nome": "Damián Alcázar",
+                "personagem": "Gilberto Rodríguez Orejuela",
+                "data_nascimento": "1953-01-08",
+                "sexo_ator": 2
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ep5AgYa051Ddpx2Rh1iNyIkjrTR.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 60622,
+        "origin_country": [
+            "US"
+        ],
+        "original_language": "en",
+        "original_name": "Fargo",
+        "overview": "A close-knit anthology series dealing with stories involving malice, violence and murder based in and around Minnesota.",
+        "popularity": 297.768,
+        "poster_path": "/6U9CPeD8obHzweikFhiLhpc7YBT.jpg",
+        "first_air_date": "2014-04-15",
+        "name": "Fargo",
+        "vote_average": 8.297,
+        "vote_count": 2600,
+        "cast": [
+            {
+                "id": 36594,
+                "nome": "Juno Temple",
+                "personagem": "Dorothy 'Dot' Lyon",
+                "data_nascimento": "1989-07-21",
+                "sexo_ator": 1
+            },
+            {
+                "id": 10431,
+                "nome": "Jennifer Jason Leigh",
+                "personagem": "Lorraine Lyon",
+                "data_nascimento": "1962-02-05",
+                "sexo_ator": 1
+            },
+            {
+                "id": 1541178,
+                "nome": "David Rysdahl",
+                "personagem": "Wayne Lyon",
+                "data_nascimento": "1987-04-02",
+                "sexo_ator": 2
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/j5aOOtsJinQtyRaqiB12TTRHdeX.jpg",
+        "genre_ids": [
+            10759,
+            80,
+            18
+        ],
+        "id": 67178,
+        "origin_country": [
+            "US"
+        ],
+        "original_language": "en",
+        "original_name": "Marvel's The Punisher",
+        "overview": "A former Marine out to punish the criminals responsible for his family's murder finds himself ensnared in a military conspiracy.",
+        "popularity": 362.113,
+        "poster_path": "/tM6xqRKXoloH9UchaJEyyRE9O1w.jpg",
+        "first_air_date": "2017-11-17",
+        "name": "Marvel's The Punisher",
+        "vote_average": 8.112,
+        "vote_count": 2474,
+        "cast": [
+            {
+                "id": 19498,
+                "nome": "Jon Bernthal",
+                "personagem": "Frank Castle / Punisher",
+                "data_nascimento": "1976-09-20",
+                "sexo_ator": 2
+            },
+            {
+                "id": 25130,
+                "nome": "Ben Barnes",
+                "personagem": "Billy Russo",
+                "data_nascimento": "1981-08-20",
+                "sexo_ator": 2
+            },
+            {
+                "id": 574378,
+                "nome": "Amber Rose Revah",
+                "personagem": "Dinah Madani",
+                "data_nascimento": "1986-06-24",
+                "sexo_ator": 1
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/8rK0S1ZWmfF4EqVabdqB9PMIFTS.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 113988,
+        "origin_country": [
+            "US"
+        ],
+        "original_language": "en",
+        "original_name": "DAHMER - Monster: The Jeffrey Dahmer Story",
+        "overview": "This series examines the gruesome and horrific true crimes of Jeffrey Dahmer and the systemic failures that enabled one of America’s most notorious serial killers to continue his murderous spree in plain sight for over a decade.",
+        "popularity": 126.132,
+        "poster_path": "/f2PVrphK0u81ES256lw3oAZuF3x.jpg",
+        "first_air_date": "2022-09-21",
+        "name": "DAHMER - Monster: The Jeffrey Dahmer Story",
+        "vote_average": 8.015,
+        "vote_count": 2464,
+        "cast": [
+            {
+                "id": 55089,
+                "nome": "Evan Peters",
+                "personagem": "Jeffrey Dahmer",
+                "data_nascimento": "1987-01-20",
+                "sexo_ator": 2
+            },
+            {
+                "id": 28633,
+                "nome": "Richard Jenkins",
+                "personagem": "Lionel Dahmer",
+                "data_nascimento": "1947-05-04",
+                "sexo_ator": 2
+            },
+            {
+                "id": 21625,
+                "nome": "Molly Ringwald",
+                "personagem": "Shari Dahmer",
+                "data_nascimento": "1968-02-18",
+                "sexo_ator": 1
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/dhnHhEugKPohoyigCaFywPfOJBp.jpg",
+        "genre_ids": [
+            18,
+            80,
+            10759
+        ],
+        "id": 75219,
+        "origin_country": [
+            "US"
+        ],
+        "original_language": "en",
+        "original_name": "9-1-1",
+        "overview": "Explore the high-pressure experiences of police officers, paramedics and firefighters who are thrust into the most frightening, shocking and heart-stopping situations. These emergency responders must try to balance saving those who are at their most vulnerable with solving the problems in their own lives.",
+        "popularity": 390.799,
+        "poster_path": "/ax6YyNcPsuPbKze9hxdH4dU3e9w.jpg",
+        "first_air_date": "2018-01-03",
+        "name": "9-1-1",
+        "vote_average": 8.22,
+        "vote_count": 2403,
+        "cast": [
+            {
+                "id": 9780,
+                "nome": "Angela Bassett",
+                "personagem": "Athena Grant",
+                "data_nascimento": "1958-08-16",
+                "sexo_ator": 1
+            },
+            {
+                "id": 23119,
+                "nome": "Peter Krause",
+                "personagem": "Robert 'Bobby' Nash",
+                "data_nascimento": "1965-08-12",
+                "sexo_ator": 2
+            },
+            {
+                "id": 33259,
+                "nome": "Jennifer Love Hewitt",
+                "personagem": "Maddie Buckley",
+                "data_nascimento": "1979-02-21",
+                "sexo_ator": 1
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/iukGFUQQWUdgwTGGDLb1Pw3GoZP.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 62455,
+        "origin_country": [
+            "ES"
+        ],
+        "original_language": "es",
+        "original_name": "Vis a vis",
+        "overview": "Set up to take the blame for corporate fraud, young Macarena Ferreiro is locked up in a high-security women's prison surrounded by tough, ruthless criminals in this tense, provocative Spanish thriller.",
+        "popularity": 212.074,
+        "poster_path": "/1kH9u5DkoDUuIlhFFWjz9VSlKhC.jpg",
+        "first_air_date": "2015-04-20",
+        "name": "Locked Up",
+        "vote_average": 8.012,
+        "vote_count": 2398,
+        "cast": [
+            {
+                "id": 16442,
+                "nome": "Najwa Nimri",
+                "personagem": "Zulema Zahir",
+                "data_nascimento": "1972-02-14",
+                "sexo_ator": 1
+            },
+            {
+                "id": 1075560,
+                "nome": "Maggie Civantos",
+                "personagem": "Macarena Ferreiro",
+                "data_nascimento": "1984-12-28",
+                "sexo_ator": 1
+            },
+            {
+                "id": 1457340,
+                "nome": "Berta Vázquez",
+                "personagem": "Rizos Kabila",
+                "data_nascimento": "1992-03-28",
+                "sexo_ator": 1
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/u7G2G7jrBfHfIyj8ifzkq8I4tq3.jpg",
+        "genre_ids": [
+            80,
+            18,
+            10759
+        ],
+        "id": 62710,
+        "origin_country": [
+            "US"
+        ],
+        "original_language": "en",
+        "original_name": "Blindspot",
+        "overview": "A vast international plot explodes when a beautiful Jane Doe is discovered naked in Times Square, completely covered in mysterious, intricate tattoos with no memory of who she is or how she got there. But there's one tattoo that is impossible to miss: the name of FBI agent Kurt Weller, emblazoned across her back. \"Jane,\" Agent Weller and the rest of the FBI quickly realize that each mark on her body is a crime to solve, leading them closer to the truth about her identity and the mysteries to be revealed.",
+        "popularity": 271.973,
+        "poster_path": "/4AeYzamQmd9Fa6hawDmYKbdvBSe.jpg",
+        "first_air_date": "2015-09-21",
+        "name": "Blindspot",
+        "vote_average": 7.379,
+        "vote_count": 2383,
+        "cast": [
+            {
+                "id": 59817,
+                "nome": "Jaimie Alexander",
+                "personagem": "Jane Doe",
+                "data_nascimento": "1984-03-12",
+                "sexo_ator": 1
+            },
+            {
+                "id": 38664,
+                "nome": "Sullivan Stapleton",
+                "personagem": "Kurt Weller",
+                "data_nascimento": "1977-06-14",
+                "sexo_ator": 2
+            },
+            {
+                "id": 1152259,
+                "nome": "Audrey Esparza",
+                "personagem": "Tasha Zapata",
+                "data_nascimento": "1986-03-04",
+                "sexo_ator": 1
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/vlG182ZY2WMzD5bjFZNnhyvv5V4.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 40008,
+        "origin_country": [
+            "US"
+        ],
+        "original_language": "en",
+        "original_name": "Hannibal",
+        "overview": "Both a gift and a curse, Graham has the extraordinary ability to think like his prey—he sees what they see, feels what they feel. But while Graham is pursuing an especially troubling, cannibalistic murderer, Special Agent Jack Crawford teams him with a highly respected psychiatrist – a man with a taste for the criminal minded – Dr. Hannibal Lecter.",
+        "popularity": 198.206,
+        "poster_path": "/pbV2eLnKSIm1epSZt473UYfqaeZ.jpg",
+        "first_air_date": "2013-04-04",
+        "name": "Hannibal",
+        "vote_average": 8.236,
+        "vote_count": 2373,
+        "cast": [
+            {
+                "id": 1019,
+                "nome": "Mads Mikkelsen",
+                "personagem": "Dr. Hannibal Lecter",
+                "data_nascimento": "1965-11-22",
+                "sexo_ator": 2
+            },
+            {
+                "id": 12791,
+                "nome": "Hugh Dancy",
+                "personagem": "Will Graham",
+                "data_nascimento": "1975-06-19",
+                "sexo_ator": 2
+            },
+            {
+                "id": 2975,
+                "nome": "Laurence Fishburne",
+                "personagem": "Jack Crawford",
+                "data_nascimento": "1961-07-30",
+                "sexo_ator": 2
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/a906PH7CDmSOdS7kmnAgdWk5mhv.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 67744,
+        "origin_country": [
+            "US"
+        ],
+        "original_language": "en",
+        "original_name": "MINDHUNTER",
+        "overview": "An agent in the FBI's Elite Serial Crime Unit develops profiling techniques as he pursues notorious serial killers and rapists.",
+        "popularity": 80.548,
+        "poster_path": "/fbKE87mojpIETWepSbD5Qt741fp.jpg",
+        "first_air_date": "2017-10-13",
+        "name": "MINDHUNTER",
+        "vote_average": 8.1,
+        "vote_count": 2355,
+        "cast": [
+            {
+                "id": 221611,
+                "nome": "Jonathan Groff",
+                "personagem": "Holden Ford",
+                "data_nascimento": "1985-03-26",
+                "sexo_ator": 2
+            },
+            {
+                "id": 7497,
+                "nome": "Holt McCallany",
+                "personagem": "Bill Tench",
+                "data_nascimento": "1963-09-03",
+                "sexo_ator": 2
+            },
+            {
+                "id": 30084,
+                "nome": "Anna Torv",
+                "personagem": "Wendy Carr",
+                "data_nascimento": "1979-06-07",
+                "sexo_ator": 1
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/qV9o0RIBCRKyqLDLZAihskR23Gx.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 58841,
+        "origin_country": [
+            "US"
+        ],
+        "original_language": "en",
+        "original_name": "Chicago P.D.",
+        "overview": "A riveting police drama about the men and women of the Chicago Police Department's District 21 who put it all on the line to serve and protect their community. District 21 is made up of two distinctly different groups: the uniformed cops who patrol the beat and go head-to-head with the city's street crimes and the Intelligence Unit that combats the city's major offenses - organized crime, drug trafficking, high profile murders and beyond.",
+        "popularity": 648.368,
+        "poster_path": "/mZObarMPF76PGVmwywQ7Ks4UFpR.jpg",
+        "first_air_date": "2014-01-08",
+        "name": "Chicago P.D.",
+        "vote_average": 8.424,
+        "vote_count": 2332,
+        "cast": [
+            {
+                "id": 37203,
+                "nome": "Jason Beghe",
+                "personagem": "Hank Voight",
+                "data_nascimento": "1960-03-12",
+                "sexo_ator": 2
+            },
+            {
+                "id": 208678,
+                "nome": "Tracy Spiridakos",
+                "personagem": "Hailey Upton",
+                "data_nascimento": "1988-02-20",
+                "sexo_ator": 1
+            },
+            {
+                "id": 1100549,
+                "nome": "Marina Squerciati",
+                "personagem": "Kim Burgess",
+                "data_nascimento": "1984-04-30",
+                "sexo_ator": 1
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/gD830J0sf5gEeZvzkRVPdGxJmSR.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 69740,
+        "origin_country": [
+            "US"
+        ],
+        "original_language": "en",
+        "original_name": "Ozark",
+        "overview": "A financial adviser drags his family from Chicago to the Missouri Ozarks, where he must launder $500 million in five years to appease a drug boss.",
+        "popularity": 154.441,
+        "poster_path": "/m73bD8VjibSKuTWg597GQVyVhSb.jpg",
+        "first_air_date": "2017-07-21",
+        "name": "Ozark",
+        "vote_average": 8.206,
+        "vote_count": 2208,
+        "cast": [
+            {
+                "id": 23532,
+                "nome": "Jason Bateman",
+                "personagem": "Marty Byrde",
+                "data_nascimento": "1969-01-14",
+                "sexo_ator": 2
+            },
+            {
+                "id": 350,
+                "nome": "Laura Linney",
+                "personagem": "Wendy Byrde",
+                "data_nascimento": "1964-02-05",
+                "sexo_ator": 1
+            },
+            {
+                "id": 1600083,
+                "nome": "Sofia Hublitz",
+                "personagem": "Charlotte Byrde",
+                "data_nascimento": "1999-06-01",
+                "sexo_ator": 1
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/euuK8owCrdiz0HMj8iVhhquPhDv.jpg",
+        "genre_ids": [
+            80,
+            18,
+            10759
+        ],
+        "id": 4614,
+        "origin_country": [
+            "US"
+        ],
+        "original_language": "en",
+        "original_name": "NCIS",
+        "overview": "From murder and espionage to terrorism and stolen submarines, a team of special agents investigates any crime that has a shred of evidence connected to Navy and Marine Corps personnel, regardless of rank or position.",
+        "popularity": 605.053,
+        "poster_path": "/2exOHePjOTquUsbThPGhuEjYTyA.jpg",
+        "first_air_date": "2003-09-23",
+        "name": "NCIS",
+        "vote_average": 7.624,
+        "vote_count": 2208,
+        "cast": [
+            {
+                "id": 1230381,
+                "nome": "Sean Murray",
+                "personagem": "Timothy McGee",
+                "data_nascimento": "1977-11-15",
+                "sexo_ator": 2
+            },
+            {
+                "id": 18975,
+                "nome": "Wilmer Valderrama",
+                "personagem": "Nick Torres",
+                "data_nascimento": "1980-01-30",
+                "sexo_ator": 2
+            },
+            {
+                "id": 164930,
+                "nome": "Katrina Law",
+                "personagem": "Jessica Knight",
+                "data_nascimento": "1985-09-30",
+                "sexo_ator": 1
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/aY7zv2pfk9H0QxaaL3PBjvalbKQ.jpg",
+        "genre_ids": [
+            80,
+            18,
+            9648
+        ],
+        "id": 96677,
+        "origin_country": [
+            "FR"
+        ],
+        "original_language": "fr",
+        "original_name": "Lupin",
+        "overview": "Inspired by the adventures of Arsène Lupin, gentleman thief Assane Diop sets out to avenge his father for an injustice inflicted by a wealthy family.",
+        "popularity": 97.697,
+        "poster_path": "/l220jMmURQUTzgkFuf6u8YpYs84.jpg",
+        "first_air_date": "2021-01-08",
+        "name": "Lupin",
+        "vote_average": 7.75,
+        "vote_count": 2160,
+        "cast": [
+            {
+                "id": 78423,
+                "nome": "Omar Sy",
+                "personagem": "Assane Diop",
+                "data_nascimento": "1978-01-20",
+                "sexo_ator": 2
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/zi40ANCqdvVqCN3q43g1hjdVCsp.jpg",
+        "genre_ids": [
+            18,
+            10768,
+            80
+        ],
+        "id": 1407,
+        "origin_country": [
+            "US"
+        ],
+        "original_language": "en",
+        "original_name": "Homeland",
+        "overview": "CIA officer Carrie Mathison is tops in her field despite being bipolar, which makes her volatile and unpredictable. With the help of her long-time mentor Saul Berenson, Carrie fearlessly risks everything, including her personal well-being and even sanity, at every turn.",
+        "popularity": 228.719,
+        "poster_path": "/6GAvS2e6VIRsms9FpVt33PsCoEW.jpg",
+        "first_air_date": "2011-10-02",
+        "name": "Homeland",
+        "vote_average": 7.543,
+        "vote_count": 2120,
+        "cast": [
+            {
+                "id": 6194,
+                "nome": "Claire Danes",
+                "personagem": "Carrie Mathison",
+                "data_nascimento": "1979-04-12",
+                "sexo_ator": 1
+            },
+            {
+                "id": 25503,
+                "nome": "Mandy Patinkin",
+                "personagem": "Saul Berenson",
+                "data_nascimento": "1952-11-30",
+                "sexo_ator": 2
+            },
+            {
+                "id": 65726,
+                "nome": "Maury Sterling",
+                "personagem": "Max Piotrowski",
+                "data_nascimento": "1971-09-01",
+                "sexo_ator": 2
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/9wYtsChiXyJmTirguADrJWwqbmk.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 1438,
+        "origin_country": [
+            "US"
+        ],
+        "original_language": "en",
+        "original_name": "The Wire",
+        "overview": "Told from the points of view of both the Baltimore homicide and narcotics detectives and their targets, the series captures a universe in which the national war on drugs has become a permanent, self-sustaining bureaucracy, and distinctions between good and evil are routinely obliterated.",
+        "popularity": 191.491,
+        "poster_path": "/4lbclFySvugI51fwsyxBTOm4DqK.jpg",
+        "first_air_date": "2002-06-02",
+        "name": "The Wire",
+        "vote_average": 8.6,
+        "vote_count": 2110,
+        "cast": [
+            {
+                "id": 17287,
+                "nome": "Dominic West",
+                "personagem": "Jimmy McNulty",
+                "data_nascimento": "1969-10-15",
+                "sexo_ator": 2
+            },
+            {
+                "id": 129101,
+                "nome": "Lance Reddick",
+                "personagem": "Cedric Daniels",
+                "data_nascimento": "1962-06-07",
+                "sexo_ator": 2
+            },
+            {
+                "id": 203683,
+                "nome": "Sonja Sohn",
+                "personagem": "Kima Greggs",
+                "data_nascimento": "1964-01-01",
+                "sexo_ator": 1
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/q36cbLiF3JlUKQulWXbYmLz2mS1.jpg",
+        "genre_ids": [
+            80,
+            18,
+            35
+        ],
+        "id": 79744,
+        "origin_country": [
+            "US"
+        ],
+        "original_language": "en",
+        "original_name": "The Rookie",
+        "overview": "Starting over isn’t easy, especially for small-town guy John Nolan who, after a life-altering incident, is pursuing his dream of being an LAPD officer. As the force’s oldest rookie, he’s met with skepticism from some higher-ups who see him as just a walking midlife crisis.",
+        "popularity": 746.713,
+        "poster_path": "/wbeqBUFydztHDQ4h7dZqnknh5HE.jpg",
+        "first_air_date": "2018-10-16",
+        "name": "The Rookie",
+        "vote_average": 8.4,
+        "vote_count": 1866,
+        "cast": [
+            {
+                "id": 51797,
+                "nome": "Nathan Fillion",
+                "personagem": "John Nolan",
+                "data_nascimento": "1971-03-27",
+                "sexo_ator": 2
+            },
+            {
+                "id": 1234713,
+                "nome": "Melissa O'Neil",
+                "personagem": "Lucy Chen",
+                "data_nascimento": "1988-07-12",
+                "sexo_ator": 1
+            },
+            {
+                "id": 74409,
+                "nome": "Eric Winter",
+                "personagem": "Tim Bradford",
+                "data_nascimento": "1976-07-17",
+                "sexo_ator": 2
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/mWGLIaVFXyalsSbstiwletjKFUC.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 31586,
+        "origin_country": [
+            "US"
+        ],
+        "original_language": "es",
+        "original_name": "La Reina del Sur",
+        "overview": "After years of blood, sweat and tears, a woman of humble origin ends up becoming a drug trafficking legend, with all that that means...",
+        "popularity": 120.29,
+        "poster_path": "/p11t8ckTC6EiuVw5FGFKdc2Z7GH.jpg",
+        "first_air_date": "2011-02-28",
+        "name": "La Reina del Sur",
+        "vote_average": 7.837,
+        "vote_count": 1851,
+        "cast": [
+            {
+                "id": 36628,
+                "nome": "Kate del Castillo",
+                "personagem": "Teresa Mendoza",
+                "data_nascimento": "1972-10-23",
+                "sexo_ator": 1
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/xEtiiv2uhGr9IPgeruuECIfyfin.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 1419,
+        "origin_country": [
+            "US"
+        ],
+        "original_language": "en",
+        "original_name": "Castle",
+        "overview": "After a serial killer imitates the plots of his novels, successful mystery novelist Richard \"Rick\" Castle receives permission from the Mayor of New York City to tag along with an NYPD homicide investigation team for research purposes.",
+        "popularity": 381.04,
+        "poster_path": "/diXBeMzvfJb2iJg3G0kCUaMCzEc.jpg",
+        "first_air_date": "2009-03-09",
+        "name": "Castle",
+        "vote_average": 7.999,
+        "vote_count": 1786,
+        "cast": [
+            {
+                "id": 51797,
+                "nome": "Nathan Fillion",
+                "personagem": "Richard Castle",
+                "data_nascimento": "1971-03-27",
+                "sexo_ator": 2
+            },
+            {
+                "id": 34408,
+                "nome": "Stana Katic",
+                "personagem": "Kate Beckett",
+                "data_nascimento": "1978-04-26",
+                "sexo_ator": 1
+            },
+            {
+                "id": 96349,
+                "nome": "Molly C. Quinn",
+                "personagem": "Alexis Castle",
+                "data_nascimento": "1993-10-08",
+                "sexo_ator": 1
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/9VNvlBE0IVFBuybIAA6BlOVMtCv.jpg",
+        "genre_ids": [
+            18,
+            10765,
+            10759,
+            80
+        ],
+        "id": 62126,
+        "origin_country": [
+            "US"
+        ],
+        "original_language": "en",
+        "original_name": "Marvel's Luke Cage",
+        "overview": "Given superstrength and durability by a sabotaged experiment, a wrongly accused man escapes prison to become a superhero for hire.",
+        "popularity": 150.989,
+        "poster_path": "/6R62oGGufhsf6DiMknCi047N0b7.jpg",
+        "first_air_date": "2016-09-30",
+        "name": "Marvel's Luke Cage",
+        "vote_average": 6.937,
+        "vote_count": 1717,
+        "cast": [
+            {
+                "id": 450,
+                "nome": "Mike Colter",
+                "personagem": "Luke Cage",
+                "data_nascimento": "1976-08-26",
+                "sexo_ator": 2
+            },
+            {
+                "id": 1981,
+                "nome": "Alfre Woodard",
+                "personagem": "Mariah Dillard",
+                "data_nascimento": "1952-11-08",
+                "sexo_ator": 1
+            },
+            {
+                "id": 1034765,
+                "nome": "Simone Missick",
+                "personagem": "Misty Knight",
+                "data_nascimento": "1982-01-19",
+                "sexo_ator": 1
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/hOdTVqJPXTnvmWeXgRZBlXDdoYE.jpg",
+        "genre_ids": [
+            18,
+            10759,
+            80,
+            10765
+        ],
+        "id": 1411,
+        "origin_country": [
+            "US"
+        ],
+        "original_language": "en",
+        "original_name": "Person of Interest",
+        "overview": "John Reese, former CIA paramilitary operative, is presumed dead and teams up with reclusive billionaire Finch to prevent violent crimes in New York City by initiating their own type of justice. With the special training that Reese has had in Covert Operations and Finch's genius software inventing mind, the two are a perfect match for the job that they have to complete. With the help of surveillance equipment, they work \"outside the law\" and get the right criminal behind bars. ",
+        "popularity": 257.495,
+        "poster_path": "/6FuKOyJgViZXgMDOq9djFJLWPqX.jpg",
+        "first_air_date": "2011-09-22",
+        "name": "Person of Interest",
+        "vote_average": 8.082,
+        "vote_count": 1669,
+        "cast": [
+            {
+                "id": 8767,
+                "nome": "Jim Caviezel",
+                "personagem": "John Reese",
+                "data_nascimento": "1968-09-26",
+                "sexo_ator": 2
+            },
+            {
+                "id": 2136,
+                "nome": "Michael Emerson",
+                "personagem": "Harold Finch",
+                "data_nascimento": "1954-09-07",
+                "sexo_ator": 2
+            },
+            {
+                "id": 4728,
+                "nome": "Kevin Chapman",
+                "personagem": "Lionel Fusco",
+                "data_nascimento": "1962-07-29",
+                "sexo_ator": 2
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/m5CggjJuFc08QCuKz54znHP6spJ.jpg",
+        "genre_ids": [
+            10759,
+            80,
+            18
+        ],
+        "id": 108978,
+        "origin_country": [
+            "US"
+        ],
+        "original_language": "en",
+        "original_name": "Reacher",
+        "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
+        "popularity": 251.608,
+        "poster_path": "/jFuH0md41x5mB4qj5344mSmtHrO.jpg",
+        "first_air_date": "2022-02-03",
+        "name": "Reacher",
+        "vote_average": 8.077,
+        "vote_count": 1666,
+        "cast": [
+            {
+                "id": 64295,
+                "nome": "Alan Ritchson",
+                "personagem": "Jack Reacher",
+                "data_nascimento": "1982-11-28",
+                "sexo_ator": 2
+            },
+            {
+                "id": 2123496,
+                "nome": "Maria Sten",
+                "personagem": "Frances Neagley",
+                "data_nascimento": "1990-01-01",
+                "sexo_ator": 1
+            },
+            {
+                "id": 86268,
+                "nome": "Serinda Swan",
+                "personagem": "Karla Dixon",
+                "data_nascimento": "1984-07-11",
+                "sexo_ator": 1
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ej5VNvBy4VqCqsuamY4oe4EiwFb.jpg",
+        "genre_ids": [
+            80,
+            18,
+            10759
+        ],
+        "id": 32798,
+        "origin_country": [
+            "US"
+        ],
+        "original_language": "en",
+        "original_name": "Hawaii Five-0",
+        "overview": "Steve McGarrett returns home to Oahu, in order to find his father's killer. The governor offers him the chance to run his own task force (Five-0). Steve's team is joined by Chin Ho Kelly, Danny \"Danno\" Williams, and Kono Kalakaua.",
+        "popularity": 1082.364,
+        "poster_path": "/sIdCKlmM2nU4akIvFQaAIiU8YES.jpg",
+        "first_air_date": "2010-09-20",
+        "name": "Hawaii Five-0",
+        "vote_average": 7.734,
+        "vote_count": 1659,
+        "cast": [
+            {
+                "id": 41297,
+                "nome": "Alex O'Loughlin",
+                "personagem": "Steve McGarrett",
+                "data_nascimento": "1976-08-24",
+                "sexo_ator": 2
+            },
+            {
+                "id": 1894,
+                "nome": "Scott Caan",
+                "personagem": "Danny \"Danno\" Williams",
+                "data_nascimento": "1976-08-23",
+                "sexo_ator": 2
+            },
+            {
+                "id": 123813,
+                "nome": "Ian Anthony Dale",
+                "personagem": "Adam Noshimuri",
+                "data_nascimento": "1978-07-03",
+                "sexo_ator": 2
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/mNHRGO1gFpR2CYZdANe72kcKq7G.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 153312,
+        "origin_country": [
+            "US"
+        ],
+        "original_language": "en",
+        "original_name": "Tulsa King",
+        "overview": "Just after he is released from prison after 25 years, New York mafia capo Dwight “The General” Manfredi is unceremoniously exiled by his boss to set up shop in Tulsa, Okla. Realizing that his mob family may not have his best interests in mind, Dwight slowly builds a “crew” from a group of unlikely characters, to help him establish a new criminal empire in a place that to him might as well be another planet.",
+        "popularity": 179.162,
+        "poster_path": "/fwTv3RPRAIy0maOMns5eYRRwnDk.jpg",
+        "first_air_date": "2022-11-13",
+        "name": "Tulsa King",
+        "vote_average": 8.42,
+        "vote_count": 1592,
+        "cast": [
+            {
+                "id": 16483,
+                "nome": "Sylvester Stallone",
+                "personagem": "Dwight 'The General' Manfredi",
+                "data_nascimento": "1946-07-06",
+                "sexo_ator": 2
+            },
+            {
+                "id": 71402,
+                "nome": "Andrea Savage",
+                "personagem": "Stacy Beale",
+                "data_nascimento": "1973-02-20",
+                "sexo_ator": 1
+            },
+            {
+                "id": 7133,
+                "nome": "Max Casella",
+                "personagem": "Armand Truisi",
+                "data_nascimento": "1967-06-06",
+                "sexo_ator": 2
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/7sJrNKwzyJWnFPFpDL9wnZ859LZ.jpg",
+        "genre_ids": [
+            18,
+            9648,
+            80
+        ],
+        "id": 1415,
+        "origin_country": [
+            "US"
+        ],
+        "original_language": "en",
+        "original_name": "Elementary",
+        "overview": "A modern-day drama about a crime-solving duo that cracks the NYPD's most impossible cases. Following his fall from grace in London and a stint in rehab, eccentric Sherlock escapes to Manhattan where his wealthy father forces him to live with his worst nightmare - a sober companion, Dr. Watson.",
+        "popularity": 204.365,
+        "poster_path": "/q9dObe29W4bDpgzUfOOH3ZnzDbR.jpg",
+        "first_air_date": "2012-09-27",
+        "name": "Elementary",
+        "vote_average": 7.592,
+        "vote_count": 1587,
+        "cast": [
+            {
+                "id": 9012,
+                "nome": "Jonny Lee Miller",
+                "personagem": "Sherlock Holmes",
+                "data_nascimento": "1972-11-15",
+                "sexo_ator": 2
+            },
+            {
+                "id": 140,
+                "nome": "Lucy Liu",
+                "personagem": "Joan Watson",
+                "data_nascimento": "1968-12-02",
+                "sexo_ator": 1
+            },
+            {
+                "id": 1224051,
+                "nome": "Jon Michael Hill",
+                "personagem": "Marcus Bell",
+                "data_nascimento": "1985-07-28",
+                "sexo_ator": 2
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/4kp7ZwgminnWqgFwO5QEiWS5BNa.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 71411,
+        "origin_country": [
+            "US"
+        ],
+        "original_language": "es",
+        "original_name": "El Chapo",
+        "overview": "A look at the life of notorious drug kingpin, El Chapo, from his early days in the 1980s working for the Guadalajara Cartel, to his rise to power of during the '90s and his ultimate downfall in 2016.",
+        "popularity": 79.081,
+        "poster_path": "/2ClXk4PoOGmkk676y4q6T26GJOb.jpg",
+        "first_air_date": "2017-04-23",
+        "name": "El Chapo",
+        "vote_average": 7.499,
+        "vote_count": 1562,
+        "cast": [
+            {
+                "id": 1811021,
+                "nome": "Marco de la O",
+                "personagem": "Joaquin 'El Chapo' Guzman",
+                "data_nascimento": null,
+                "sexo_ator": 2
+            },
+            {
+                "id": 1512489,
+                "nome": "Valentina Acosta",
+                "personagem": "Alejandra",
+                "data_nascimento": null,
+                "sexo_ator": 1
+            },
+            {
+                "id": 1811036,
+                "nome": "Juan Carlos Olivas",
+                "personagem": "El Güero",
+                "data_nascimento": null,
+                "sexo_ator": 0
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/rNlYsPO8oqZrxedntqqzfyPJNzq.jpg",
+        "genre_ids": [
+            80,
+            18,
+            9648
+        ],
+        "id": 61056,
+        "origin_country": [
+            "US"
+        ],
+        "original_language": "en",
+        "original_name": "How to Get Away with Murder",
+        "overview": "A sexy, suspense-driven legal thriller about a group of ambitious law students and their brilliant, mysterious criminal defense professor. They become entangled in a murder plot and will shake the entire university and change the course of their lives.",
+        "popularity": 849.71,
+        "poster_path": "/bJs8Y6T88NcgksxA8UaVl4YX8p8.jpg",
+        "first_air_date": "2014-09-25",
+        "name": "How to Get Away with Murder",
+        "vote_average": 7.85,
+        "vote_count": 1552,
+        "cast": [
+            {
+                "id": 19492,
+                "nome": "Viola Davis",
+                "personagem": "Annalise Keating",
+                "data_nascimento": "1965-08-11",
+                "sexo_ator": 1
+            },
+            {
+                "id": 64805,
+                "nome": "Billy Brown",
+                "personagem": "Nate Lahey",
+                "data_nascimento": "1970-10-30",
+                "sexo_ator": 2
+            },
+            {
+                "id": 1286329,
+                "nome": "Jack Falahee",
+                "personagem": "Connor Walsh",
+                "data_nascimento": "1989-02-20",
+                "sexo_ator": 2
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/2sjy8Tu8PJGFQI4Foz4682qk8Mw.jpg",
+        "genre_ids": [
+            18,
+            9648,
+            80
+        ],
+        "id": 1620,
+        "origin_country": [
+            "US"
+        ],
+        "original_language": "en",
+        "original_name": "CSI: Miami",
+        "overview": "CSI: Miami follows Crime Scene Investigators working for the Miami-Dade Police Department as they use physical evidence, similar to their Las Vegas counterparts, to solve grisly murders. The series mixes deduction, gritty subject matter, and character-driven drama in the same vein as the original series in the CSI franchise, except that the Miami CSIs are cops first, scientists second.",
+        "popularity": 818.201,
+        "poster_path": "/pNW64pjaHvf6purNaFhq4SHYRfl.jpg",
+        "first_air_date": "2002-09-23",
+        "name": "CSI: Miami",
+        "vote_average": 7.735,
+        "vote_count": 1552,
+        "cast": [
+            {
+                "id": 16560,
+                "nome": "David Caruso",
+                "personagem": "Horatio Caine",
+                "data_nascimento": "1956-01-07",
+                "sexo_ator": 2
+            },
+            {
+                "id": 6108,
+                "nome": "Emily Procter",
+                "personagem": "Calleigh Duquesne",
+                "data_nascimento": "1968-10-08",
+                "sexo_ator": 1
+            },
+            {
+                "id": 334,
+                "nome": "Omar Benson Miller",
+                "personagem": "Walter Simmons",
+                "data_nascimento": "1978-10-07",
+                "sexo_ator": 2
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/s3pypVJf05ELPCUA6jSW381nLwm.jpg",
+        "genre_ids": [
+            18,
+            80,
+            9648
+        ],
+        "id": 46786,
+        "origin_country": [
+            "US"
+        ],
+        "original_language": "en",
+        "original_name": "Bates Motel",
+        "overview": "A \"contemporary prequel\" to the 1960 film Psycho, depicting the life of Norman Bates and his mother Norma prior to the events portrayed in Hitchcock's film, albeit in a different fictional town and in a modern setting. The series begins after the death of Norma's husband, when she purchases a motel located in a coastal Oregon town so she and Norman can start a new life.",
+        "popularity": 115.739,
+        "poster_path": "/xXKcfZE7ulYxgjjYv51s0zDG69s.jpg",
+        "first_air_date": "2013-03-18",
+        "name": "Bates Motel",
+        "vote_average": 8.084,
+        "vote_count": 1530,
+        "cast": [
+            {
+                "id": 21657,
+                "nome": "Vera Farmiga",
+                "personagem": "Norma Bates",
+                "data_nascimento": "1973-08-06",
+                "sexo_ator": 1
+            },
+            {
+                "id": 1281,
+                "nome": "Freddie Highmore",
+                "personagem": "Norman Bates",
+                "data_nascimento": "1992-02-14",
+                "sexo_ator": 2
+            },
+            {
+                "id": 41883,
+                "nome": "Max Thieriot",
+                "personagem": "Dylan Massett",
+                "data_nascimento": "1988-10-14",
+                "sexo_ator": 2
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/hsSw3DuG2ah2wgaZeDTwyv5FPh3.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 74428,
+        "origin_country": [
+            "MX"
+        ],
+        "original_language": "es",
+        "original_name": "Rosario Tijeras",
+        "overview": "Worlds collide when a vengeance-obsessed young woman from the other side of the tracks captures the attention of two well-off friends.",
+        "popularity": 236.717,
+        "poster_path": "/q03eQL8AUx49lVH6IT3IlmWzhQu.jpg",
+        "first_air_date": "2016-10-30",
+        "name": "Rosario Tijeras",
+        "vote_average": 7.507,
+        "vote_count": 1522,
+        "cast": [
+            {
+                "id": 1310902,
+                "nome": "Bárbara de Regil",
+                "personagem": "Rosario Tijeras",
+                "data_nascimento": "1987-06-05",
+                "sexo_ator": 1
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/gCblYqt8ctD6aAFnZqLJWKWnjvM.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 86430,
+        "origin_country": [
+            "US"
+        ],
+        "original_language": "en",
+        "original_name": "Your Honor",
+        "overview": "New Orleans judge Michael Desiato is forced to confront his own deepest convictions when his son is involved in a hit and run that embroils an organized crime family.",
+        "popularity": 116.782,
+        "poster_path": "/1rWWgTEDFdV330aLgCoaq7I56lk.jpg",
+        "first_air_date": "2020-12-06",
+        "name": "Your Honor",
+        "vote_average": 8.134,
+        "vote_count": 1494,
+        "cast": [
+            {
+                "id": 17419,
+                "nome": "Bryan Cranston",
+                "personagem": "Michael Desiato",
+                "data_nascimento": "1956-03-07",
+                "sexo_ator": 2
+            },
+            {
+                "id": 15250,
+                "nome": "Hope Davis",
+                "personagem": "Gina Baxter",
+                "data_nascimento": "1964-03-23",
+                "sexo_ator": 1
+            },
+            {
+                "id": 17490,
+                "nome": "Isiah Whitlock Jr.",
+                "personagem": "Charlie Figaro",
+                "data_nascimento": "1954-09-13",
+                "sexo_ator": 2
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/be6mDIMv7cg8duWkcYVnTB8rphO.jpg",
+        "genre_ids": [
+            10759,
+            18,
+            80
+        ],
+        "id": 1973,
+        "origin_country": [
+            "US"
+        ],
+        "original_language": "en",
+        "original_name": "24",
+        "overview": "Counterterrorism agent Jack Bauer fights the bad guys of the world, a day at a time. With each week's episode unfolding in real-time, \"24\" covers a single day in the life of Bauer each season.",
+        "popularity": 364.05,
+        "poster_path": "/iq6yrZ5LEDXf1ArCOYLq8PIUBpV.jpg",
+        "first_air_date": "2001-11-06",
+        "name": "24",
+        "vote_average": 7.789,
+        "vote_count": 1466,
+        "cast": [
+            {
+                "id": 2628,
+                "nome": "Kiefer Sutherland",
+                "personagem": "Jack Bauer",
+                "data_nascimento": "1966-12-21",
+                "sexo_ator": 2
+            },
+            {
+                "id": 17836,
+                "nome": "Kim Raver",
+                "personagem": "Audrey Boudreau",
+                "data_nascimento": "1969-03-15",
+                "sexo_ator": 1
+            },
+            {
+                "id": 25884,
+                "nome": "Mary Lynn Rajskub",
+                "personagem": "Chloe O'Brian",
+                "data_nascimento": "1971-06-22",
+                "sexo_ator": 1
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/xPVCpIgD9w8AuMiK0EkAEetFVfN.jpg",
+        "genre_ids": [
+            16,
+            18,
+            9648,
+            80
+        ],
+        "id": 72305,
+        "origin_country": [
+            "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "賭ケグルイ",
+        "overview": "Hyakkaou Private Academy. An institution for the privileged with a very peculiar curriculum. You see, when you're the sons and daughters of the wealthiest of the wealthy, it's not athletic prowess or book smarts that keep you ahead. It's reading your opponent, the art of the deal. What better way to hone those skills than with a rigorous curriculum of gambling? At Hyakkaou Private Academy, the winners live like kings, and the losers are put through the wringer. But when Yumeko Jabami enrolls, she's gonna teach these kids what a high roller really looks like!",
+        "popularity": 141.014,
+        "poster_path": "/99jgepKwa0yqLY0pP5BlfYLH6nX.jpg",
+        "first_air_date": "2017-07-01",
+        "name": "Kakegurui",
+        "vote_average": 8.185,
+        "vote_count": 1452,
+        "cast": [
+            {
+                "id": 1832519,
+                "nome": "Tatsuya Tokutake",
+                "personagem": "Ryōta Suzui (voice)",
+                "data_nascimento": "1994-09-15",
+                "sexo_ator": 2
+            },
+            {
+                "id": 221773,
+                "nome": "Saori Hayami",
+                "personagem": "Yumeko Jabami (voice)",
+                "data_nascimento": "1991-05-29",
+                "sexo_ator": 1
+            },
+            {
+                "id": 1496002,
+                "nome": "Minami Tanaka",
+                "personagem": "Mary Saotome (voice)",
+                "data_nascimento": "1996-01-22",
+                "sexo_ator": 1
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/1GY7ih45OzZKjNCJ97XHxBCtuSU.jpg",
+        "genre_ids": [
+            80,
+            18,
+            9648
+        ],
+        "id": 8358,
+        "origin_country": [
+            "US"
+        ],
+        "original_language": "en",
+        "original_name": "Lie to Me",
+        "overview": "The world's leading deception researcher, Dr. Cal Lightman, studies facial expression, body language and tone of voice to determine when a person is lying and why, which helps law enforcement and government agencies uncover the truth. But his skills also make it easier for him to deceive others.",
+        "popularity": 299.786,
+        "poster_path": "/rrTeGVXHqppoTUydoWV6bCzZs1W.jpg",
+        "first_air_date": "2009-01-21",
+        "name": "Lie to Me",
+        "vote_average": 7.905,
+        "vote_count": 1439,
+        "cast": [
+            {
+                "id": 3129,
+                "nome": "Tim Roth",
+                "personagem": "Cal Lightman",
+                "data_nascimento": "1961-05-14",
+                "sexo_ator": 2
+            },
+            {
+                "id": 95468,
+                "nome": "Kelli Williams",
+                "personagem": "Gillian Foster",
+                "data_nascimento": "1970-06-08",
+                "sexo_ator": 1
+            },
+            {
+                "id": 221600,
+                "nome": "Monica Raymund",
+                "personagem": "Ria Torres",
+                "data_nascimento": "1986-07-26",
+                "sexo_ator": 1
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/lmlsqpAfDZnZumcFhbsTrOy9uNZ.jpg",
+        "genre_ids": [
+            9648,
+            18,
+            80
+        ],
+        "id": 84661,
+        "origin_country": [
+            "US"
+        ],
+        "original_language": "en",
+        "original_name": "The Outsider",
+        "overview": "When an insidious supernatural force edges its way into a seemingly straightforward investigation into the gruesome murder of a young boy, it leads a seasoned cop and an unorthodox investigator to question everything they believe in.",
+        "popularity": 109.151,
+        "poster_path": "/aMiPwPQjQI1EZN3xP2V0sSU37dc.jpg",
+        "first_air_date": "2020-01-12",
+        "name": "The Outsider",
+        "vote_average": 7.393,
+        "vote_count": 1409,
+        "cast": [
+            {
+                "id": 77335,
+                "nome": "Ben Mendelsohn",
+                "personagem": "Ralph Anderson",
+                "data_nascimento": "1969-04-03",
+                "sexo_ator": 2
+            },
+            {
+                "id": 1765068,
+                "nome": "Cynthia Erivo",
+                "personagem": "Holly Gibney",
+                "data_nascimento": "1987-01-08",
+                "sexo_ator": 1
+            },
+            {
+                "id": 121718,
+                "nome": "Bill Camp",
+                "personagem": "Howie Gold",
+                "data_nascimento": "1964-10-13",
+                "sexo_ator": 2
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/9wCsImxDW4MCVP47vVjny0Wa06s.jpg",
+        "genre_ids": [
+            18,
+            9648,
+            80
+        ],
+        "id": 87784,
+        "origin_country": [
+            "US"
+        ],
+        "original_language": "en",
+        "original_name": "Defending Jacob",
+        "overview": "A family's lives are irreparably disrupted when the 14-year-old son is accused of murdering a fellow classmate.",
+        "popularity": 164.066,
+        "poster_path": "/JTmkzwSDRiS9nvSPwpDB9fmZj2.jpg",
+        "first_air_date": "2020-04-24",
+        "name": "Defending Jacob",
+        "vote_average": 8.333,
+        "vote_count": 1378,
+        "cast": [
+            {
+                "id": 16828,
+                "nome": "Chris Evans",
+                "personagem": "Andy Barber",
+                "data_nascimento": "1981-06-13",
+                "sexo_ator": 2
+            },
+            {
+                "id": 70904,
+                "nome": "Michelle Dockery",
+                "personagem": "Laurie Barber",
+                "data_nascimento": "1981-12-15",
+                "sexo_ator": 1
+            },
+            {
+                "id": 1274508,
+                "nome": "Jaeden Martell",
+                "personagem": "Jacob Barber",
+                "data_nascimento": "2003-01-04",
+                "sexo_ator": 2
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/72jj9y2Ejeub0mycZvkrPfT59sW.jpg",
+        "genre_ids": [
+            10765,
+            10759,
+            80
+        ],
+        "id": 62285,
+        "origin_country": [
+            "US"
+        ],
+        "original_language": "en",
+        "original_name": "Marvel's The Defenders",
+        "overview": "Daredevil, Jessica Jones, Luke Cage and Iron Fist join forces to take on common enemies as a sinister conspiracy threatens New York City.",
+        "popularity": 98.026,
+        "poster_path": "/49XzINhH4LFsgz7cx6TOPcHUJUL.jpg",
+        "first_air_date": "2017-08-18",
+        "name": "Marvel's The Defenders",
+        "vote_average": 7.074,
+        "vote_count": 1371,
+        "cast": [
+            {
+                "id": 23458,
+                "nome": "Charlie Cox",
+                "personagem": "Matt Murdock / Daredevil",
+                "data_nascimento": "1982-12-15",
+                "sexo_ator": 2
+            },
+            {
+                "id": 78080,
+                "nome": "Krysten Ritter",
+                "personagem": "Jessica Jones",
+                "data_nascimento": "1981-12-16",
+                "sexo_ator": 1
+            },
+            {
+                "id": 450,
+                "nome": "Mike Colter",
+                "personagem": "Luke Cage",
+                "data_nascimento": "1976-08-26",
+                "sexo_ator": 2
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/6AMu666ED8qPbep6iYtue11awvW.jpg",
+        "genre_ids": [
+            80,
+            10759,
+            18
+        ],
+        "id": 71790,
+        "origin_country": [
+            "US"
+        ],
+        "original_language": "en",
+        "original_name": "S.W.A.T.",
+        "overview": "A locally born and bred S.W.A.T. lieutenant is torn between loyalty to the streets and duty to his fellow officers when he's tasked to run a highly-trained unit that's the last stop for solving crimes in Los Angeles.",
+        "popularity": 1047.092,
+        "poster_path": "/1l7vsAIkqOzrqiPwjO27Cb5QdfJ.jpg",
+        "first_air_date": "2017-11-02",
+        "name": "S.W.A.T.",
+        "vote_average": 8.116,
+        "vote_count": 1337,
+        "cast": [
+            {
+                "id": 50266,
+                "nome": "Shemar Moore",
+                "personagem": "Daniel 'Hondo' Harrelson",
+                "data_nascimento": "1970-04-20",
+                "sexo_ator": 2
+            },
+            {
+                "id": 108889,
+                "nome": "Jay Harrington",
+                "personagem": "David 'Deacon' Kay",
+                "data_nascimento": "1971-11-15",
+                "sexo_ator": 2
+            },
+            {
+                "id": 1353288,
+                "nome": "David Lim",
+                "personagem": "Victor Tan",
+                "data_nascimento": "1983-09-23",
+                "sexo_ator": 2
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/fh2CStc3fKFYhkKOFyUHBGksRWj.jpg",
+        "genre_ids": [
+            80,
+            18,
+            10759,
+            10765
+        ],
+        "id": 79788,
+        "origin_country": [
+            "US"
+        ],
+        "original_language": "en",
+        "original_name": "Watchmen",
+        "overview": "Set in an alternate history where “superheroes” are treated as outlaws, “Watchmen” embraces the nostalgia of the original groundbreaking graphic novel while attempting to break new ground of its own.",
+        "popularity": 63.514,
+        "poster_path": "/m8rWq3j73ZGhDuSCZWMMoE9ePH1.jpg",
+        "first_air_date": "2019-10-20",
+        "name": "Watchmen",
+        "vote_average": 7.675,
+        "vote_count": 1330,
+        "cast": [
+            {
+                "id": 9788,
+                "nome": "Regina King",
+                "personagem": "Angela Abar / Sister Night",
+                "data_nascimento": "1971-01-15",
+                "sexo_ator": 1
+            },
+            {
+                "id": 1639847,
+                "nome": "Yahya Abdul-Mateen II",
+                "personagem": "Cal Abar",
+                "data_nascimento": "1986-07-15",
+                "sexo_ator": 2
+            },
+            {
+                "id": 16940,
+                "nome": "Jeremy Irons",
+                "personagem": "Adrian Veidt / Ozymandias",
+                "data_nascimento": "1948-09-19",
+                "sexo_ator": 2
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/sMPGLb2cjsE7K4T0h4Vsiv93V5J.jpg",
+        "genre_ids": [
+            35,
+            9648,
+            80
+        ],
+        "id": 107113,
+        "origin_country": [
+            "US"
+        ],
+        "original_language": "en",
+        "original_name": "Only Murders in the Building",
+        "overview": "Three strangers share an obsession with true crime and suddenly find themselves wrapped up in one.",
+        "popularity": 164.646,
+        "poster_path": "/yhx6PnU3L2a6FnEFGOlBKTZ8TSD.jpg",
+        "first_air_date": "2021-08-31",
+        "name": "Only Murders in the Building",
+        "vote_average": 8.319,
+        "vote_count": 1325,
+        "cast": [
+            {
+                "id": 67773,
+                "nome": "Steve Martin",
+                "personagem": "Charles-Haden Savage",
+                "data_nascimento": "1945-08-14",
+                "sexo_ator": 2
+            },
+            {
+                "id": 519,
+                "nome": "Martin Short",
+                "personagem": "Oliver Putnam",
+                "data_nascimento": "1950-03-26",
+                "sexo_ator": 2
+            },
+            {
+                "id": 77948,
+                "nome": "Selena Gomez",
+                "personagem": "Mabel Mora",
+                "data_nascimento": "1992-07-22",
+                "sexo_ator": 1
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/j1csA5FdMJjcmI19Hk3dmoTCfqE.jpg",
+        "genre_ids": [
+            80,
+            18,
+            9648
+        ],
+        "id": 21510,
+        "origin_country": [
+            "US"
+        ],
+        "original_language": "en",
+        "original_name": "White Collar",
+        "overview": "In exchange for his freedom, charming con artist Neal Caffrey provides his expertise to help straight-man FBI agent Peter Burke catch elusive white-collar criminals.",
+        "popularity": 555.477,
+        "poster_path": "/417XNiGvdzCsG9kDnnQJYaBsIrx.jpg",
+        "first_air_date": "2009-10-23",
+        "name": "White Collar",
+        "vote_average": 8.268,
+        "vote_count": 1321,
+        "cast": [
+            {
+                "id": 66743,
+                "nome": "Matt Bomer",
+                "personagem": "Neal Caffrey",
+                "data_nascimento": "1977-10-11",
+                "sexo_ator": 2
+            },
+            {
+                "id": 76001,
+                "nome": "Tim DeKay",
+                "personagem": "Peter Burke",
+                "data_nascimento": "1963-06-12",
+                "sexo_ator": 2
+            },
+            {
+                "id": 1542,
+                "nome": "Willie Garson",
+                "personagem": "Mozzie",
+                "data_nascimento": "1964-02-20",
+                "sexo_ator": 2
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/7X1IGIl1JMJ9YFzJymCVoqZbvTR.jpg",
+        "genre_ids": [
+            18,
+            9648,
+            80
+        ],
+        "id": 115004,
+        "origin_country": [
+            "US"
+        ],
+        "original_language": "en",
+        "original_name": "Mare of Easttown",
+        "overview": "A detective in a small Pennsylvania town investigates a local murder while trying to keep her life from falling apart.",
+        "popularity": 113.984,
+        "poster_path": "/78aK4Msbr22A5PGa6PZV0pAvdwf.jpg",
+        "first_air_date": "2021-04-18",
+        "name": "Mare of Easttown",
+        "vote_average": 8.235,
+        "vote_count": 1281,
+        "cast": [
+            {
+                "id": 204,
+                "nome": "Kate Winslet",
+                "personagem": "Marianne 'Mare' Sheehan",
+                "data_nascimento": "1975-10-05",
+                "sexo_ator": 1
+            },
+            {
+                "id": 5376,
+                "nome": "Jean Smart",
+                "personagem": "Helen Fahey",
+                "data_nascimento": "1951-09-13",
+                "sexo_ator": 1
+            },
+            {
+                "id": 86034,
+                "nome": "Julianne Nicholson",
+                "personagem": "Lori Ross",
+                "data_nascimento": "1971-07-01",
+                "sexo_ator": 1
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/64jEzC7YeKEpnn1YwjCGRo9ZvOX.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 80968,
+        "origin_country": [
+            "US"
+        ],
+        "original_language": "en",
+        "original_name": "Narcos: Mexico",
+        "overview": "See the rise of the Guadalajara Cartel as an American DEA agent learns the danger of targeting narcos in 1980s Mexico.",
+        "popularity": 105.289,
+        "poster_path": "/aXwMx8OvRFMfI1RmkbJm6Bq1jVg.jpg",
+        "first_air_date": "2018-11-16",
+        "name": "Narcos: Mexico",
+        "vote_average": 7.929,
+        "vote_count": 1271,
+        "cast": [
+            {
+                "id": 59233,
+                "nome": "Scoot McNairy",
+                "personagem": "Walt Breslin",
+                "data_nascimento": "1977-11-11",
+                "sexo_ator": 2
+            },
+            {
+                "id": 72128,
+                "nome": "José María Yázpik",
+                "personagem": "Amado Carrillo Fuentes",
+                "data_nascimento": "1970-11-30",
+                "sexo_ator": 2
+            },
+            {
+                "id": 1809025,
+                "nome": "Alejandro Edda",
+                "personagem": "Joaquín 'El Chapo' Guzmán",
+                "data_nascimento": "1984-05-17",
+                "sexo_ator": 2
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/qbxoEhlxNcyr7GjG2SXTShWn32m.jpg",
+        "genre_ids": [
+            16,
+            10759,
+            80,
+            18
+        ],
+        "id": 80623,
+        "origin_country": [
+            "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "バキ",
+        "overview": "While martial arts champion Baki Hanma trains hard to surpass his legendary father, five violent death row inmates descend upon Tokyo to take him on.",
+        "popularity": 241.193,
+        "poster_path": "/j4bL0G8h8k49MuXKYfZqhXqk2rI.jpg",
+        "first_air_date": "2018-06-26",
+        "name": "BAKI",
+        "vote_average": 8.128,
+        "vote_count": 1268,
+        "cast": [
+            {
+                "id": 1210634,
+                "nome": "Nobunaga Shimazaki",
+                "personagem": "Hanma Baki",
+                "data_nascimento": "1988-12-06",
+                "sexo_ator": 2
+            },
+            {
+                "id": 135524,
+                "nome": "Kenjiro Tsuda",
+                "personagem": "Sikorsky",
+                "data_nascimento": "1971-06-11",
+                "sexo_ator": 2
+            },
+            {
+                "id": 84508,
+                "nome": "Takehito Koyasu",
+                "personagem": "Doyle",
+                "data_nascimento": "1967-05-05",
+                "sexo_ator": 2
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/mceCXNTny6a5F3rQgShLoyARw4l.jpg",
+        "genre_ids": [
+            18,
+            10765,
+            80
+        ],
+        "id": 96648,
+        "origin_country": [
+            "KR"
+        ],
+        "original_language": "ko",
+        "original_name": "스위트홈",
+        "overview": "As humans turn into savage monsters and the world plunges into terror, a handful of survivors fight for their lives — and to hold on to their humanity.",
+        "popularity": 286.388,
+        "poster_path": "/7wbPHetLZnyL6hwqrfEPnLNKnXu.jpg",
+        "first_air_date": "2020-12-18",
+        "name": "Sweet Home",
+        "vote_average": 8.346,
+        "vote_count": 1260,
+        "cast": [
+            {
+                "id": 1878952,
+                "nome": "Song Kang",
+                "personagem": "Cha Hyun-su",
+                "data_nascimento": "1994-04-23",
+                "sexo_ator": 2
+            },
+            {
+                "id": 1787992,
+                "nome": "Go Min-si",
+                "personagem": "Lee Eun-yu",
+                "data_nascimento": "1995-02-15",
+                "sexo_ator": 1
+            },
+            {
+                "id": 1299479,
+                "nome": "Lee Jin-wook",
+                "personagem": "Pyeon Sang-wook",
+                "data_nascimento": "1981-09-16",
+                "sexo_ator": 2
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/2eR0H27Us1tvbjd95oW7WhiKioC.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 72750,
+        "origin_country": [
+            "US"
+        ],
+        "original_language": "en",
+        "original_name": "Killing Eve",
+        "overview": "A security consultant hunts for a ruthless assassin. Equally obsessed with each other, they go head to head in an epic game of cat-and-mouse.",
+        "popularity": 226.792,
+        "poster_path": "/4wKhTVw8aGq5AZMa0Q1spERdi7n.jpg",
+        "first_air_date": "2018-04-08",
+        "name": "Killing Eve",
+        "vote_average": 7.966,
+        "vote_count": 1228,
+        "cast": [
+            {
+                "id": 25540,
+                "nome": "Sandra Oh",
+                "personagem": "Eve Polastri",
+                "data_nascimento": "1971-07-20",
+                "sexo_ator": 1
+            },
+            {
+                "id": 1388593,
+                "nome": "Jodie Comer",
+                "personagem": "Villanelle",
+                "data_nascimento": "1993-03-11",
+                "sexo_ator": 1
+            },
+            {
+                "id": 10981,
+                "nome": "Fiona Shaw",
+                "personagem": "Carolyn Martens",
+                "data_nascimento": "1958-07-10",
+                "sexo_ator": 1
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/fmPo20ZTzxNketxL2jt6ZX6KSPi.jpg",
+        "genre_ids": [
+            10759,
+            18,
+            10765,
+            80
+        ],
+        "id": 2384,
+        "origin_country": [
+            "US"
+        ],
+        "original_language": "en",
+        "original_name": "Knight Rider",
+        "overview": "Michael Long, an undercover police officer, is shot while investigating a case and left for dead by his assailants. He is rescued by Wilton Knight, a wealthy, dying millionaire and inventor who arranges life-saving surgery, including a new face and a new identity--that of Michael Knight. Michael is then given a special computerized and indestructible car called the Knight Industries Two Thousand (nicknamed KITT), and a mission: apprehend criminals who are beyond the reach of the law. The series depicts Michael's exploits as he and KITT battle the forces of evil on behalf of the Foundation for Law and Government.",
+        "popularity": 123.002,
+        "poster_path": "/t57NXzTrwp5rnPXiaX4BThrDxt1.jpg",
+        "first_air_date": "1982-09-26",
+        "name": "Knight Rider",
+        "vote_average": 7.533,
+        "vote_count": 1221,
+        "cast": [
+            {
+                "id": 28238,
+                "nome": "David Hasselhoff",
+                "personagem": "Michael Knight",
+                "data_nascimento": "1952-07-17",
+                "sexo_ator": 2
+            },
+            {
+                "id": 30125,
+                "nome": "Edward Mulhare",
+                "personagem": "Devon Miles",
+                "data_nascimento": "1923-04-08",
+                "sexo_ator": 2
+            },
+            {
+                "id": 10775,
+                "nome": "William Daniels",
+                "personagem": "K.I.T.T. (voice)",
+                "data_nascimento": "1927-03-31",
+                "sexo_ator": 2
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/5ssgDp28z1Nif6hR8OFrNQUspd4.jpg",
+        "genre_ids": [
+            18,
+            9648,
+            10766,
+            80
+        ],
+        "id": 45815,
+        "origin_country": [
+            "BR"
+        ],
+        "original_language": "pt",
+        "original_name": "Avenida Brasil",
+        "overview": "Brazil Avenue is a dynamic, lifelike, and modern telenovela that reveals how unrelenting ambition and inflicted cruelty can change a young girl’s destiny and lead her to seek revenge.\n\n",
+        "popularity": 132.921,
+        "poster_path": "/3wH4kZ0hdoizAcgqCgp3gUD1fFq.jpg",
+        "first_air_date": "2012-03-26",
+        "name": "Brazil Avenue",
+        "vote_average": 8.099,
+        "vote_count": 1218,
+        "cast": [
+            {
+                "id": 138328,
+                "nome": "Débora Falabella",
+                "personagem": "Nina García Hernández / Rita Fonseca de Souza",
+                "data_nascimento": "1979-02-22",
+                "sexo_ator": 1
+            },
+            {
+                "id": 1241212,
+                "nome": "Adriana Esteves",
+                "personagem": "Carmem Lúcia Moreira de Araújo (Carminha)",
+                "data_nascimento": "1969-12-15",
+                "sexo_ator": 1
+            },
+            {
+                "id": 55824,
+                "nome": "Murilo Benício",
+                "personagem": "Jorge Araújo (Tufão)",
+                "data_nascimento": "1972-07-13",
+                "sexo_ator": 2
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/vZePKXaSO3537aJTxifE3Rrwobb.jpg",
+        "genre_ids": [
+            80,
+            18,
+            9648
+        ],
+        "id": 1431,
+        "origin_country": [
+            "US"
+        ],
+        "original_language": "en",
+        "original_name": "CSI: Crime Scene Investigation",
+        "overview": "A Las Vegas team of forensic investigators are trained to solve criminal cases by scouring the crime scene, collecting irrefutable evidence and finding the missing pieces that solve the mystery.",
+        "popularity": 2205.089,
+        "poster_path": "/i5hmoRjHNWady4AtAGICTUXknKH.jpg",
+        "first_air_date": "2000-10-06",
+        "name": "CSI: Crime Scene Investigation",
+        "vote_average": 7.608,
+        "vote_count": 1196,
+        "cast": [
+            {
+                "id": 12836,
+                "nome": "Ted Danson",
+                "personagem": "D.B. Russell",
+                "data_nascimento": "1947-12-29",
+                "sexo_ator": 2
+            },
+            {
+                "id": 117484,
+                "nome": "George Eads",
+                "personagem": "Nick Stokes",
+                "data_nascimento": "1967-03-01",
+                "sexo_ator": 2
+            },
+            {
+                "id": 536,
+                "nome": "Jorja Fox",
+                "personagem": "Sara Sidle",
+                "data_nascimento": "1968-07-07",
+                "sexo_ator": 1
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/D2DL5b9HBAy9jST2ZaDJLNHEsY.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 54650,
+        "origin_country": [
+            "CA",
+            "US"
+        ],
+        "original_language": "en",
+        "original_name": "Power",
+        "overview": "A successful New York entrepreneur lives a double life as the head of a drug empire that serves only the rich and influential, all while wanting to escape the underworld and keep his family safe.",
+        "popularity": 262.312,
+        "poster_path": "/ctftzvyj8b0odco7EoS9VfJhf7K.jpg",
+        "first_air_date": "2014-06-07",
+        "name": "Power",
+        "vote_average": 7.692,
+        "vote_count": 1181,
+        "cast": [
+            {
+                "id": 41556,
+                "nome": "Omari Hardwick",
+                "personagem": "James 'Ghost' St. Patrick",
+                "data_nascimento": "1974-01-09",
+                "sexo_ator": 2
+            },
+            {
+                "id": 82631,
+                "nome": "Joseph Sikora",
+                "personagem": "Tommy Egan",
+                "data_nascimento": "1976-06-27",
+                "sexo_ator": 2
+            },
+            {
+                "id": 101519,
+                "nome": "Naturi Naughton",
+                "personagem": "Tasha St. Patrick",
+                "data_nascimento": "1984-05-20",
+                "sexo_ator": 1
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/tQZtXSYDzQUaASZYMfakoNo9DC3.jpg",
+        "genre_ids": [
+            80,
+            18,
+            10765
+        ],
+        "id": 90027,
+        "origin_country": [
+            "US"
+        ],
+        "original_language": "en",
+        "original_name": "Carnival Row",
+        "overview": "In a mystical and dark city filled with humans, fairies and other creatures, a police detective investigates a series of gruesome murders leveled against the fairy population. During his investigation, the detective becomes the prime suspect and must find the real killer to clear his name.",
+        "popularity": 45.007,
+        "poster_path": "/jyhxT10e2z9IDsKoIQDKhyxSQJt.jpg",
+        "first_air_date": "2019-08-29",
+        "name": "Carnival Row",
+        "vote_average": 7.741,
+        "vote_count": 1175,
+        "cast": [
+            {
+                "id": 114,
+                "nome": "Orlando Bloom",
+                "personagem": "Rycroft 'Philo' Philostrate",
+                "data_nascimento": "1977-01-13",
+                "sexo_ator": 2
+            },
+            {
+                "id": 1289968,
+                "nome": "Cara Delevingne",
+                "personagem": "Vignette Stonemoss",
+                "data_nascimento": "1992-08-12",
+                "sexo_ator": 1
+            },
+            {
+                "id": 16358,
+                "nome": "Simon McBurney",
+                "personagem": "Runyan Millworthy",
+                "data_nascimento": "1957-08-25",
+                "sexo_ator": 2
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/dYvIUzdh6TUv4IFRq8UBkX7bNNu.jpg",
+        "genre_ids": [
+            18,
+            80,
+            9648
+        ],
+        "id": 120168,
+        "origin_country": [
+            "MX"
+        ],
+        "original_language": "es",
+        "original_name": "¿Quién mató a Sara?",
+        "overview": "Hell-bent on exacting revenge and proving he was framed for his sister's murder, Álex sets out to unearth much more than the crime's real culprit.",
+        "popularity": 107.324,
+        "poster_path": "/o7uk5ChRt3quPIv8PcvPfzyXdMw.jpg",
+        "first_air_date": "2021-03-24",
+        "name": "Who Killed Sara?",
+        "vote_average": 7.62,
+        "vote_count": 1155,
+        "cast": [
+            {
+                "id": 66914,
+                "nome": "Manolo Cardona",
+                "personagem": "Álex Guzmán",
+                "data_nascimento": "1977-04-25",
+                "sexo_ator": 2
+            },
+            {
+                "id": 3000971,
+                "nome": "Carolina Miranda",
+                "personagem": "Elisa Lazcano",
+                "data_nascimento": "1990-06-26",
+                "sexo_ator": 1
+            },
+            {
+                "id": 24923,
+                "nome": "Ginés García Millán",
+                "personagem": "César Lazcano",
+                "data_nascimento": "1964-09-10",
+                "sexo_ator": 2
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ypYVX2NEm0F3HVXlqwvkwMVsW2R.jpg",
+        "genre_ids": [
+            18,
+            16,
+            10759,
+            80
+        ],
+        "id": 105009,
+        "origin_country": [
+            "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "東京リベンジャーズ",
+        "overview": "Takemichi Hanagaki is a freelancer that’s reached the absolute pits of despair in his life. He finds out that the only girlfriend he ever had, in middle school, Hinata Tachibana, had been killed by the ruthless Tokyo Manji Gang. The day after hearing about her death, he’s standing on the station platform and ends up being pushed over onto the tracks by a herd of people. He closes his eyes thinking he’s about to die, but when he opens his eyes back up, he somehow had gone back in time 12 years. Now that he’s back living the best days of his life, Takemichi decides to get revenge on his life.",
+        "popularity": 298.177,
+        "poster_path": "/arB3L9pZZBSzUPSC8BEv8c3X0bF.jpg",
+        "first_air_date": "2021-04-11",
+        "name": "Tokyo Revengers",
+        "vote_average": 8.477,
+        "vote_count": 1144,
+        "cast": [
+            {
+                "id": 2603957,
+                "nome": "Yuuki Shin",
+                "personagem": "Takemichi Hanagaki (voice)",
+                "data_nascimento": "1994-03-06",
+                "sexo_ator": 2
+            },
+            {
+                "id": 1647634,
+                "nome": "Azumi Waki",
+                "personagem": "Hinata Tachibana (voice)",
+                "data_nascimento": "1994-09-08",
+                "sexo_ator": 1
+            },
+            {
+                "id": 1324468,
+                "nome": "Ryota Osaka",
+                "personagem": "Naoto Tachibana (voice)",
+                "data_nascimento": "1986-08-02",
+                "sexo_ator": 2
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/cwosIp9M9B6TcLnv0bBg86s0WUx.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 41727,
+        "origin_country": [
+            "US"
+        ],
+        "original_language": "en",
+        "original_name": "Banshee",
+        "overview": "Banshee is an American drama television series set in a small town in Pennsylvania Amish country and features an enigmatic ex-con posing as a murdered sheriff who imposes his own brand of justice while also cooking up plans that serve his own interests.",
+        "popularity": 218.997,
+        "poster_path": "/5nXFiz8Rn8eezVjSTZBd7HmnF1G.jpg",
+        "first_air_date": "2013-01-11",
+        "name": "Banshee",
+        "vote_average": 7.966,
+        "vote_count": 1132,
+        "cast": [
+            {
+                "id": 60373,
+                "nome": "Antony Starr",
+                "personagem": "Lucas Hood",
+                "data_nascimento": "1975-10-25",
+                "sexo_ator": 2
+            },
+            {
+                "id": 29930,
+                "nome": "Ivana Miličević",
+                "personagem": "Anastasia / Carrie Hopewell",
+                "data_nascimento": "1974-04-26",
+                "sexo_ator": 1
+            },
+            {
+                "id": 4455,
+                "nome": "Ulrich Thomsen",
+                "personagem": "Kai Proctor",
+                "data_nascimento": "1963-12-06",
+                "sexo_ator": 2
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/9bdNwt53JFU1b6oor8eDipNO79i.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 31268,
+        "origin_country": [
+            "CO"
+        ],
+        "original_language": "es",
+        "original_name": "El Capo",
+        "overview": "El Capo, the most wanted drug dealer in Mexico, has been intercepted while hiding with his trusted men, his wife and his lover. During his escape, he declares war on the government and his own past.",
+        "popularity": 128.122,
+        "poster_path": "/hTwfFidPtRU3BUH8mK90jWyPyBr.jpg",
+        "first_air_date": "2009-08-24",
+        "name": "El Capo",
+        "vote_average": 7.658,
+        "vote_count": 1132,
+        "cast": [
+            {
+                "id": 588943,
+                "nome": "Marlon Moreno",
+                "personagem": "Pedro Pablo León Jaramillo 'El Capo'",
+                "data_nascimento": "1966-05-18",
+                "sexo_ator": 2
+            },
+            {
+                "id": 1251173,
+                "nome": "Katherine Vélez",
+                "personagem": "Isabel Cristina Marín",
+                "data_nascimento": null,
+                "sexo_ator": 0
+            },
+            {
+                "id": 1251178,
+                "nome": "Óscar Borda",
+                "personagem": "Osvaldo Tovar 'Tato'",
+                "data_nascimento": null,
+                "sexo_ator": 2
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/dAepkmD4vdfhS82r2OIqF1nwGR5.jpg",
+        "genre_ids": [
+            10759,
+            18,
+            80,
+            9648
+        ],
+        "id": 17610,
+        "origin_country": [
+            "US"
+        ],
+        "original_language": "en",
+        "original_name": "NCIS: Los Angeles",
+        "overview": "The exploits of the Los Angeles–based Office of Special Projects (OSP), an elite division of the Naval Criminal Investigative Service that specializes in undercover assignments.",
+        "popularity": 1154.948,
+        "poster_path": "/TIIgcznwNfNr3KOZvxn26eKV99.jpg",
+        "first_air_date": "2009-09-22",
+        "name": "NCIS: Los Angeles",
+        "vote_average": 7.538,
+        "vote_count": 1121,
+        "cast": [
+            {
+                "id": 5577,
+                "nome": "Chris O'Donnell",
+                "personagem": "G. Callen",
+                "data_nascimento": "1970-06-26",
+                "sexo_ator": 2
+            },
+            {
+                "id": 221019,
+                "nome": "Daniela Ruah",
+                "personagem": "Kensi Blye",
+                "data_nascimento": "1983-12-02",
+                "sexo_ator": 1
+            },
+            {
+                "id": 29020,
+                "nome": "Eric Christian Olsen",
+                "personagem": "Marty Deeks",
+                "data_nascimento": "1977-05-31",
+                "sexo_ator": 2
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/lJ9fIVfI5rYBRjnjbBYGVxS74tc.jpg",
+        "genre_ids": [
+            9648,
+            18,
+            80
+        ],
+        "id": 81354,
+        "origin_country": [
+            "US"
+        ],
+        "original_language": "en",
+        "original_name": "Ratched",
+        "overview": "An origins story, beginning in 1947, which follows Ratched's journey and evolution from nurse to full-fledged monster tracking her murderous progression through the mental health care system.",
+        "popularity": 63.731,
+        "poster_path": "/mDakjPhBYXIKSgeDiWl7hBzvsrD.jpg",
+        "first_air_date": "2020-09-18",
+        "name": "Ratched",
+        "vote_average": 7.707,
+        "vote_count": 1083,
+        "cast": [
+            {
+                "id": 34490,
+                "nome": "Sarah Paulson",
+                "personagem": "Nurse Mildred Ratched",
+                "data_nascimento": "1974-12-17",
+                "sexo_ator": 1
+            },
+            {
+                "id": 168877,
+                "nome": "Finn Wittrock",
+                "personagem": "Edmund Tolleson",
+                "data_nascimento": "1984-10-28",
+                "sexo_ator": 2
+            },
+            {
+                "id": 1224010,
+                "nome": "Jon Jon Briones",
+                "personagem": "Dr. Richard Hanover",
+                "data_nascimento": "1965-08-07",
+                "sexo_ator": 2
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/5ME2ayualWbyWaZYLWLjIivSi36.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 70828,
+        "origin_country": [
+            "ZA"
+        ],
+        "original_language": "es",
+        "original_name": "Alias JJ",
+        "overview": "As the Medellín Cartel crumbles, Pablo Escobar's No. 1 hit man struggles to stay alive and gain respect in the prison hierarchy.",
+        "popularity": 77.059,
+        "poster_path": "/iaIFLYKIInDohWnq2Lm63PKipi6.jpg",
+        "first_air_date": "2017-02-08",
+        "name": "Surviving Escobar - Alias JJ",
+        "vote_average": 7.774,
+        "vote_count": 1078,
+        "cast": [
+            {
+                "id": 1919397,
+                "nome": "Juan Pablo Urrego",
+                "personagem": "J.J.",
+                "data_nascimento": "1986-01-30",
+                "sexo_ator": 2
+            },
+            {
+                "id": 2312985,
+                "nome": "Toto Vega",
+                "personagem": "Iván Darío Urrego",
+                "data_nascimento": "1970-09-23",
+                "sexo_ator": 2
+            },
+            {
+                "id": 2312986,
+                "nome": "Ramsés Ramos",
+                "personagem": "Tulio Galeno",
+                "data_nascimento": null,
+                "sexo_ator": 0
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/rEjhgSvSPlsQOkmYXNzairEvXWB.jpg",
+        "genre_ids": [
+            18,
+            80,
+            9648
+        ],
+        "id": 62823,
+        "origin_country": [
+            "US"
+        ],
+        "original_language": "en",
+        "original_name": "Scream: The TV Series",
+        "overview": "What starts as a YouTube video going viral, soon leads to problems for the teenagers of Lakewood and serves as the catalyst for a murder that opens up a window to the town's troubled past. Everyone has secrets. Everyone tells lies. Everyone is fair game.",
+        "popularity": 130.318,
+        "poster_path": "/cTRUcUnAydqboYfis0IhhY1edDt.jpg",
+        "first_air_date": "2015-06-30",
+        "name": "Scream: The TV Series",
+        "vote_average": 6.866,
+        "vote_count": 1076,
+        "cast": [
+            {
+                "id": 1394670,
+                "nome": "RJ Cyler",
+                "personagem": "Deion Elliot",
+                "data_nascimento": "1995-03-20",
+                "sexo_ator": 2
+            },
+            {
+                "id": 1221085,
+                "nome": "Jessica Sula",
+                "personagem": "Liv Reynolds",
+                "data_nascimento": "1994-05-03",
+                "sexo_ator": 1
+            },
+            {
+                "id": 74688,
+                "nome": "Keke Palmer",
+                "personagem": "Kym",
+                "data_nascimento": "1993-08-26",
+                "sexo_ator": 1
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/uAjMQlbPkVHmUahhCouANlHSDW2.jpg",
+        "genre_ids": [
+            16,
+            9648,
+            10765,
+            10759,
+            18,
+            80
+        ],
+        "id": 83097,
+        "origin_country": [
+            "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "約束のネバーランド",
+        "overview": "Surrounded by a forest and a gated entrance, the Grace Field House is inhabited by orphans happily living together as one big family, looked after by their \"Mama,\" Isabella. Although they are required to take tests daily, the children are free to spend their time as they see fit, usually playing outside, as long as they do not venture too far from the orphanage — a rule they are expected to follow no matter what. However, all good times must come to an end, as every few months, a child is adopted and sent to live with their new family... never to be heard from again.\n\nHowever, the three oldest siblings have their suspicions about what is actually happening at the orphanage, and they are about to discover the cruel fate that awaits the children living at Grace Field, including the twisted nature of their beloved Mama.",
+        "popularity": 168.557,
+        "poster_path": "/oBgRCpAbtMpk1v8wfdsIph7lPQE.jpg",
+        "first_air_date": "2019-01-11",
+        "name": "The Promised Neverland",
+        "vote_average": 8.43,
+        "vote_count": 1070,
+        "cast": [
+            {
+                "id": 1254135,
+                "nome": "Sumire Morohoshi",
+                "personagem": "Emma (voice)",
+                "data_nascimento": "1999-04-23",
+                "sexo_ator": 1
+            },
+            {
+                "id": 1250465,
+                "nome": "Mariya Ise",
+                "personagem": "Ray (voice)",
+                "data_nascimento": "1988-09-25",
+                "sexo_ator": 1
+            },
+            {
+                "id": 2280305,
+                "nome": "Shinei Ueki",
+                "personagem": "Don (voice)",
+                "data_nascimento": null,
+                "sexo_ator": 2
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/e6v08948EZVvLrx0sWpmglguY9e.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 131927,
+        "origin_country": [
+            "US"
+        ],
+        "original_language": "en",
+        "original_name": "Dexter: New Blood",
+        "overview": "10 years after Dexter went missing in the eye of Hurricane Laura, we find him living under an assumed name in the small town of Iron Lake, New York.  Dexter may be embracing his new life, but in the wake of unexpected events in this close-knit community, his Dark Passenger beckons.",
+        "popularity": 101.762,
+        "poster_path": "/9EBKgrFIsCFSV1RZKWhYUdbtGiv.jpg",
+        "first_air_date": "2021-11-07",
+        "name": "Dexter: New Blood",
+        "vote_average": 8.005,
+        "vote_count": 1067,
+        "cast": [
+            {
+                "id": 53820,
+                "nome": "Michael C. Hall",
+                "personagem": "Dexter Morgan / Jim Lindsay",
+                "data_nascimento": "1971-02-01",
+                "sexo_ator": 2
+            },
+            {
+                "id": 2638213,
+                "nome": "Jack Alcott",
+                "personagem": "Harrison Morgan",
+                "data_nascimento": "1999-03-15",
+                "sexo_ator": 2
+            },
+            {
+                "id": 87310,
+                "nome": "Julia Jones",
+                "personagem": "Angela Bishop",
+                "data_nascimento": "1981-01-23",
+                "sexo_ator": 1
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/deYeSmkkUGKetBvtA7MBr4LNQ1c.jpg",
+        "genre_ids": [
+            18,
+            10759,
+            80
+        ],
+        "id": 89393,
+        "origin_country": [
+            "US"
+        ],
+        "original_language": "en",
+        "original_name": "9-1-1: Lone Star",
+        "overview": "Nearly 20 years ago, Owen Strand was the lone survivor of his Manhattan firehouse on 9/11. In the wake of the attack, Owen had the unenviable task of rebuilding his station. After a similar tragedy happens to a firehouse in Austin, Owen, along with his troubled firefighter son, T.K., takes his progressive philosophies of life and firefighting down to Texas, where he helps them start anew. On the surface, Owen is all about big-city style and swagger, but underneath he struggles with a secret he hides from the world - one that could very well end his life.",
+        "popularity": 578.77,
+        "poster_path": "/3bV3trdMZqQOpHEjClrogw8TJzw.jpg",
+        "first_air_date": "2020-01-19",
+        "name": "9-1-1: Lone Star",
+        "vote_average": 8.047,
+        "vote_count": 1052,
+        "cast": [
+            {
+                "id": 2879,
+                "nome": "Rob Lowe",
+                "personagem": "Owen Strand",
+                "data_nascimento": "1964-03-17",
+                "sexo_ator": 2
+            },
+            {
+                "id": 9576,
+                "nome": "Gina Torres",
+                "personagem": "Tommy Vega",
+                "data_nascimento": "1969-04-25",
+                "sexo_ator": 1
+            },
+            {
+                "id": 1140129,
+                "nome": "Ronen Rubinstein",
+                "personagem": "Tyler Kennedy 'T.K.' Strand",
+                "data_nascimento": "1993-11-07",
+                "sexo_ator": 2
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/gNYLylxp5EzopGtIb4XqIzbLtNJ.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 1621,
+        "origin_country": [
+            "US"
+        ],
+        "original_language": "en",
+        "original_name": "Boardwalk Empire",
+        "overview": "Atlantic City at the dawn of Prohibition is a place where the rules don't apply. And the man who runs things -- legally and otherwise -- is the town's treasurer, Enoch \"Nucky\" Thompson, who is equal parts politician and gangster.",
+        "popularity": 284.041,
+        "poster_path": "/3IKbPI1uQFcT7gNHi3la7uwOnsN.jpg",
+        "first_air_date": "2010-09-19",
+        "name": "Boardwalk Empire",
+        "vote_average": 7.976,
+        "vote_count": 1018,
+        "cast": [
+            {
+                "id": 884,
+                "nome": "Steve Buscemi",
+                "personagem": "Enoch \"Nucky\" Thompson",
+                "data_nascimento": "1957-12-13",
+                "sexo_ator": 2
+            },
+            {
+                "id": 9015,
+                "nome": "Kelly Macdonald",
+                "personagem": "Margaret Schroeder / Margaret Thompson",
+                "data_nascimento": "1976-02-23",
+                "sexo_ator": 1
+            },
+            {
+                "id": 335,
+                "nome": "Michael Shannon",
+                "personagem": "Nelson Van Alden",
+                "data_nascimento": "1974-08-07",
+                "sexo_ator": 2
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/37cfVRhYW9ylMqH0ok1sSZXcWWN.jpg",
+        "genre_ids": [
+            10759,
+            80,
+            18
+        ],
+        "id": 81146,
+        "origin_country": [
+            "CO"
+        ],
+        "original_language": "es",
+        "original_name": "Rosario Tijeras",
+        "overview": "Two men from prominent families vie for the affections of a beautiful yet dangerous woman.",
+        "popularity": 38.935,
+        "poster_path": "/13JdedQwxn9hhTM3wFbZL12aFfU.jpg",
+        "first_air_date": "2010-07-23",
+        "name": "Rosario Tijeras",
+        "vote_average": 7.318,
+        "vote_count": 1016,
+        "cast": [
+            {
+                "id": 2092184,
+                "nome": "Maria Fernanda Yepes",
+                "personagem": "Maria del Rosario",
+                "data_nascimento": "1980-12-23",
+                "sexo_ator": 1
+            },
+            {
+                "id": 2092185,
+                "nome": "Sebastian Martinez",
+                "personagem": "Emilio Echegray",
+                "data_nascimento": null,
+                "sexo_ator": 2
+            },
+            {
+                "id": 2092186,
+                "nome": "Andres Sandoval",
+                "personagem": "Antonio de Bedut",
+                "data_nascimento": "1981-11-18",
+                "sexo_ator": 2
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/eJNxLnh62j5aKkfRcJeo1QED2xF.jpg",
+        "genre_ids": [
+            80,
+            18,
+            9648
+        ],
+        "id": 66276,
+        "origin_country": [
+            "US"
+        ],
+        "original_language": "en",
+        "original_name": "The Night Of",
+        "overview": "After a night of partying with a female stranger, a man wakes up to find her stabbed to death and is charged with her murder.",
+        "popularity": 88.719,
+        "poster_path": "/q13XJHdnsmxQL9rXRcnNDrZGHjO.jpg",
+        "first_air_date": "2016-07-10",
+        "name": "The Night Of",
+        "vote_average": 7.96,
+        "vote_count": 1016,
+        "cast": [
+            {
+                "id": 53240,
+                "nome": "Riz Ahmed",
+                "personagem": "Nasir \"Naz\" Khan",
+                "data_nascimento": "1982-12-01",
+                "sexo_ator": 2
+            },
+            {
+                "id": 1241,
+                "nome": "John Turturro",
+                "personagem": "John Stone",
+                "data_nascimento": "1957-02-28",
+                "sexo_ator": 2
+            },
+            {
+                "id": 121718,
+                "nome": "Bill Camp",
+                "personagem": "Dennis Box",
+                "data_nascimento": "1964-10-13",
+                "sexo_ator": 2
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/sNHoOagykUU0WpVBa162w1NP0mP.jpg",
+        "genre_ids": [
+            10759,
+            16,
+            35,
+            10765,
+            80
+        ],
+        "id": 74440,
+        "origin_country": [
+            "US"
+        ],
+        "original_language": "en",
+        "original_name": "Harley Quinn",
+        "overview": "Harley Quinn has finally broken things off once and for all with the Joker and attempts to make it on her own as the criminal Queenpin of Gotham City.",
+        "popularity": 225.741,
+        "poster_path": "/abDkDGruscppQ2zBb2qcrdkRzzH.jpg",
+        "first_air_date": "2019-11-29",
+        "name": "Harley Quinn",
+        "vote_average": 8.4,
+        "vote_count": 1010,
+        "cast": [
+            {
+                "id": 53862,
+                "nome": "Kaley Cuoco",
+                "personagem": "Harley Quinn (voice)",
+                "data_nascimento": "1985-11-30",
+                "sexo_ator": 1
+            },
+            {
+                "id": 25703,
+                "nome": "Lake Bell",
+                "personagem": "Poison Ivy (voice)",
+                "data_nascimento": "1979-03-24",
+                "sexo_ator": 1
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/o36ITLqVgZZ4hY1V5aPZPqZzVRx.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 39852,
+        "origin_country": [
+            "US"
+        ],
+        "original_language": "en",
+        "original_name": "The Sinner",
+        "overview": "In a small New York town, a haunted detective hunts for answers about perplexing crimes while wrestling with his own demons.",
+        "popularity": 96.598,
+        "poster_path": "/rmibFGdqOe0kKKhPls0jVOdZCWw.jpg",
+        "first_air_date": "2017-08-02",
+        "name": "The Sinner",
+        "vote_average": 7.459,
+        "vote_count": 1002,
+        "cast": [
+            {
+                "id": 8984,
+                "nome": "Bill Pullman",
+                "personagem": "Harry Ambrose",
+                "data_nascimento": "1953-12-17",
+                "sexo_ator": 2
+            },
+            {
+                "id": 3713,
+                "nome": "Frances Fisher",
+                "personagem": "Meg Muldoon",
+                "data_nascimento": "1952-05-11",
+                "sexo_ator": 1
+            },
+            {
+                "id": 1357037,
+                "nome": "Alice Kremelberg",
+                "personagem": "Percy Muldoon",
+                "data_nascimento": "1990-02-28",
+                "sexo_ator": 1
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/sqtSI7uHhFSCvTx60pdqPXGhYCF.jpg",
+        "genre_ids": [
+            35,
+            80,
+            18,
+            9648
+        ],
+        "id": 1695,
+        "origin_country": [
+            "US"
+        ],
+        "original_language": "en",
+        "original_name": "Monk",
+        "overview": "Adrian Monk was once a rising star with the San Francisco Police Department, legendary for using unconventional means to solve the department's most baffling cases. But after the tragic (and still unsolved) murder of his wife Trudy, he developed an extreme case of obsessive-compulsive disorder. Now working as a private consultant, Monk continues to investigate cases in the most unconventional ways.",
+        "popularity": 660.41,
+        "poster_path": "/3axGMbUecXXOPSeG47v2i9wK5y5.jpg",
+        "first_air_date": "2002-07-12",
+        "name": "Monk",
+        "vote_average": 7.922,
+        "vote_count": 998,
+        "cast": [
+            {
+                "id": 4252,
+                "nome": "Tony Shalhoub",
+                "personagem": "Adrian Monk",
+                "data_nascimento": "1953-10-09",
+                "sexo_ator": 2
+            },
+            {
+                "id": 15854,
+                "nome": "Ted Levine",
+                "personagem": "Leland Stottlemeyer",
+                "data_nascimento": "1957-05-29",
+                "sexo_ator": 2
+            },
+            {
+                "id": 6166,
+                "nome": "Jason Gray-Stanford",
+                "personagem": "Randall Disher",
+                "data_nascimento": "1970-05-19",
+                "sexo_ator": 2
+            }
+        ]
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/A2qdFRq9oJDC5E7fbgSS4POUMDF.jpg",
+        "genre_ids": [
+            80,
+            18,
+            9648
+        ],
+        "id": 1426,
+        "origin_country": [
+            "GB"
+        ],
+        "original_language": "en",
+        "original_name": "Luther",
+        "overview": "A dark psychological crime drama starring Idris Elba as Luther, a man struggling with his own terrible demons, who might be as dangerous as the depraved murderers he hunts.",
+        "popularity": 214.232,
+        "poster_path": "/hDxOMX8zzH1FiqKWVBzNaYGBkle.jpg",
+        "first_air_date": "2010-05-04",
+        "name": "Luther",
+        "vote_average": 7.851,
+        "vote_count": 996,
+        "cast": [
+            {
+                "id": 17605,
+                "nome": "Idris Elba",
+                "personagem": "DCI John Luther",
+                "data_nascimento": "1972-09-06",
+                "sexo_ator": 2
+            },
+            {
+                "id": 17484,
+                "nome": "Dermot Crowley",
+                "personagem": "DSU Martin Schenk",
+                "data_nascimento": "1947-03-19",
+                "sexo_ator": 2
+            },
+            {
+                "id": 132993,
+                "nome": "Hermione Norris",
+                "personagem": "Vivien Lake",
+                "data_nascimento": "1967-02-12",
+                "sexo_ator": 1
+            }
+        ]
+    }
+]
