@@ -20,4 +20,4 @@
 
 ![caminho_arquivos_json](./Evidencias/exemplo_caminho_arquivo_tmdb.png)
 
-## [Exercicios](./Exercicios/Readme.md)
+## [Exercícios](./Exercicios/Readme.md) 
