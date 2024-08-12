@@ -79,7 +79,7 @@ def selecting_columns_series(csv_series):
         col("personagem"),
         col("anoNascimento"),
         col("generoArtista") 
-    )
+    ).where(col("genero").contains("Crime"))
 
 
     return csv_series_correct, csv_series_cast
@@ -103,7 +103,7 @@ def selecting_columns_movies(csv_movies):
         col("personagem"),
         col("anoNascimento"),
         col("generoArtista") 
-    )
+    ).where(col("genero").contains("Crime"))
 
 
     return csv_movies_correct, csv_movies_cast
