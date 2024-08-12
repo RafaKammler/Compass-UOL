@@ -311,7 +311,6 @@ A função utiliza o método `write` do PySpark para salvar os arquivos no forma
 
 A função `main` é o coração do script, orquestrando todas as funções previamente definidas para realizar a tarefa de criação da camada *refined*. Ela é responsável por executar cada etapa do processo, desde a conexão com a AWS até a escrita dos dados refinados no S3.
 
-
 A função se conecta à AWS utilizando a função `aws_connection` e, em seguida, lê os arquivos Parquet armazenados no S3 usando a função `reading_parquet_files`. Os prefixos que indicam os caminhos dos arquivos dentro do bucket são definidos em uma lista e passados para a função de leitura.
 
 ```python
@@ -331,14 +330,12 @@ csv_movies, csv_series, csv_movies_cast, csv_series_cast = separating_csv_datafr
 tmdb_movies, tmdb_series, tmdb_movies_cast, tmdb_series_cast, tmdb_movies_genders, tmdb_series_genders = separating_tmdb_dataframes(dataframes)
 ```
 
-
 As funções de padronização (`padronizing_csv_dfs` e `padronizing_tmdb_dfs`) são chamadas para garantir que todos os DataFrames tenham uma estrutura consistente, facilitando as etapas subsequentes de agrupamento e união.
 
 ```python
 csv_movies_padronized, csv_series_padronized, csv_movies_cast_padronized, csv_series_cast_padronized = padronizing_csv_dfs(csv_movies, csv_series, csv_movies_cast, csv_series_cast)
 tmdb_movies_padronized, tmdb_series_padronized, tmdb_movies_cast_padronized, tmdb_series_cast_padronized, tmdb_movies_genders_padronized, tmdb_series_genders_padronized = padronizing_tmdb_dfs(tmdb_movies, tmdb_series, tmdb_movies_cast, tmdb_series_cast, tmdb_movies_genders, tmdb_series_genders)
 ```
-
 
 Os DataFrames padronizados são agrupados em conjuntos específicos para filmes, séries, elenco, e gêneros usando as funções `grouping_all_actors`, `grouping_all_movies`, `grouping_all_series`, e `grouping_all_genres`.
 
@@ -349,14 +346,12 @@ all_series = grouping_all_series(csv_series_padronized, tmdb_series_padronized)
 all_genres = grouping_all_genres(tmdb_movies_genders_padronized, tmdb_series_genders_padronized, csv_movies_padronized, csv_series_padronized)
 ```
 
-
 As funções `creating_dim_tables` e `creating_fact_table` são então chamadas para gerar as tabelas dimensão e a tabela fato que compõem a camada *refined*.
 
 ```python
 dim_movies, dim_series, dim_time, dim_cast, dim_genres = creating_dim_tables(all_cast, all_series, all_movies, all_genres)
 fact_table = creating_fact_table(dim_movies, dim_series, dim_time, dim_cast, all_cast, all_movies, all_series, dim_genres)
 ```
-
 
 Por fim, os DataFrames são escritos no S3. Para isso, são definidos os caminhos onde cada DataFrame deve ser salvo e a função `writing_to_s3` é chamada em um loop para salvar cada um deles.
 
