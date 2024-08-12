@@ -28,3 +28,14 @@
 
 ![](./Evidencias/Screenshot%20from%202024-08-12%2001-52-12.png)
 
+## Alterações nas perguntas
+
+- Qual a proporção da aparição de atrizes em series de genero "Crime" antes e depois dos anos 2000, e qual a diferença entre essa proporção e a proporção em filmes de mesmo genero?
+
+- ~~Qual a proporção entre jovens, adultos e idosos tendo como papel ator/atriz, com o passar dos anos e qual a ligação entre essa quantidade em filmes e séries?~~
+
+- Quais atores foram os que mais apareceram em filmes e/ou series do genero crime
+
+- Qual a combinação de genero com a maior popularidade quando relacionada a crimes
+
+- A data de lançamento de um filme é proporcial a sua popularidade?
